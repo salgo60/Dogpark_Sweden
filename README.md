@@ -22,4 +22,8 @@
 <img src="DogparkSweden.jpg" alt="Dogpark Sweden" width="800" height="800">
 <img src="DogParkSwedenPhoto.png" alt="Dogpark Sweden Photo">
 
+----
+<img src="DogparkSweden_2.jpg" alt="Dogpark Sweden Photo 2">
+
+
 
