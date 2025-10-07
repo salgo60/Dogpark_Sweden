@@ -22,6 +22,8 @@
 </tr>
 </table>
 <b>Status 20251007</b><br /><br />
+<img src="Minplats2.jpg" alt="Dogpark Sweden 20251007 Minplats" width="100" height="100"><img src="Minplats.jpg" alt="Dogpark Sweden 20251007 Minplats" width="100" height="100" >
+----
 <img src="Dog%20park%20Sweden%2020251007.jpg" alt="Dogpark Sweden 20251007" width="800" height="800">
 
 ---
