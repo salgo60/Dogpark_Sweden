@@ -21,6 +21,10 @@
 </td>
 </tr>
 </table>
+<b>Status 20251007 - Stockholm Stads öppna data</b> https://github.com/salgo60/Dogpark_Sweden/issues/10 <br /><br />
+<img src="SAT_Dogpark_sthlm.png" alt="Dogpark Stockholm 20251007 " width="800" height="800">
+
+----
 <b>Status 20251007 - Stockholm Archipelago Trail </b> https://github.com/salgo60/Dogpark_Sweden/issues/7 <br /><br />
 <img src="SAT_Dogpark.png" alt="Dogpark Sweden 20251007 Minplats" width="800" height="800">
 
