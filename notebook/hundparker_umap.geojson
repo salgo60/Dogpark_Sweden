@@ -13680,6 +13680,1488 @@
         "url": "https://www.hundlistan.se/listing/hundlekplats-noltorp/",
         "popup": "<b>Hundlekplats Noltorp</b><br>\n            Arrendegatan 235, 441 56 Alingsås, Sverige<br>\n            Västra götaland<br>\n            <a href=\"https://www.hundlistan.se/listing/hundlekplats-noltorp/\" target=\"_blank\">Visa på Hundlistan</a>"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.83042,
+          56.68
+        ]
+      },
+      "properties": {
+        "id": "listing-id-820",
+        "namn": "Mickedala hundrastgård - Halmstad",
+        "adress": "Venusgränd, 302 35 Halmstad",
+        "lan": "Stockholm",
+        "url": "https://www.hundlistan.se/listing/mickedala-hundrastgard/",
+        "hemsida": "https://www.halmstad.se/upplevaochgora/idrottmotionochfriluftsliv/friluftslivochmotion/hundrastning.n3403.html",
+        "popup": "<b>Mickedala hundrastgård - Halmstad</b><br>\n            Venusgränd, 302 35 Halmstad<br>\n            Stockholm<br>\n            <a href=\"https://www.hundlistan.se/listing/mickedala-hundrastgard/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://www.halmstad.se/upplevaochgora/idrottmotionochfriluftsliv/friluftslivochmotion/hundrastning.n3403.html\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.92602,
+          56.47697
+        ]
+      },
+      "properties": {
+        "id": "listing-id-831",
+        "namn": "Hundbad skummeslövsstrand - Skummeslövsstrand",
+        "adress": "Strandridarevägen 63, 312 71 Skummeslövsstrand",
+        "lan": "Stockholm",
+        "url": "https://www.hundlistan.se/listing/hundbad-skummeslovsstrand/",
+        "hemsida": "https://visitlaholm.se/uppleva-och-gora/12-kilometer-sandstrand",
+        "popup": "<b>Hundbad skummeslövsstrand - Skummeslövsstrand</b><br>\n            Strandridarevägen 63, 312 71 Skummeslövsstrand<br>\n            Stockholm<br>\n            <a href=\"https://www.hundlistan.se/listing/hundbad-skummeslovsstrand/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://visitlaholm.se/uppleva-och-gora/12-kilometer-sandstrand\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.82532,
+          56.67165
+        ]
+      },
+      "properties": {
+        "id": "listing-id-821",
+        "namn": "Rotorps hundrastgård - Halmstad",
+        "adress": "Fågelvägen 45, 302 37 Halmstad",
+        "lan": "Stockholm",
+        "url": "https://www.hundlistan.se/listing/rotorps-hundrastgard/",
+        "hemsida": "https://www.halmstad.se/upplevaochgora/idrottmotionochfriluftsliv/friluftslivochmotion/hundrastning.n3403.html",
+        "popup": "<b>Rotorps hundrastgård - Halmstad</b><br>\n            Fågelvägen 45, 302 37 Halmstad<br>\n            Stockholm<br>\n            <a href=\"https://www.hundlistan.se/listing/rotorps-hundrastgard/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://www.halmstad.se/upplevaochgora/idrottmotionochfriluftsliv/friluftslivochmotion/hundrastning.n3403.html\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.05036,
+          56.49735
+        ]
+      },
+      "properties": {
+        "id": "listing-id-832",
+        "namn": "Glänninge hundrastgård - Laholm",
+        "adress": "F3W2+W4, 312 96 Laholm",
+        "lan": "Stockholm",
+        "url": "https://www.hundlistan.se/listing/glanninge-hundrastgard/",
+        "hemsida": "https://www.hallandsposten.se/nyheter/laholm/stort-vilthagn-saker-lekplats-for-hundar.c6995cc6-fe24-4aa4-a99c-a697e84b31d9",
+        "popup": "<b>Glänninge hundrastgård - Laholm</b><br>\n            F3W2+W4, 312 96 Laholm<br>\n            Stockholm<br>\n            <a href=\"https://www.hundlistan.se/listing/glanninge-hundrastgard/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://www.hallandsposten.se/nyheter/laholm/stort-vilthagn-saker-lekplats-for-hundar.c6995cc6-fe24-4aa4-a99c-a697e84b31d9\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.61689,
+          60.62098
+        ]
+      },
+      "properties": {
+        "id": "listing-id-760",
+        "namn": "Hundpark Kålgården - Falun",
+        "adress": "791 70 Falun",
+        "lan": "Stockholm",
+        "url": "https://www.hundlistan.se/listing/hundpark-kalgarden/",
+        "hemsida": "https://www.falun.se/trafik-gata--park/torg-och-allmanna-platser/parker-och-gronomraden/hundrastgardar.html",
+        "popup": "<b>Hundpark Kålgården - Falun</b><br>\n            791 70 Falun<br>\n            Stockholm<br>\n            <a href=\"https://www.hundlistan.se/listing/hundpark-kalgarden/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://www.falun.se/trafik-gata--park/torg-och-allmanna-platser/parker-och-gronomraden/hundrastgardar.html\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.61802,
+          60.61796
+        ]
+      },
+      "properties": {
+        "id": "listing-id-771",
+        "namn": "Kålgården - Falun",
+        "adress": "Trotzgatan 109, 791 72 Falun",
+        "lan": "Stockholm",
+        "url": "https://www.hundlistan.se/listing/kalgarden/",
+        "hemsida": "https://www.falun.se/gora--uppleva/idrott-motion-och-friluftsliv/badplatser.html",
+        "popup": "<b>Kålgården - Falun</b><br>\n            Trotzgatan 109, 791 72 Falun<br>\n            Stockholm<br>\n            <a href=\"https://www.hundlistan.se/listing/kalgarden/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://www.falun.se/gora--uppleva/idrott-motion-och-friluftsliv/badplatser.html\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9751,
+          60.27639
+        ]
+      },
+      "properties": {
+        "id": "listing-id-761",
+        "namn": "Hedemora Hundrastgård - Hedemora",
+        "adress": "Västra Järnvägsgatan 10, 776 35 Hedemora",
+        "lan": "Stockholm",
+        "url": "https://www.hundlistan.se/listing/hedemora-hundrastgard/",
+        "hemsida": "https://hedemora.se/gator-och-trafik/regler-pa-offentliga-platser/rastning-av-hund/",
+        "popup": "<b>Hedemora Hundrastgård - Hedemora</b><br>\n            Västra Järnvägsgatan 10, 776 35 Hedemora<br>\n            Stockholm<br>\n            <a href=\"https://www.hundlistan.se/listing/hedemora-hundrastgard/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://hedemora.se/gator-och-trafik/regler-pa-offentliga-platser/rastning-av-hund/\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.97103,
+          63.15145
+        ]
+      },
+      "properties": {
+        "id": "listing-id-735",
+        "namn": "Vålådalens naturreservat - Vålådalen",
+        "adress": "837 75 Vålådalen",
+        "lan": "Stockholm",
+        "url": "https://www.hundlistan.se/listing/valadalens-naturreservat/",
+        "hemsida": "https://www.valadalen.se/sv",
+        "popup": "<b>Vålådalens naturreservat - Vålådalen</b><br>\n            837 75 Vålådalen<br>\n            Stockholm<br>\n            <a href=\"https://www.hundlistan.se/listing/valadalens-naturreservat/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://www.valadalen.se/sv\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.34242,
+          63.12178
+        ]
+      },
+      "properties": {
+        "id": "listing-id-736",
+        "namn": "Hammarstrands Camping Hundrastgård - Hammarstrand",
+        "adress": "Koppelhällsvägen 18, 844 32 Hammarstrand",
+        "lan": "Stockholm",
+        "url": "https://www.hundlistan.se/listing/hammarstrands-camping-hundrastgard/",
+        "hemsida": "https://www.pitchup.com/sv/campsites/sweden/norrland/jamtland/hammarstrand/hammarstrands_camping/",
+        "popup": "<b>Hammarstrands Camping Hundrastgård - Hammarstrand</b><br>\n            Koppelhällsvägen 18, 844 32 Hammarstrand<br>\n            Stockholm<br>\n            <a href=\"https://www.hundlistan.se/listing/hammarstrands-camping-hundrastgard/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://www.pitchup.com/sv/campsites/sweden/norrland/jamtland/hammarstrand/hammarstrands_camping/\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.66747,
+          62.5176
+        ]
+      },
+      "properties": {
+        "id": "listing-id-712",
+        "namn": "Kapellbackens Hundrastgård - Ånge",
+        "adress": "Åsgatan, 841 34 Ånge",
+        "lan": "Västernorrland",
+        "url": "https://www.hundlistan.se/listing/kapellbackens-hundrastgard/",
+        "hemsida": null,
+        "popup": "<b>Kapellbackens Hundrastgård - Ånge</b><br>\n            Åsgatan, 841 34 Ånge<br>\n            Västernorrland<br>\n            <a href=\"https://www.hundlistan.se/listing/kapellbackens-hundrastgard/\" target=\"_blank\">Visa på Hundlistan</a><br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.75631,
+          59.61924
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1564",
+        "namn": "Hundrastgård Glimmervägen - Sigtuna",
+        "adress": "193 41 Sigtuna",
+        "lan": "Stockholm",
+        "url": "https://www.hundlistan.se/listing/hundrastgard-glimmervagen/",
+        "hemsida": "https://www.sigtuna.se/kultur-och-fritid/friluftsliv-idrott-och-motion/hundrastgardar.html",
+        "popup": "<b>Hundrastgård Glimmervägen - Sigtuna</b><br>\n            193 41 Sigtuna<br>\n            Stockholm<br>\n            <a href=\"https://www.hundlistan.se/listing/hundrastgard-glimmervagen/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://www.sigtuna.se/kultur-och-fritid/friluftsliv-idrott-och-motion/hundrastgardar.html\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.91568,
+          59.43644
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1554",
+        "namn": "Hundrastgård Järvafältet nära Bögs Gård - Sollentuna",
+        "adress": "CWP8+H7, 191 62 Sollentuna",
+        "lan": "Stockholm",
+        "url": "https://www.hundlistan.se/listing/hundrastgard-jarvafaltet-nara-bogs-gard/",
+        "hemsida": "https://www.sollentuna.se/hundrastgardar",
+        "popup": "<b>Hundrastgård Järvafältet nära Bögs Gård - Sollentuna</b><br>\n            CWP8+H7, 191 62 Sollentuna<br>\n            Stockholm<br>\n            <a href=\"https://www.hundlistan.se/listing/hundrastgard-jarvafaltet-nara-bogs-gard/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://www.sollentuna.se/hundrastgardar\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.82119,
+          59.48062
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1542",
+        "namn": "Finnhamns Hundrastgård - Finnhamn",
+        "adress": "FRJC+6F, 184 99 Finnhamn",
+        "lan": "Stockholm",
+        "url": "https://www.hundlistan.se/listing/finnhamns-hundrastgard/",
+        "hemsida": "https://finnhamn.se/aktiviteter/",
+        "popup": "<b>Finnhamns Hundrastgård - Finnhamn</b><br>\n            FRJC+6F, 184 99 Finnhamn<br>\n            Stockholm<br>\n            <a href=\"https://www.hundlistan.se/listing/finnhamns-hundrastgard/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://finnhamn.se/aktiviteter/\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8339,
+          59.42577
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1522",
+        "namn": "Hundrastgård Slöjdvägen Viksjöleden - Järfälla",
+        "adress": "Slöjdvägen 3, 177 59 Järfälla",
+        "lan": "Stockholm",
+        "url": "https://www.hundlistan.se/listing/hundrastgard-slojdvagen-viksjoleden/",
+        "hemsida": "https://www.jarfalla.se/kultur-idrott-och-fritid/natur-och-friluftsliv/hundrastgardar.html",
+        "popup": "<b>Hundrastgård Slöjdvägen Viksjöleden - Järfälla</b><br>\n            Slöjdvägen 3, 177 59 Järfälla<br>\n            Stockholm<br>\n            <a href=\"https://www.hundlistan.se/listing/hundrastgard-slojdvagen-viksjoleden/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://www.jarfalla.se/kultur-idrott-och-fritid/natur-och-friluftsliv/hundrastgardar.html\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.22197,
+          59.36994
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1533",
+        "namn": "Furutorp hundhage - Lidingö",
+        "adress": "Furutorpsvägen 1, 181 90 Lidingö",
+        "lan": "Stockholm",
+        "url": "https://www.hundlistan.se/listing/furutorp-hundhage/",
+        "hemsida": "https://naturkartan.se/sv/lidingo/hundhage-furutorp",
+        "popup": "<b>Furutorp hundhage - Lidingö</b><br>\n            Furutorpsvägen 1, 181 90 Lidingö<br>\n            Stockholm<br>\n            <a href=\"https://www.hundlistan.se/listing/furutorp-hundhage/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://naturkartan.se/sv/lidingo/hundhage-furutorp\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.81862,
+          59.37002
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1488",
+        "namn": "Hundrastgård Oxtungan - Hässelby",
+        "adress": "Neptunistigen 10, 165 71 Hässelby",
+        "lan": "Stockholm",
+        "url": "https://www.hundlistan.se/listing/hundrastgard-oxtungan/",
+        "hemsida": "https://parker.stockholm/hundrastplatser/",
+        "popup": "<b>Hundrastgård Oxtungan - Hässelby</b><br>\n            Neptunistigen 10, 165 71 Hässelby<br>\n            Stockholm<br>\n            <a href=\"https://www.hundlistan.se/listing/hundrastgard-oxtungan/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://parker.stockholm/hundrastplatser/\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.58196,
+          59.20303
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1464",
+        "namn": "Hyggesvägens Hundrastgård - Södertälje",
+        "adress": "Hyggesvägen 1, 151 54 Södertälje",
+        "lan": "Stockholm",
+        "url": "https://www.hundlistan.se/listing/hyggesvagens-hundrastgard/",
+        "hemsida": "https://www.sodertalje.se/stad-och-trafik/natur-i-staden/",
+        "popup": "<b>Hyggesvägens Hundrastgård - Södertälje</b><br>\n            Hyggesvägen 1, 151 54 Södertälje<br>\n            Stockholm<br>\n            <a href=\"https://www.hundlistan.se/listing/hyggesvagens-hundrastgard/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://www.sodertalje.se/stad-och-trafik/natur-i-staden/\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.94029,
+          58.91274
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1454",
+        "namn": "Hundrastgård Backlura (gamla dansbanan) - Nynäshamn",
+        "adress": "Backluravägen 17, 149 43 Nynäshamn",
+        "lan": "Stockholm",
+        "url": "https://www.hundlistan.se/listing/hundrastgard-backlura-dansbanan/",
+        "hemsida": "https://nynashamn.se/service/kultur--fritid/fritid/hundrastgardar-och-hundvanliga-badplatser",
+        "popup": "<b>Hundrastgård Backlura (gamla dansbanan) - Nynäshamn</b><br>\n            Backluravägen 17, 149 43 Nynäshamn<br>\n            Stockholm<br>\n            <a href=\"https://www.hundlistan.se/listing/hundrastgard-backlura-dansbanan/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://nynashamn.se/service/kultur--fritid/fritid/hundrastgardar-och-hundvanliga-badplatser\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.23886,
+          59.30602
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1393",
+        "namn": "Tollare Hundrastgård - Saltsjö-boo",
+        "adress": "Sockenvägen 46, 132 42 Saltsjö-boo",
+        "lan": "Stockholm",
+        "url": "https://www.hundlistan.se/listing/tollare-hundrastgard/",
+        "hemsida": "https://www.nacka.se/uppleva--gora/friluftsliv-motion/hundar-i-nacka/hundrastgardar/",
+        "popup": "<b>Tollare Hundrastgård - Saltsjö-boo</b><br>\n            Sockenvägen 46, 132 42 Saltsjö-boo<br>\n            Stockholm<br>\n            <a href=\"https://www.hundlistan.se/listing/tollare-hundrastgard/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://www.nacka.se/uppleva--gora/friluftsliv-motion/hundar-i-nacka/hundrastgardar/\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.98524,
+          59.28931
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1383",
+        "namn": "Västertorp Hundgård - Stockholm",
+        "adress": "129 30 Stockholm",
+        "lan": "Stockholm",
+        "url": "https://www.hundlistan.se/listing/vastertorp-hundgard/",
+        "hemsida": "https://parker.stockholm/hundrastplatser/",
+        "popup": "<b>Västertorp Hundgård - Stockholm</b><br>\n            129 30 Stockholm<br>\n            Stockholm<br>\n            <a href=\"https://www.hundlistan.se/listing/vastertorp-hundgard/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://parker.stockholm/hundrastplatser/\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.09751,
+          59.2475
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1362",
+        "namn": "Farsta Hundrastgård - Farsta",
+        "adress": "123 42 Farsta",
+        "lan": "Stockholm",
+        "url": "https://www.hundlistan.se/listing/farsta-hundrastgard/",
+        "hemsida": "https://www.facebook.com/groups/255757012714790/info/?_rdr",
+        "popup": "<b>Farsta Hundrastgård - Farsta</b><br>\n            123 42 Farsta<br>\n            Stockholm<br>\n            <a href=\"https://www.hundlistan.se/listing/farsta-hundrastgard/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://www.facebook.com/groups/255757012714790/info/?_rdr\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.00669,
+          59.29371
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1373",
+        "namn": "Hundrastgård Elektraparken - Hägersten",
+        "adress": "Elektravägen 77, 126 30 Hägersten",
+        "lan": "Stockholm",
+        "url": "https://www.hundlistan.se/listing/hundrastgard-elektraparken/",
+        "hemsida": "https://parker.stockholm/hundrastplatser/",
+        "popup": "<b>Hundrastgård Elektraparken - Hägersten</b><br>\n            Elektravägen 77, 126 30 Hägersten<br>\n            Stockholm<br>\n            <a href=\"https://www.hundlistan.se/listing/hundrastgard-elektraparken/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://parker.stockholm/hundrastplatser/\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.05707,
+          59.31614
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1349",
+        "namn": "Hundrastgård Wollmar Yxkullsgatan 25 - Stockholm",
+        "adress": "Wollmar Yxkullsgatan 25, 118 52 Stockholm",
+        "lan": "Stockholm",
+        "url": "https://www.hundlistan.se/listing/hundrastgard-wollmar-yxkullsgatan-25/",
+        "hemsida": "https://parker.stockholm/hundrastplatser/",
+        "popup": "<b>Hundrastgård Wollmar Yxkullsgatan 25 - Stockholm</b><br>\n            Wollmar Yxkullsgatan 25, 118 52 Stockholm<br>\n            Stockholm<br>\n            <a href=\"https://www.hundlistan.se/listing/hundrastgard-wollmar-yxkullsgatan-25/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://parker.stockholm/hundrastplatser/\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.04122,
+          59.31858
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1339",
+        "namn": "Hundrastgård Kristinehovsgatan 1 - Stockholm",
+        "adress": "Kristinehovsgatan 1, 117 29 Stockholm",
+        "lan": "Stockholm",
+        "url": "https://www.hundlistan.se/listing/hundrastgard-kristinehovsgatan-1/",
+        "hemsida": "https://parker.stockholm/hundrastplatser/",
+        "popup": "<b>Hundrastgård Kristinehovsgatan 1 - Stockholm</b><br>\n            Kristinehovsgatan 1, 117 29 Stockholm<br>\n            Stockholm<br>\n            <a href=\"https://www.hundlistan.se/listing/hundrastgard-kristinehovsgatan-1/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://parker.stockholm/hundrastplatser/\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.09967,
+          59.35784
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1331",
+        "namn": "Östra Hjorthagsparken hundrastningsområde - Stockholm",
+        "adress": "115 42 Stockholm",
+        "lan": "Stockholm",
+        "url": "https://www.hundlistan.se/listing/ostra-hjorthagsparken-hundrastningsomrade/",
+        "hemsida": "https://parker.stockholm/hundrastplatser/",
+        "popup": "<b>Östra Hjorthagsparken hundrastningsområde - Stockholm</b><br>\n            115 42 Stockholm<br>\n            Stockholm<br>\n            <a href=\"https://www.hundlistan.se/listing/ostra-hjorthagsparken-hundrastningsomrade/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://parker.stockholm/hundrastplatser/\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.59261,
+          59.92622
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1299",
+        "namn": "Strandvägen Hundrastgård - Sala",
+        "adress": "Strandvägen, 733 35 Sala",
+        "lan": "Västmanland",
+        "url": "https://www.hundlistan.se/listing/strandvagen-hundrastgard/",
+        "hemsida": "https://www.sala.se/info/4535/",
+        "popup": "<b>Strandvägen Hundrastgård - Sala</b><br>\n            Strandvägen, 733 35 Sala<br>\n            Västmanland<br>\n            <a href=\"https://www.hundlistan.se/listing/strandvagen-hundrastgard/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://www.sala.se/info/4535/\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9724,
+          58.18208
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1257",
+        "namn": "Hundrastplats Tidaholm - Tidaholm",
+        "adress": "Smedjegatan 18 (på vänster sida bakom Elverket från centrum, sett, 522 33 Tidaholm",
+        "lan": "Västra götaland",
+        "url": "https://www.hundlistan.se/listing/hundrastplats-tidaholm/",
+        "hemsida": "https://www.tidaholm.se/bygga-bo-miljo--trafik/djur--natur/djur-i-tatort.html",
+        "popup": "<b>Hundrastplats Tidaholm - Tidaholm</b><br>\n            Smedjegatan 18 (på vänster sida bakom Elverket från centrum, sett, 522 33 Tidaholm<br>\n            Västra götaland<br>\n            <a href=\"https://www.hundlistan.se/listing/hundrastplats-tidaholm/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://www.tidaholm.se/bygga-bo-miljo--trafik/djur--natur/djur-i-tatort.html\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6575,
+          57.49775
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1252",
+        "namn": "Hundrastgård Skene - Skene",
+        "adress": "Nilsagårdsgatan 10, 511 64 Skene",
+        "lan": "Västra götaland",
+        "url": "https://www.hundlistan.se/listing/hundrastgard-skene/",
+        "hemsida": "https://www.mark.se/uppleva-och-gora/bad-idrott-och-friluftsliv/hundrastgardar",
+        "popup": "<b>Hundrastgård Skene - Skene</b><br>\n            Nilsagårdsgatan 10, 511 64 Skene<br>\n            Västra götaland<br>\n            <a href=\"https://www.hundlistan.se/listing/hundrastgard-skene/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://www.mark.se/uppleva-och-gora/bad-idrott-och-friluftsliv/hundrastgardar\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.33105,
+          58.37418
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1242",
+        "namn": "Vänersborgs Hundrastgård - Vänersborg",
+        "adress": "Belfragegatan 32, 462 37 Vänersborg",
+        "lan": "Västra götaland",
+        "url": "https://www.hundlistan.se/listing/vanersborgs-hundrastgard/",
+        "hemsida": "https://vanersborg.se/bygga-bo-och-miljo/parker-och-gronomraden/hundrastgard",
+        "popup": "<b>Vänersborgs Hundrastgård - Vänersborg</b><br>\n            Belfragegatan 32, 462 37 Vänersborg<br>\n            Västra götaland<br>\n            <a href=\"https://www.hundlistan.se/listing/vanersborgs-hundrastgard/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://vanersborg.se/bygga-bo-och-miljo/parker-och-gronomraden/hundrastgard\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1169,
+          58.13727
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1243",
+        "namn": "Hundrastgård Ströms slottspark - Lilla Edet",
+        "adress": "Strandvägen 1, 463 32 Lilla Edet",
+        "lan": "Västra götaland",
+        "url": "https://www.hundlistan.se/listing/hundrastgard-stroms-slottspark/",
+        "hemsida": "https://lillaedet.se/uppleva-och-gora/motesplatser/stroms-slottspark",
+        "popup": "<b>Hundrastgård Ströms slottspark - Lilla Edet</b><br>\n            Strandvägen 1, 463 32 Lilla Edet<br>\n            Västra götaland<br>\n            <a href=\"https://www.hundlistan.se/listing/hundrastgard-stroms-slottspark/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://lillaedet.se/uppleva-och-gora/motesplatser/stroms-slottspark\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.28305,
+          58.36426
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1233",
+        "namn": "Wiggerswiks Hundgård - Kungshamn",
+        "adress": "Vägga, 456 34 Kungshamn",
+        "lan": "Västra götaland",
+        "url": "https://www.hundlistan.se/listing/wiggerswiks-hundgard/",
+        "hemsida": "https://wiggersvik.se/",
+        "popup": "<b>Wiggerswiks Hundgård - Kungshamn</b><br>\n            Vägga, 456 34 Kungshamn<br>\n            Västra götaland<br>\n            <a href=\"https://www.hundlistan.se/listing/wiggerswiks-hundgard/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://wiggersvik.se/\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.89624,
+          57.65331
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1193",
+        "namn": "Hundrastgård Smyckeparken - Västra Frölunda",
+        "adress": "Björkhöjdsgatan 23, 426 51 Västra Frölunda",
+        "lan": "Västra götaland",
+        "url": "https://www.hundlistan.se/listing/hundrastgard-smyckeparken/",
+        "hemsida": "https://goteborg.se/wps/portal/start/uppleva-och-gora/parker-och-lekplatser/for-dig-som-ar-hundagare/hundrastgardar/?id=4917",
+        "popup": "<b>Hundrastgård Smyckeparken - Västra Frölunda</b><br>\n            Björkhöjdsgatan 23, 426 51 Västra Frölunda<br>\n            Västra götaland<br>\n            <a href=\"https://www.hundlistan.se/listing/hundrastgard-smyckeparken/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://goteborg.se/wps/portal/start/uppleva-och-gora/parker-och-lekplatser/for-dig-som-ar-hundagare/hundrastgardar/?id=4917\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.00762,
+          57.64427
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1204",
+        "namn": "Hundrastgård Nedanvägsgatan - Mölndal",
+        "adress": "Södra Nedanvägsgatan 20C, 431 62 Mölndal",
+        "lan": "Västra götaland",
+        "url": "https://www.hundlistan.se/listing/hundrastgard-nedanvagsgatan/",
+        "hemsida": "https://www.molndal.se/startsida/uppleva-och-gora/idrott-motion-och-friluftsliv/friluftsliv-och-motion/hundrastgardar.html",
+        "popup": "<b>Hundrastgård Nedanvägsgatan - Mölndal</b><br>\n            Södra Nedanvägsgatan 20C, 431 62 Mölndal<br>\n            Västra götaland<br>\n            <a href=\"https://www.hundlistan.se/listing/hundrastgard-nedanvagsgatan/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://www.molndal.se/startsida/uppleva-och-gora/idrott-motion-och-friluftsliv/friluftsliv-och-motion/hundrastgardar.html\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.85518,
+          57.66836
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1194",
+        "namn": "Hinsholmskilens hundrastgård - Västra Frölunda",
+        "adress": "Saltholmsgatan 19B, 426 76 Västra Frölunda",
+        "lan": "Västra götaland",
+        "url": "https://www.hundlistan.se/listing/hinsholmskilens-hundrastgard/",
+        "hemsida": "https://goteborg.se/wps/portal/start/uppleva-och-gora/parker-och-lekplatser/for-dig-som-ar-hundagare/hundrastgardar/?id=5664",
+        "popup": "<b>Hinsholmskilens hundrastgård - Västra Frölunda</b><br>\n            Saltholmsgatan 19B, 426 76 Västra Frölunda<br>\n            Västra götaland<br>\n            <a href=\"https://www.hundlistan.se/listing/hinsholmskilens-hundrastgard/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://goteborg.se/wps/portal/start/uppleva-och-gora/parker-och-lekplatser/for-dig-som-ar-hundagare/hundrastgardar/?id=5664\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1089,
+          57.73646
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1205",
+        "namn": "Hundleken hundrastgård - Partille",
+        "adress": "Nedre Furuskogsvägen 2, 433 35 Partille",
+        "lan": "Västra götaland",
+        "url": "https://www.hundlistan.se/listing/hundleken-hundrastgard/",
+        "hemsida": "https://www.partille.se/uppleva--gora/idrott--friluftsliv/hundrastgard/",
+        "popup": "<b>Hundleken hundrastgård - Partille</b><br>\n            Nedre Furuskogsvägen 2, 433 35 Partille<br>\n            Västra götaland<br>\n            <a href=\"https://www.hundlistan.se/listing/hundleken-hundrastgard/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://www.partille.se/uppleva--gora/idrott--friluftsliv/hundrastgard/\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.94194,
+          57.71666
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1185",
+        "namn": "Hundrastgård Villa Parkudden - Göteborg",
+        "adress": "Villa Parkudden 10, 417 09 Göteborg",
+        "lan": "Västra götaland",
+        "url": "https://www.hundlistan.se/listing/hundrastgard-villa-parkudden/",
+        "hemsida": "https://goteborg.se/wps/portal/start/uppleva-och-gora/parker-och-lekplatser/for-dig-som-ar-hundagare/hundrastgardar/",
+        "popup": "<b>Hundrastgård Villa Parkudden - Göteborg</b><br>\n            Villa Parkudden 10, 417 09 Göteborg<br>\n            Västra götaland<br>\n            <a href=\"https://www.hundlistan.se/listing/hundrastgard-villa-parkudden/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://goteborg.se/wps/portal/start/uppleva-och-gora/parker-och-lekplatser/for-dig-som-ar-hundagare/hundrastgardar/\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.93466,
+          57.67005
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1175",
+        "namn": "Hundrastgård Marklandsgatan - Göteborg",
+        "adress": "Marklandsgatan 61, 414 77 Göteborg",
+        "lan": "Västra götaland",
+        "url": "https://www.hundlistan.se/listing/hundrastgard-marklandsgatan/",
+        "hemsida": "https://goteborg.se/wps/portal/start/uppleva-och-gora/parker-och-lekplatser/for-dig-som-ar-hundagare/hundrastgardar/?id=6657",
+        "popup": "<b>Hundrastgård Marklandsgatan - Göteborg</b><br>\n            Marklandsgatan 61, 414 77 Göteborg<br>\n            Västra götaland<br>\n            <a href=\"https://www.hundlistan.se/listing/hundrastgard-marklandsgatan/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://goteborg.se/wps/portal/start/uppleva-och-gora/parker-och-lekplatser/for-dig-som-ar-hundagare/hundrastgardar/?id=6657\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.80873,
+          58.34237
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1129",
+        "namn": "Sandens badplats - Sankt Anna",
+        "adress": "Sanden 28, 614 98 Sankt Anna",
+        "lan": "Östergötland",
+        "url": "https://www.hundlistan.se/listing/sandens-badplats/",
+        "hemsida": null,
+        "popup": "<b>Sandens badplats - Sankt Anna</b><br>\n            Sanden 28, 614 98 Sankt Anna<br>\n            Östergötland<br>\n            <a href=\"https://www.hundlistan.se/listing/sandens-badplats/\" target=\"_blank\">Visa på Hundlistan</a><br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.22476,
+          58.56058
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1119",
+        "namn": "Hundrastgård Navestad - Norrköping",
+        "adress": "Navestadsgatan, 603 68 Norrköping",
+        "lan": "Östergötland",
+        "url": "https://www.hundlistan.se/listing/hundrastgard-navestad/",
+        "hemsida": "https://norrkoping.se/se-och-gora/parker-och-lekplatser/hundrastgardar",
+        "popup": "<b>Hundrastgård Navestad - Norrköping</b><br>\n            Navestadsgatan, 603 68 Norrköping<br>\n            Östergötland<br>\n            <a href=\"https://www.hundlistan.se/listing/hundrastgard-navestad/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://norrkoping.se/se-och-gora/parker-och-lekplatser/hundrastgardar\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.59642,
+          58.21469
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1130",
+        "namn": "Valdemarsviks Hundrastgård - Valdemarsvik",
+        "adress": "Norrgatan 42, 615 32 Valdemarsvik",
+        "lan": "Östergötland",
+        "url": "https://www.hundlistan.se/listing/valdemarsviks-hundrastgard/",
+        "hemsida": "https://www.nt.se/nyheter/valdemarsvik/artikel/hundrastgard-pa-plats-i-hundtataste-kommunen-nu-kan-man-ju-inte-ha-hundar-losa-i-skogen/lz3k4v2j",
+        "popup": "<b>Valdemarsviks Hundrastgård - Valdemarsvik</b><br>\n            Norrgatan 42, 615 32 Valdemarsvik<br>\n            Östergötland<br>\n            <a href=\"https://www.hundlistan.se/listing/valdemarsviks-hundrastgard/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://www.nt.se/nyheter/valdemarsvik/artikel/hundrastgard-pa-plats-i-hundtataste-kommunen-nu-kan-man-ju-inte-ha-hundar-losa-i-skogen/lz3k4v2j\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.23719,
+          58.57687
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1120",
+        "namn": "Hundrastgård Smedby - Norrköping",
+        "adress": "Kungsängsleden, 603 70 Norrköping",
+        "lan": "Östergötland",
+        "url": "https://www.hundlistan.se/listing/hundrastgard-smedby/",
+        "hemsida": "https://norrkoping.se/se-och-gora/parker-och-lekplatser/hundrastgardar",
+        "popup": "<b>Hundrastgård Smedby - Norrköping</b><br>\n            Kungsängsleden, 603 70 Norrköping<br>\n            Östergötland<br>\n            <a href=\"https://www.hundlistan.se/listing/hundrastgard-smedby/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://norrkoping.se/se-och-gora/parker-och-lekplatser/hundrastgardar\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.97498,
+          58.54072
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1131",
+        "namn": "KARO - Kimstad",
+        "adress": "617 71 Kimstad",
+        "lan": "Östergötland",
+        "url": "https://www.hundlistan.se/listing/karo/",
+        "hemsida": "https://www.facebook.com/groups/358753597369/",
+        "popup": "<b>KARO - Kimstad</b><br>\n            617 71 Kimstad<br>\n            Östergötland<br>\n            <a href=\"https://www.hundlistan.se/listing/karo/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://www.facebook.com/groups/358753597369/\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.13434,
+          58.57661
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1121",
+        "namn": "Hundrastgård Klockaretorpet Centrum - Norrköping",
+        "adress": "Wilhelm Wibergs gata, 603 77 Norrköping",
+        "lan": "Östergötland",
+        "url": "https://www.hundlistan.se/listing/hundrastgard-klockaretorpet-centrum/",
+        "hemsida": "https://norrkoping.se/se-och-gora/parker-och-lekplatser/hundrastgardar",
+        "popup": "<b>Hundrastgård Klockaretorpet Centrum - Norrköping</b><br>\n            Wilhelm Wibergs gata, 603 77 Norrköping<br>\n            Östergötland<br>\n            <a href=\"https://www.hundlistan.se/listing/hundrastgard-klockaretorpet-centrum/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://norrkoping.se/se-och-gora/parker-och-lekplatser/hundrastgardar\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.90805,
+          58.44628
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1100",
+        "namn": "Vadstena Hundrastgård - Vadstena",
+        "adress": "Magnus Erikssons väg 12, 592 31 Vadstena",
+        "lan": "Östergötland",
+        "url": "https://www.hundlistan.se/listing/vadstena-hundrastgard/",
+        "hemsida": null,
+        "popup": "<b>Vadstena Hundrastgård - Vadstena</b><br>\n            Magnus Erikssons väg 12, 592 31 Vadstena<br>\n            Östergötland<br>\n            <a href=\"https://www.hundlistan.se/listing/vadstena-hundrastgard/\" target=\"_blank\">Visa på Hundlistan</a><br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.15422,
+          58.61059
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1111",
+        "namn": "Hundrastgård Ingelsta - Norrköping",
+        "adress": "De Geersgatan, 602 11 Norrköping",
+        "lan": "Östergötland",
+        "url": "https://www.hundlistan.se/listing/hundrastgard-ingelsta/",
+        "hemsida": "https://norrkoping.se/se-och-gora/parker-och-lekplatser/hundrastgardar",
+        "popup": "<b>Hundrastgård Ingelsta - Norrköping</b><br>\n            De Geersgatan, 602 11 Norrköping<br>\n            Östergötland<br>\n            <a href=\"https://www.hundlistan.se/listing/hundrastgard-ingelsta/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://norrkoping.se/se-och-gora/parker-och-lekplatser/hundrastgardar\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.78944,
+          58.45455
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1101",
+        "namn": "Järnevids friluftsbad - Vadstena",
+        "adress": "592 91 Vadstena",
+        "lan": "Östergötland",
+        "url": "https://www.hundlistan.se/listing/jarnevids-friluftsbad/",
+        "hemsida": null,
+        "popup": "<b>Järnevids friluftsbad - Vadstena</b><br>\n            592 91 Vadstena<br>\n            Östergötland<br>\n            <a href=\"https://www.hundlistan.se/listing/jarnevids-friluftsbad/\" target=\"_blank\">Visa på Hundlistan</a><br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.87349,
+          59.02204
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1085",
+        "namn": "Vretstorps Hundrastgård - Vretstorp",
+        "adress": "Lunnagatan, 694 50 Vretstorp",
+        "lan": "Örebro",
+        "url": "https://www.hundlistan.se/listing/vretstorps-hundrastgard/",
+        "hemsida": "https://www.hallsberg.se/kultur-och-fritid/fritid-och-aktiviteter/hundlekplatser.html",
+        "popup": "<b>Vretstorps Hundrastgård - Vretstorp</b><br>\n            Lunnagatan, 694 50 Vretstorp<br>\n            Örebro<br>\n            <a href=\"https://www.hundlistan.se/listing/vretstorps-hundrastgard/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://www.hallsberg.se/kultur-och-fritid/fritid-och-aktiviteter/hundlekplatser.html\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.28317,
+          56.40039
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1030",
+        "namn": "Hjärtasjöbadet - Lönsboda",
+        "adress": "672, 283 93 Lönsboda",
+        "lan": "Skåne",
+        "url": "https://www.hundlistan.se/listing/hjartasjobadet/",
+        "hemsida": "https://www.allabadplatser.se/a/skane-lan/osby/hjartasjobadet/774/",
+        "popup": "<b>Hjärtasjöbadet - Lönsboda</b><br>\n            672, 283 93 Lönsboda<br>\n            Skåne<br>\n            <a href=\"https://www.hundlistan.se/listing/hjartasjobadet/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://www.allabadplatser.se/a/skane-lan/osby/hjartasjobadet/774/\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.02486,
+          55.58333
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1041",
+        "namn": "Hundrastgård annelund - Malmö",
+        "adress": "Annelund, Malmö",
+        "lan": "Skåne",
+        "url": "https://www.hundlistan.se/listing/hundrastgard-annelund/",
+        "hemsida": "https://malmo.se/Bo-och-leva/Stadsmiljo-och-trafik/Regler-pa-offentliga-platser/Hundrastning.html",
+        "popup": "<b>Hundrastgård annelund - Malmö</b><br>\n            Annelund, Malmö<br>\n            Skåne<br>\n            <a href=\"https://www.hundlistan.se/listing/hundrastgard-annelund/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://malmo.se/Bo-och-leva/Stadsmiljo-och-trafik/Regler-pa-offentliga-platser/Hundrastning.html\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40328,
+          56.14011
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1031",
+        "namn": "Hundrastgården ugglan - Perstorp",
+        "adress": "Bäckavägen, 284 32 Perstorp",
+        "lan": "Skåne",
+        "url": "https://www.hundlistan.se/listing/hundrastgarden-ugglan/",
+        "hemsida": "https://www.kristianstad.se/upplevaochgora/friluftsliv/aktiviteter/hundrastgardar.5035.html",
+        "popup": "<b>Hundrastgården ugglan - Perstorp</b><br>\n            Bäckavägen, 284 32 Perstorp<br>\n            Skåne<br>\n            <a href=\"https://www.hundlistan.se/listing/hundrastgarden-ugglan/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://www.kristianstad.se/upplevaochgora/friluftsliv/aktiviteter/hundrastgardar.5035.html\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1558,
+          56.03395
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1032",
+        "namn": "Bastions hundrastgård - Kristianstad",
+        "adress": "Östra Boulevarden 8, 291 29 Kristianstad",
+        "lan": "Skåne",
+        "url": "https://www.hundlistan.se/listing/bastions-hundrastgard/",
+        "hemsida": "https://www.kristianstad.se/upplevaochgora/friluftsliv/aktiviteter/hundrastgardar.5035.html",
+        "popup": "<b>Bastions hundrastgård - Kristianstad</b><br>\n            Östra Boulevarden 8, 291 29 Kristianstad<br>\n            Skåne<br>\n            <a href=\"https://www.hundlistan.se/listing/bastions-hundrastgard/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://www.kristianstad.se/upplevaochgora/friluftsliv/aktiviteter/hundrastgardar.5035.html\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.99574,
+          56.37968
+        ]
+      },
+      "properties": {
+        "id": "listing-id-1029",
+        "namn": "Centralparken - Osby",
+        "adress": "283 41 Osby",
+        "lan": "Skåne",
+        "url": "https://www.hundlistan.se/listing/centralparken/",
+        "hemsida": "https://www.osby.se/se--gora/upplev-osby-kommun/parker-och-naturomraden.html",
+        "popup": "<b>Centralparken - Osby</b><br>\n            283 41 Osby<br>\n            Skåne<br>\n            <a href=\"https://www.hundlistan.se/listing/centralparken/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://www.osby.se/se--gora/upplev-osby-kommun/parker-och-naturomraden.html\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35236,
+          55.66065
+        ]
+      },
+      "properties": {
+        "id": "listing-id-981",
+        "namn": "Tegelbruksparken - Dalby",
+        "adress": "Elverksvägen 9, 247 56 Dalby",
+        "lan": "Skåne",
+        "url": "https://www.hundlistan.se/listing/tegelbruksparken/",
+        "hemsida": "https://lund.se/uppleva-och-gora/natur-lekplatser-och-parker/hundrastgardar",
+        "popup": "<b>Tegelbruksparken - Dalby</b><br>\n            Elverksvägen 9, 247 56 Dalby<br>\n            Skåne<br>\n            <a href=\"https://www.hundlistan.se/listing/tegelbruksparken/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://lund.se/uppleva-och-gora/natur-lekplatser-och-parker/hundrastgardar\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44408,
+          55.36742
+        ]
+      },
+      "properties": {
+        "id": "listing-id-950",
+        "namn": "Beddinge strandhed naturvårdsområde - Beddingestrand",
+        "adress": "231 76 Beddingestrand",
+        "lan": "Skåne",
+        "url": "https://www.hundlistan.se/listing/beddinge-strandhed-naturvardsomrade/",
+        "hemsida": "https://www.lansstyrelsen.se/skane/besoksmal/naturreservat/trelleborg/beddinge-strandhed-naturvardsomrade.html",
+        "popup": "<b>Beddinge strandhed naturvårdsområde - Beddingestrand</b><br>\n            231 76 Beddingestrand<br>\n            Skåne<br>\n            <a href=\"https://www.hundlistan.se/listing/beddinge-strandhed-naturvardsomrade/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://www.lansstyrelsen.se/skane/besoksmal/naturreservat/trelleborg/beddinge-strandhed-naturvardsomrade.html\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.02004,
+          55.71898
+        ]
+      },
+      "properties": {
+        "id": "listing-id-961",
+        "namn": "Hundrastplats i Bjärred - Bjärred",
+        "adress": "Bjärehov, Aromavägen, 237 34 Bjärred",
+        "lan": "Skåne",
+        "url": "https://www.hundlistan.se/listing/hundrastplats-i-bjarred/",
+        "hemsida": "https://lomma.se/uppleva-och-gora/idrott-motion-natur-och-friluftsliv/friluftsliv-natur-och-motion/hundrastplatser.html",
+        "popup": "<b>Hundrastplats i Bjärred - Bjärred</b><br>\n            Bjärehov, Aromavägen, 237 34 Bjärred<br>\n            Skåne<br>\n            <a href=\"https://www.hundlistan.se/listing/hundrastplats-i-bjarred/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://lomma.se/uppleva-och-gora/idrott-motion-natur-och-friluftsliv/friluftsliv-natur-och-motion/hundrastplatser.html\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.18396,
+          55.36699
+        ]
+      },
+      "properties": {
+        "id": "listing-id-943",
+        "namn": "Hundbadplats Trelleborg - Trelleborg",
+        "adress": "Östra Stranden 30, 231 32 Trelleborg",
+        "lan": "Skåne",
+        "url": "https://www.hundlistan.se/listing/hundbadplats-trelleborg/",
+        "hemsida": "https://www2.visittrelleborg.se/sv/se-gora/343127/hundbadplats-trelleborg/detaljer",
+        "popup": "<b>Hundbadplats Trelleborg - Trelleborg</b><br>\n            Östra Stranden 30, 231 32 Trelleborg<br>\n            Skåne<br>\n            <a href=\"https://www.hundlistan.se/listing/hundbadplats-trelleborg/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://www2.visittrelleborg.se/sv/se-gora/343127/hundbadplats-trelleborg/detaljer\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.19469,
+          55.7319
+        ]
+      },
+      "properties": {
+        "id": "listing-id-933",
+        "namn": "Hundrastgård Fanans gränd - Lund",
+        "adress": "Fanans gränd 12, 226 48 Lund",
+        "lan": "Skåne",
+        "url": "https://www.hundlistan.se/listing/hundrastgard-fanans-grand/",
+        "hemsida": "https://www.dogpackapp.com/parks/sweden/skane/lund/hundrastgard-fanans-grand-12",
+        "popup": "<b>Hundrastgård Fanans gränd - Lund</b><br>\n            Fanans gränd 12, 226 48 Lund<br>\n            Skåne<br>\n            <a href=\"https://www.hundlistan.se/listing/hundrastgard-fanans-grand/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://www.dogpackapp.com/parks/sweden/skane/lund/hundrastgard-fanans-grand-12\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.18959,
+          55.37302
+        ]
+      },
+      "properties": {
+        "id": "listing-id-944",
+        "namn": "Hundrastgård 23134 - Trelleborg",
+        "adress": "231 34 Trelleborg",
+        "lan": "Skåne",
+        "url": "https://www.hundlistan.se/listing/hundrastgard-23134/",
+        "hemsida": "https://www.trelleborg.se/uppleva-gora/idrott-motion-och-friluftsliv/friluftsliv-och-motion/hundrastgardar/",
+        "popup": "<b>Hundrastgård 23134 - Trelleborg</b><br>\n            231 34 Trelleborg<br>\n            Skåne<br>\n            <a href=\"https://www.hundlistan.se/listing/hundrastgard-23134/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://www.trelleborg.se/uppleva-gora/idrott-motion-och-friluftsliv/friluftsliv-och-motion/hundrastgardar/\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.24977,
+          55.69864
+        ]
+      },
+      "properties": {
+        "id": "listing-id-930",
+        "namn": "Hundrastgård Snorres väg - Lund",
+        "adress": "Snorres väg 104, 224 74 Lund",
+        "lan": "Skåne",
+        "url": "https://www.hundlistan.se/listing/hundrastgard-snorres-vag/",
+        "hemsida": "https://lund.se/uppleva-och-gora/natur-lekplatser-och-parker/hundrastgardar",
+        "popup": "<b>Hundrastgård Snorres väg - Lund</b><br>\n            Snorres väg 104, 224 74 Lund<br>\n            Skåne<br>\n            <a href=\"https://www.hundlistan.se/listing/hundrastgard-snorres-vag/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://lund.se/uppleva-och-gora/natur-lekplatser-och-parker/hundrastgardar\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.19027,
+          55.58299
+        ]
+      },
+      "properties": {
+        "id": "listing-id-941",
+        "namn": "Hundrastplats Vråkgatan - Bara",
+        "adress": "Vråkgatan 6, 230 40 Bara",
+        "lan": "Skåne",
+        "url": "https://www.hundlistan.se/listing/hundrastplats-vrakgatan/",
+        "hemsida": null,
+        "popup": "<b>Hundrastplats Vråkgatan - Bara</b><br>\n            Vråkgatan 6, 230 40 Bara<br>\n            Skåne<br>\n            <a href=\"https://www.hundlistan.se/listing/hundrastplats-vrakgatan/\" target=\"_blank\">Visa på Hundlistan</a><br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.23717,
+          55.72133
+        ]
+      },
+      "properties": {
+        "id": "listing-id-931",
+        "namn": "Nobelparkens hundrastgård - Lund",
+        "adress": "224 82 Lund",
+        "lan": "Skåne",
+        "url": "https://www.hundlistan.se/listing/nobelparkens-hundrastgard/",
+        "hemsida": "https://lund.se/uppleva-och-gora/natur-lekplatser-och-parker/hundrastgardar",
+        "popup": "<b>Nobelparkens hundrastgård - Lund</b><br>\n            224 82 Lund<br>\n            Skåne<br>\n            <a href=\"https://www.hundlistan.se/listing/nobelparkens-hundrastgard/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://lund.se/uppleva-och-gora/natur-lekplatser-och-parker/hundrastgardar\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.22969,
+          55.36019
+        ]
+      },
+      "properties": {
+        "id": "listing-id-942",
+        "namn": "Hundrastgård 231 31 - Trelleborg",
+        "adress": "231 31 Trelleborg",
+        "lan": "Skåne",
+        "url": "https://www.hundlistan.se/listing/hundrastgard-231-31/",
+        "hemsida": null,
+        "popup": "<b>Hundrastgård 231 31 - Trelleborg</b><br>\n            231 31 Trelleborg<br>\n            Skåne<br>\n            <a href=\"https://www.hundlistan.se/listing/hundrastgard-231-31/\" target=\"_blank\">Visa på Hundlistan</a><br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.24794,
+          55.7283
+        ]
+      },
+      "properties": {
+        "id": "listing-id-932",
+        "namn": "Kunskapsparkens hundrastgård - Lund",
+        "adress": "P6HX+85, 225 92 Lund",
+        "lan": "Skåne",
+        "url": "https://www.hundlistan.se/listing/kunskapsparkens-hundrastgard/",
+        "hemsida": "https://lund.se/uppleva-och-gora/natur-lekplatser-och-parker/hundrastgardar",
+        "popup": "<b>Kunskapsparkens hundrastgård - Lund</b><br>\n            P6HX+85, 225 92 Lund<br>\n            Skåne<br>\n            <a href=\"https://www.hundlistan.se/listing/kunskapsparkens-hundrastgard/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://lund.se/uppleva-och-gora/natur-lekplatser-och-parker/hundrastgardar\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.93742,
+          55.59359
+        ]
+      },
+      "properties": {
+        "id": "listing-id-913",
+        "namn": "Lagunens hundrastplats - Malmö",
+        "adress": "Ribersborgsstigen, 216 44 Malmö",
+        "lan": "Skåne",
+        "url": "https://www.hundlistan.se/listing/lagunens-hundrastplats/",
+        "hemsida": "https://malmo.se/hund",
+        "popup": "<b>Lagunens hundrastplats - Malmö</b><br>\n            Ribersborgsstigen, 216 44 Malmö<br>\n            Skåne<br>\n            <a href=\"https://www.hundlistan.se/listing/lagunens-hundrastplats/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://malmo.se/hund\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.99264,
+          55.52162
+        ]
+      },
+      "properties": {
+        "id": "listing-id-924",
+        "namn": "Hundpark Ängsövägen - Tygelsjö",
+        "adress": "Ängsövägen 4, 218 74 Tygelsjö",
+        "lan": "Skåne",
+        "url": "https://www.hundlistan.se/listing/hundpark-angsovagen/",
+        "hemsida": "https://malmo.se/Bo-och-leva/Stadsmiljo-och-trafik/Regler-pa-offentliga-platser/Hundrastning.html",
+        "popup": "<b>Hundpark Ängsövägen - Tygelsjö</b><br>\n            Ängsövägen 4, 218 74 Tygelsjö<br>\n            Skåne<br>\n            <a href=\"https://www.hundlistan.se/listing/hundpark-angsovagen/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://malmo.se/Bo-och-leva/Stadsmiljo-och-trafik/Regler-pa-offentliga-platser/Hundrastning.html\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.98761,
+          55.59106
+        ]
+      },
+      "properties": {
+        "id": "listing-id-914",
+        "namn": "Hundrastgård Roskildevägen - Malmö",
+        "adress": "Roskildevägen 26, 217 46 Malmö",
+        "lan": "Skåne",
+        "url": "https://www.hundlistan.se/listing/hundrastgard-roskildevagen/",
+        "hemsida": "https://malmo.se/hund",
+        "popup": "<b>Hundrastgård Roskildevägen - Malmö</b><br>\n            Roskildevägen 26, 217 46 Malmö<br>\n            Skåne<br>\n            <a href=\"https://www.hundlistan.se/listing/hundrastgard-roskildevagen/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://malmo.se/hund\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.17352,
+          55.6901
+        ]
+      },
+      "properties": {
+        "id": "listing-id-925",
+        "namn": "Klostergårdens Hundrastgård - Lund",
+        "adress": "Sunnanväg 18, 222 26 Lund",
+        "lan": "Skåne",
+        "url": "https://www.hundlistan.se/listing/klostergardens-hundrastgard/",
+        "hemsida": "https://lund.se/uppleva-och-gora/natur-lekplatser-och-parker/hundrastgardar",
+        "popup": "<b>Klostergårdens Hundrastgård - Lund</b><br>\n            Sunnanväg 18, 222 26 Lund<br>\n            Skåne<br>\n            <a href=\"https://www.hundlistan.se/listing/klostergardens-hundrastgard/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://lund.se/uppleva-och-gora/natur-lekplatser-och-parker/hundrastgardar\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9768,
+          55.59516
+        ]
+      },
+      "properties": {
+        "id": "listing-id-915",
+        "namn": "Rönneholmsparken - Malmö",
+        "adress": "Nordlinds väg 86, 217 48 Malmö",
+        "lan": "Skåne",
+        "url": "https://www.hundlistan.se/listing/ronneholmsparken/",
+        "hemsida": "https://malmo.se/hund",
+        "popup": "<b>Rönneholmsparken - Malmö</b><br>\n            Nordlinds väg 86, 217 48 Malmö<br>\n            Skåne<br>\n            <a href=\"https://www.hundlistan.se/listing/ronneholmsparken/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://malmo.se/hund\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.19209,
+          55.6964
+        ]
+      },
+      "properties": {
+        "id": "listing-id-926",
+        "namn": "Södra Esplanaden Hundpark - Lund",
+        "adress": "Tullgatan 14A, 223 54 Lund",
+        "lan": "Skåne",
+        "url": "https://www.hundlistan.se/listing/sodra-esplanaden-hundpark/",
+        "hemsida": "https://lund.se/uppleva-och-gora/natur-lekplatser-och-parker/hundrastgardar",
+        "popup": "<b>Södra Esplanaden Hundpark - Lund</b><br>\n            Tullgatan 14A, 223 54 Lund<br>\n            Skåne<br>\n            <a href=\"https://www.hundlistan.se/listing/sodra-esplanaden-hundpark/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://lund.se/uppleva-och-gora/natur-lekplatser-och-parker/hundrastgardar\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.97456,
+          55.60696
+        ]
+      },
+      "properties": {
+        "id": "listing-id-916",
+        "namn": "Ribersborgs Hundrastplats - Malmö",
+        "adress": "217 59 Malmö",
+        "lan": "Skåne",
+        "url": "https://www.hundlistan.se/listing/ribersborgs-hundrastplats/",
+        "hemsida": "https://malmo.se/Bo-och-leva/Stadsmiljo-och-trafik/Regler-pa-offentliga-platser/Hundrastning.html",
+        "popup": "<b>Ribersborgs Hundrastplats - Malmö</b><br>\n            217 59 Malmö<br>\n            Skåne<br>\n            <a href=\"https://www.hundlistan.se/listing/ribersborgs-hundrastplats/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://malmo.se/Bo-och-leva/Stadsmiljo-och-trafik/Regler-pa-offentliga-platser/Hundrastning.html\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.21686,
+          55.70261
+        ]
+      },
+      "properties": {
+        "id": "listing-id-927",
+        "namn": "Elias Fries park - Lund",
+        "adress": "224 60 Lund",
+        "lan": "Skåne",
+        "url": "https://www.hundlistan.se/listing/elias-fries-park/",
+        "hemsida": "https://lund.se/uppleva-och-gora/natur-lekplatser-och-parker/hundrastgardar",
+        "popup": "<b>Elias Fries park - Lund</b><br>\n            224 60 Lund<br>\n            Skåne<br>\n            <a href=\"https://www.hundlistan.se/listing/elias-fries-park/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://lund.se/uppleva-och-gora/natur-lekplatser-och-parker/hundrastgardar\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0025,
+          55.55717
+        ]
+      },
+      "properties": {
+        "id": "listing-id-907",
+        "namn": "Hundrastområde 21574 - Malmö",
+        "adress": "215 74 Malmö",
+        "lan": "Skåne",
+        "url": "https://www.hundlistan.se/listing/hundrastomrade-21574/",
+        "hemsida": "https://malmo.se/hund",
+        "popup": "<b>Hundrastområde 21574 - Malmö</b><br>\n            215 74 Malmö<br>\n            Skåne<br>\n            <a href=\"https://www.hundlistan.se/listing/hundrastomrade-21574/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://malmo.se/hund\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.04199,
+          55.61111
+        ]
+      },
+      "properties": {
+        "id": "listing-id-897",
+        "namn": "Hundrastgård Kirseberg - Malmö",
+        "adress": "Gevaldigergatan, 212 43 Malmö",
+        "lan": "Skåne",
+        "url": "https://www.hundlistan.se/listing/hundrastgard-kirseberg/",
+        "hemsida": "https://malmo.se/hund",
+        "popup": "<b>Hundrastgård Kirseberg - Malmö</b><br>\n            Gevaldigergatan, 212 43 Malmö<br>\n            Skåne<br>\n            <a href=\"https://www.hundlistan.se/listing/hundrastgard-kirseberg/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://malmo.se/hund\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.02193,
+          55.55969
+        ]
+      },
+      "properties": {
+        "id": "listing-id-908",
+        "namn": "Hundrastgård Almvik - Malmö",
+        "adress": "Almvik, 215 79 Malmö",
+        "lan": "Skåne",
+        "url": "https://www.hundlistan.se/listing/hundrastgard-almvik/",
+        "hemsida": "https://malmo.se/Service/Var-stad-och-var-omgivning/Stadsmiljon/Regler-pa-offentliga-platser/Hundrastning.html",
+        "popup": "<b>Hundrastgård Almvik - Malmö</b><br>\n            Almvik, 215 79 Malmö<br>\n            Skåne<br>\n            <a href=\"https://www.hundlistan.se/listing/hundrastgard-almvik/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://malmo.se/Service/Var-stad-och-var-omgivning/Stadsmiljon/Regler-pa-offentliga-platser/Hundrastning.html\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.09507,
+          55.59112
+        ]
+      },
+      "properties": {
+        "id": "listing-id-898",
+        "namn": "Gyllins trädgård - Malmö",
+        "adress": "212 45 Malmö",
+        "lan": "Skåne",
+        "url": "https://www.hundlistan.se/listing/gyllins-tradgard/",
+        "hemsida": "http://www.gyllinstradgard.se/",
+        "popup": "<b>Gyllins trädgård - Malmö</b><br>\n            212 45 Malmö<br>\n            Skåne<br>\n            <a href=\"https://www.hundlistan.se/listing/gyllins-tradgard/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"http://www.gyllinstradgard.se/\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.98742,
+          55.56478
+        ]
+      },
+      "properties": {
+        "id": "listing-id-909",
+        "namn": "Hundrastgård Lindeborgsstigen - Malmö",
+        "adress": "Lindeborgsstigen, 215 82 Malmö",
+        "lan": "Skåne",
+        "url": "https://www.hundlistan.se/listing/hundrastgard-lindeborgsstigen/",
+        "hemsida": "https://malmo.se/hund",
+        "popup": "<b>Hundrastgård Lindeborgsstigen - Malmö</b><br>\n            Lindeborgsstigen, 215 82 Malmö<br>\n            Skåne<br>\n            <a href=\"https://www.hundlistan.se/listing/hundrastgard-lindeborgsstigen/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://malmo.se/hund\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.81592,
+          56.88228
+        ]
+      },
+      "properties": {
+        "id": "listing-id-872",
+        "namn": "Hundlekplats Teknikum - Växjö",
+        "adress": "352 43 Växjö",
+        "lan": "Kronoberg",
+        "url": "https://www.hundlistan.se/listing/hundlekplats-teknikum/",
+        "hemsida": "https://www.vaxjo.se/sidor/se-och-gora/spontanidrott-och-lek/hundlekplatser.html",
+        "popup": "<b>Hundlekplats Teknikum - Växjö</b><br>\n            352 43 Växjö<br>\n            Kronoberg<br>\n            <a href=\"https://www.hundlistan.se/listing/hundlekplats-teknikum/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://www.vaxjo.se/sidor/se-och-gora/spontanidrott-och-lek/hundlekplatser.html\" target=\"_blank\">Hemsida</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.84038,
+          56.9044
+        ]
+      },
+      "properties": {
+        "id": "listing-id-873",
+        "namn": "Hundrastplats 352 45 - Växjö",
+        "adress": "352 45 Växjö",
+        "lan": "Kronoberg",
+        "url": "https://www.hundlistan.se/listing/hundrastplats-vaxjo-3/",
+        "hemsida": "https://www.vaxjo.se/sidor/se-och-gora/spontanidrott-och-lek/hundlekplatser.html",
+        "popup": "<b>Hundrastplats 352 45 - Växjö</b><br>\n            352 45 Växjö<br>\n            Kronoberg<br>\n            <a href=\"https://www.hundlistan.se/listing/hundrastplats-vaxjo-3/\" target=\"_blank\">Visa på Hundlistan</a><br>\n            <a href=\"https://www.vaxjo.se/sidor/se-och-gora/spontanidrott-och-lek/hundlekplatser.html\" target=\"_blank\">Hemsida</a>"
+      }
     }
   ]
 }
