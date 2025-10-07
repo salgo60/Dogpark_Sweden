@@ -21,7 +21,7 @@
 </td>
 </tr>
 </table>
-<b>Status 20251007 - Min plats</b> [#3](https://github.com/salgo60/Dogpark_Sweden/issues/3) <br /><br />
+<b>Status 20251007 - Min plats</b> https://github.com/salgo60/Dogpark_Sweden/issues/3 <br /><br />
 <img src="Minplats2.jpg" alt="Dogpark Sweden 20251007 Minplats" width="100" height="100"><img src="Minplats.jpg" alt="Dogpark Sweden 20251007 Minplats" width="100" height="100" >
 <img src="Minplats3.jpg" alt="Dogpark Sweden 20251007 Minplats" width="800" height="800">
 
