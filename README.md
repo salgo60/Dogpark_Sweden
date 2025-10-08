@@ -16,33 +16,34 @@
 </td>
 <td align="right" width="220">
 
-<img src="ChatGPTImage_dogparkSweden1.png" alt="Dogpark Sweden" width="180">
+<img src="image/ChatGPTImage_dogparkSweden1.png" alt="Dogpark Sweden" width="180">
 
 </td>
 </tr>
 </table>
 <b>Status 20251007 - Stockholm Stads öppna data</b> https://github.com/salgo60/Dogpark_Sweden/issues/10 <br /><br />
-<img src="SAT_Dogpark_sthlm.jpg" alt="Dogpark Stockholm 20251007 " width="800" height="800">
+<img src="image/SAT_Dogpark_sthlm.jpg" alt="Dogpark Stockholm 20251007 " width="800" height="800">
+<img src="image/DogparkSthlm.jpeg" alt="Dogpark Stockholm 20251007 " width="800" height="800">
 
 ----
 <b>Status 20251007 - Stockholm Archipelago Trail </b> https://github.com/salgo60/Dogpark_Sweden/issues/7 <br /><br />
-<img src="SAT_Dogpark.png" alt="Dogpark Sweden 20251007 Minplats" width="800" height="800">
+<img src="image/SAT_Dogpark.png" alt="Dogpark Sweden 20251007 Minplats" width="800" height="800">
 
 ----
 <b>Status 20251007 - Min plats</b> https://github.com/salgo60/Dogpark_Sweden/issues/3 <br /><br />
-<img src="Minplats2.jpg" alt="Dogpark Sweden 20251007 Minplats" width="100" height="100"><img src="Minplats.jpg" alt="Dogpark Sweden 20251007 Minplats" width="100" height="100" >
-<img src="Minplats3.jpg" alt="Dogpark Sweden 20251007 Minplats" width="800" height="800">
+<img src="image/Minplats2.jpg" alt="Dogpark Sweden 20251007 Minplats" width="100" height="100"><img src="Minplats.jpg" alt="Dogpark Sweden 20251007 Minplats" width="100" height="100" >
+<img src="image/Minplats3.jpg" alt="Dogpark Sweden 20251007 Minplats" width="800" height="800">
 
 ----
-<img src="Dog%20park%20Sweden%2020251007.jpg" alt="Dogpark Sweden 20251007" width="800" height="800">
+<img src="image/Dog%20park%20Sweden%2020251007.jpg" alt="Dogpark Sweden 20251007" width="800" height="800">
 
 ---
 <b>Status 20251006</b><br /><br />
-<img src="DogparkSweden.jpg" alt="Dogpark Sweden 20251006" width="800" height="800">
-<img src="DogParkSwedenPhoto.png" alt="Dogpark Sweden Photo">
+<img src="image/DogparkSweden.jpg" alt="Dogpark Sweden 20251006" width="800" height="800">
+<img src="image/DogParkSwedenPhoto.png" alt="Dogpark Sweden Photo">
 
 ----
-<img src="DogparkSweden_2.jpg" alt="Dogpark Sweden Photo 2">
+<img src="image/DogparkSweden_2.jpg" alt="Dogpark Sweden Photo 2">
 
 
 
