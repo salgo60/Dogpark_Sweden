@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-10-13T15:38:15Z",
+    "timestamp_osm_base": "2025-10-13T19:18:00Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -17268,7 +17268,12 @@
       ],
       "tags": {
         "access": "yes",
-        "leisure": "dog_park"
+        "dog": "unleashed",
+        "leisure": "dog_park",
+        "name": "Hundrastgården, Vik",
+        "operator": "Arvika kommun",
+        "operator:type": "public",
+        "website": "https://www.arvika.se/upplevaochgora/idrottmotionochfriluftsliv/hundrastning.2716.html"
       }
     },
     {
