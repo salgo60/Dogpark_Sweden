@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-10-13T05:18:40Z",
+    "timestamp_osm_base": "2025-10-13T15:38:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -359,9 +359,12 @@
       "lat": 59.1857879,
       "lon": 17.6374616,
       "tags": {
+        "alt_name": "Värdsholmens Hundpark",
+        "contact:website": "https://online.infracontrol.com/Public/Issue/Create?system=Södertälje%20kommun",
         "leisure": "dog_park",
+        "mapillary": "1753024098545246",
         "name": "Tikspace hundrastgård",
-        "website": "https://www.sodertalje.se",
+        "website": "https://parker.stockholm/hundrastplatser/",
         "wheelchair": "yes"
       }
     },
@@ -372,9 +375,15 @@
       "lon": 17.6225979,
       "tags": {
         "addr:street": "Kottstigen",
+        "contact:website": "https://online.infracontrol.com/Public/Issue/Create?system=Södertälje%20kommun",
+        "dog": "unleashed",
+        "fence_type": "chain_link",
         "leisure": "dog_park",
-        "name": "Kottstigens hundrastplats",
-        "website": "https://www.sodertalje.se/"
+        "name": "Silverfallets hundrastgård",
+        "operator": "Södertälje kommun",
+        "operator:type": "public",
+        "operator:wikidata": "Q516336",
+        "website": "https://www.sodertalje.se/stad-och-trafik/natur-i-staden/"
       }
     },
     {
@@ -522,6 +531,7 @@
       "lat": 59.1823383,
       "lon": 17.6509066,
       "tags": {
+        "contact:website": "https://online.infracontrol.com/Public/Issue/Create?system=Södertälje%20kommun",
         "leisure": "dog_park",
         "name": "Hundrastgård",
         "phone": "+46852301000",
@@ -2296,7 +2306,19 @@
       ],
       "tags": {
         "barrier": "fence",
+        "contact:website": "https://www.gavle.se/driftinformation-och-felanmalan/fel-du-kan-anmala-till-oss/",
+        "description": "Hundrastgården ligger centralt, alldeles intill Centralstationen. Ytan är långsmal och här finns ett flertal träd samt stubbar innanför staketet samt en papperskorg och två bänkar att sitta på. Här finns ingen belysning i dagsläget.",
+        "dog": "unleashed",
         "leisure": "dog_park",
+        "lit": "no",
+        "name": "Hamntorgets hundrastgård",
+        "note": "Om du upptäcker fel (t.ex. trasigt stängsel eller nedskräpning), rapportera via webbsidan.",
+        "official_area": "899,9",
+        "official_area:unit": "m²",
+        "operator": "Gävle kommun",
+        "operator:type": "public",
+        "operator:wikidata": "Q510010",
+        "website": "https://www.gavle.se/kultur-och-fritid/natur-och-friluftsliv/parker-och-natur/hundrastgardar/stora-esplanadgatans-hundrastgard/",
         "wheelchair": "yes"
       }
     },
@@ -3351,11 +3373,21 @@
         1030357820
       ],
       "tags": {
-        "dog": "designated",
+        "contact:website": "https://www.gavle.se/driftinformation-och-felanmalan/fel-du-kan-anmala-till-oss/",
+        "description": "Gården är indelad in i två delar vilket möjliggör att hundar av olika storlekar kan vistas samtidigt. Här finns stockar och stenar och större ytor för hunden att springa på.",
+        "dog": "unleashed",
         "leisure": "dog_park",
         "lit": "yes",
+        "name": "Atlasgatans hundrastgård",
+        "note": "Om du upptäcker fel (t.ex. trasigt stängsel eller nedskräpning), rapportera via webbsidan.",
+        "official_area": "3000",
+        "official_area:unit": "m²",
+        "operator": "Gävle kommun",
+        "operator:type": "public",
+        "operator:wikidata": "Q510010",
         "source": "survey",
-        "surface": "grass"
+        "surface": "grass",
+        "website": "https://www.gavle.se/kultur-och-fritid/natur-och-friluftsliv/parker-och-natur/hundrastgardar/atlasgatans-hundrastgard/"
       }
     },
     {
@@ -5756,7 +5788,19 @@
       ],
       "tags": {
         "barrier": "fence",
-        "leisure": "dog_park"
+        "contact:website": "https://www.gavle.se/driftinformation-och-felanmalan/fel-du-kan-anmala-till-oss/",
+        "description": "Hundrastgården ligger på Öster, alldeles intill Holmkanalen. Ytan är rektangulär och marken består främst av gräs. Ingen vegetation finns inom det avhängda området men strax utanför längs med ytan löper en allé av lind. Här finns en papperskorg",
+        "dog": "unleashed",
+        "leisure": "dog_park",
+        "lit": "no",
+        "name": "Holmkanalens hundrastgård",
+        "note": "Om du upptäcker fel (t.ex. trasigt stängsel eller nedskräpning), rapportera via webbsidan.",
+        "official_area": "464,6",
+        "official_area:unit": "m²",
+        "operator": "Gävle kommun",
+        "operator:type": "public",
+        "operator:wikidata": "Q510010",
+        "website": "https://www.gavle.se/kultur-och-fritid/natur-och-friluftsliv/parker-och-natur/hundrastgardar/holmkanalens-hundrastgard/"
       }
     },
     {
@@ -9893,8 +9937,15 @@
         7256347847
       ],
       "tags": {
+        "access": "yes",
+        "contact:website": "https://online.infracontrol.com/Public/Issue/Create?system=Södertälje%20kommun",
+        "dog": "unleashed",
         "leisure": "dog_park",
         "name": "Kummelvägens hundrastgård",
+        "operator": "Sundbybergs kommun",
+        "operator:type": "public",
+        "operator:wikidata": "Q972564",
+        "website": "https://www.sodertalje.se/stad-och-trafik/natur-i-staden/",
         "wheelchair": "no"
       }
     },
@@ -10152,8 +10203,15 @@
       ],
       "tags": {
         "barrier": "fence",
+        "contact:website": "https://www.gavle.se/driftinformation-och-felanmalan/fel-du-kan-anmala-till-oss/",
+        "dog": "unleashed",
         "fence_type": "chain_link",
-        "leisure": "dog_park"
+        "leisure": "dog_park",
+        "name": "Ulvsmygens hundrastpark",
+        "note": "Om du upptäcker fel (t.ex. trasigt stängsel eller nedskräpning), rapportera via webbsidan.",
+        "operator": "Gävle kommun",
+        "operator:type": "public",
+        "operator:wikidata": "Q510010"
       }
     },
     {
@@ -10354,8 +10412,20 @@
         7552328873
       ],
       "tags": {
+        "access": "yes",
         "barrier": "fence",
-        "leisure": "dog_park"
+        "contact:website": "https://www.gavle.se/driftinformation-och-felanmalan/fel-du-kan-anmala-till-oss/",
+        "description": "Hundrastgården ligger i Andersberg intill en träddunge med blandskog. Gården som har en gemensam slussgruind är indelad i två delar vilket möjliggör att hundar av olika storlekar kan vistas samtidigt.",
+        "dog": "unleashed",
+        "leisure": "dog_park",
+        "name": "Lugna gatans hundrastgård",
+        "note": "Om du upptäcker fel (t.ex. trasigt stängsel eller nedskräpning), rapportera via webbsidan.",
+        "official_area": "560,3",
+        "official_area:unit": "m²",
+        "operator": "Gävle kommun",
+        "operator:type": "public",
+        "operator:wikidata": "Q510010",
+        "website": "https://www.gavle.se/kultur-och-fritid/natur-och-friluftsliv/parker-och-natur/hundrastgardar/lugna-gatans-hundrastgard/"
       }
     },
     {
@@ -10377,6 +10447,9 @@
         7553335605
       ],
       "tags": {
+        "dog": "unleashed",
+        "fence_type": "chain_link",
+        "fenced": "yes",
         "leisure": "dog_park",
         "name": "Tuvan hundpark - Sundbyberg",
         "residential": "urban",
@@ -10469,8 +10542,22 @@
         7575858967
       ],
       "tags": {
+        "access": "yes",
         "barrier": "fence",
-        "leisure": "dog_park"
+        "contact:website": "https://www.gavle.se/driftinformation-och-felanmalan/fel-du-kan-anmala-till-oss/",
+        "description": "Hundrastgården ligger i Sörby strax intill en skogsdunge av tall. Det finns även en del tallar inte på ytan som är kvadratisk. Markmaterialet är främst jord och högväxande gräs. Här finns papperskorg men ingen belysning i dagsläget.",
+        "dog": "unleashed",
+        "leisure": "dog_park",
+        "lit": "no",
+        "name": "Urbergsterrassens hundrastgård",
+        "note": "Om du upptäcker fel (t.ex. trasigt stängsel eller nedskräpning), rapportera via webbsidan.",
+        "official_area": "310,5",
+        "official_area:unit": "m²",
+        "operator": "Gävle kommun",
+        "operator:type": "public",
+        "operator:wikidata": "Q510010",
+        "surface": "compacted",
+        "website": "https://www.gavle.se/kultur-och-fritid/natur-och-friluftsliv/parker-och-natur/hundrastgardar/urbergsterrassens-hundrastgard/"
       }
     },
     {
@@ -10525,8 +10612,21 @@
         7575858980
       ],
       "tags": {
+        "access": "yes",
         "barrier": "fence",
-        "leisure": "dog_park"
+        "contact:website": "https://www.gavle.se/driftinformation-och-felanmalan/fel-du-kan-anmala-till-oss/",
+        "description": "Hundrastgården i Bomhus är av naturlig karaktär. Den är kuperad och innehåller stigar och gångstråk. Här finns en mängd träd, stockar stenar i former samt sittplatser, papperskorg och belysning.",
+        "dog": "unleashed",
+        "leisure": "dog_park",
+        "lit": "yes",
+        "name": "Bomhus hundrastgård",
+        "note": "Om du upptäcker fel (t.ex. trasigt stängsel eller nedskräpning), rapportera via webbsidan.",
+        "official_area": "3180,3",
+        "official_area:unit": "m²",
+        "operator": "Gävle kommun",
+        "operator:type": "public",
+        "operator:wikidata": "Q510010",
+        "website": "https://www.gavle.se/kultur-och-fritid/natur-och-friluftsliv/parker-och-natur/hundrastgardar/bomhus-hundrastgard/"
       }
     },
     {
@@ -10544,7 +10644,20 @@
         7575858984
       ],
       "tags": {
-        "leisure": "dog_park"
+        "contact:website": "https://www.gavle.se/driftinformation-och-felanmalan/fel-du-kan-anmala-till-oss/",
+        "description": "Hundrastgården ligger centralt i staden alldeles vid Gavleån och Gammelbron. Ytan sluttar ned mot vattnet och har en oregelbunden form. Markmaterialet är främst jord. Flera träd och buskar ringar in platsen vilket gör den relativt skuggig. Här finns en pa",
+        "dog": "unleashed",
+        "leisure": "dog_park",
+        "lit": "no",
+        "name": "Gammelbrons hundrastgård",
+        "note": "Om du upptäcker fel (t.ex. trasigt stängsel eller nedskräpning), rapportera via webbsidan.",
+        "official_area": "116,4",
+        "official_area:unit": "m²",
+        "operator": "Gävle kommun",
+        "operator:type": "public",
+        "operator:wikidata": "Q510010",
+        "surface": "compacted",
+        "website": "https://www.gavle.se/kultur-och-fritid/natur-och-friluftsliv/parker-och-natur/hundrastgardar/gammelbrons-hundrastgard/"
       }
     },
     {
@@ -10564,7 +10677,19 @@
       ],
       "tags": {
         "barrier": "fence",
-        "leisure": "dog_park"
+        "contact:website": "https://www.gavle.se/driftinformation-och-felanmalan/fel-du-kan-anmala-till-oss/",
+        "description": "Hundrastgården ligger i den norra delen av området Nordost mot järnvägsspåret. Ytan är rektangulär och marken består främst av gräs. Här finns ett träd, bänkbord och en papperskorg. Ingen belysning finns i dagsläget.",
+        "dog": "unleashed",
+        "leisure": "dog_park",
+        "name": "Stora Esplanadgatans hundrastgård",
+        "note": "Om du upptäcker fel (t.ex. trasigt stängsel eller nedskräpning), rapportera via webbsidan.",
+        "official_area": "389.4",
+        "official_area:unit": "m²",
+        "operator": "Gävle kommun",
+        "operator:type": "public",
+        "operator:wikidata": "Q510010",
+        "surface": "grass",
+        "website": "https://www.gavle.se/kultur-och-fritid/natur-och-friluftsliv/parker-och-natur/hundrastgardar/stora-esplanadgatans-hundrastgard/"
       }
     },
     {
@@ -10582,8 +10707,19 @@
         7575929693
       ],
       "tags": {
+        "area:ha": "2.630",
         "barrier": "fence",
-        "leisure": "dog_park"
+        "contact:website": "https://exempel.se/fel",
+        "description": "Hundrastgården ligger mitt i parken Sätraängarna. Ytan är uppdelad i en större och en mindre hage som båda nås via en smitsäker slussgrind. Terrängen är plan med enstaka kullar att leka i. Marken består framförallt av gräs men också av stenmjöl i entréomr",
+        "dog": "unleashed",
+        "leisure": "dog_park",
+        "name": "Sätraängarna",
+        "note": "Om du upptäcker fel (t.ex. trasigt stängsel eller nedskräpning), rapportera via webbsidan.",
+        "operator": "Gävle kommun",
+        "operator:type": "public",
+        "operator:wikidata": "Q510010",
+        "surface": "grass",
+        "website": "https://www.gavle.se/kultur-och-fritid/natur-och-friluftsliv/parker-och-natur/hundrastgardar/satraangarnas-hundrastgard/"
       }
     },
     {
@@ -10605,7 +10741,18 @@
       ],
       "tags": {
         "barrier": "fence",
-        "leisure": "dog_park"
+        "contact:website": "https://www.gavle.se/driftinformation-och-felanmalan/fel-du-kan-anmala-till-oss/",
+        "description": "Hundrastgården ligger i Siporexparken i Valbo intill Siporexgropen. Ytan är rektangulär och något sluttande mot norr. Marken som i huvudsak består av gräs är något kuperad och i ena hörnet finns en hel del träd samt några stenar. Här finns en papperskorg",
+        "dog": "unleashed",
+        "leisure": "dog_park",
+        "lit": "no",
+        "name": "Siporexparkens hundgård",
+        "note": "Om du upptäcker fel (t.ex. trasigt stängsel eller nedskräpning), rapportera via webbsidan.",
+        "operator": "Gävle kommun",
+        "operator:type": "public",
+        "operator:wikidata": "Q510010",
+        "surface": "grass",
+        "website": "https://www.gavle.se/kultur-och-fritid/natur-och-friluftsliv/parker-och-natur/hundrastgardar/satraangarnas-hundrastgard/"
       }
     },
     {
@@ -10623,8 +10770,20 @@
         7575929703
       ],
       "tags": {
+        "area:ha": "0.468",
         "barrier": "fence",
-        "leisure": "dog_park"
+        "contact:website": "https://www.gavle.se/driftinformation-och-felanmalan/fel-du-kan-anmala-till-oss/",
+        "description": "Hundrastgården ligger i Valbo, öster om Valbovägen mot E16. Ytan är långsmal och marken som är plan består främst av gräs. Här finns ett träd, en papperskorg samt två bänkar. I dagsläget finns ingen belysning.",
+        "dog": "unleashed",
+        "leisure": "dog_park",
+        "lit": "no",
+        "name": "Siporexparkens hundrastgård",
+        "note": "Om du upptäcker fel (t.ex. trasigt stängsel eller nedskräpning), rapportera via webbsidan.",
+        "operator": "Gävle kommun",
+        "operator:type": "public",
+        "operator:wikidata": "Q510010",
+        "surface": "grass",
+        "website": "https://www.gavle.se/kultur-och-fritid/natur-och-friluftsliv/parker-och-natur/hundrastgardar/skolvagens-hundrastgard/"
       }
     },
     {
@@ -10643,8 +10802,13 @@
         7575929708
       ],
       "tags": {
+        "area:ha": "0.414",
         "barrier": "fence",
-        "leisure": "dog_park"
+        "description": "Hundrastgården ligger i Pilparken i Forsbacka. Gården består av stockar, stenar, soffa och bänkbord.  Hundrastgården snöröjs inte vintertid.",
+        "dog": "unleashed",
+        "leisure": "dog_park",
+        "name": "Pilparken Forsbacka Hundrastgård",
+        "website": "https://www.gavle.se/kultur-och-fritid/natur-och-friluftsliv/parker-och-natur/hundrastgardar/pilparkens-hundrastgard/"
       }
     },
     {
@@ -11369,8 +11533,19 @@
         8270552898
       ],
       "tags": {
+        "access": "yes",
+        "dog": "unleashed",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Golf%C3%A4ngarnas_Hundrastg%C3%A5rd.jpg/1280px-Golf%C3%A4ngarnas_Hundrastg%C3%A5rd.jpg",
+        "image:license": "CC0",
         "leisure": "dog_park",
-        "wheelchair": "limited"
+        "mapillary": "1593968987460660",
+        "name": "Golfängarnas Hundrastgård",
+        "operator": "Sundbybergs kommun",
+        "operator:type": "public",
+        "website": "https://www.sundbyberg.se/uppleva-och-gora/idrott-motion-och-friluftsliv/friluftsliv-och-motion/hundrastgardar",
+        "wheelchair": "limited",
+        "wikidata": "Q972564",
+        "wikimedia_commons": "Category:Golfängarnas_Hundrastgård,_Sundbyberg"
       }
     },
     {
@@ -16252,6 +16427,8 @@
       ],
       "tags": {
         "dog": "unleashed",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/R%C3%A5gsveds_hundrastg%C3%A5rd_%28cropped%29.jpg",
+        "image:license": "CC0",
         "leisure": "dog_park",
         "mapillary": "761250403570356",
         "name": "Rågsveds hundrastgård",
@@ -16406,6 +16583,7 @@
         7380333266
       ],
       "tags": {
+        "contact:website": "https://online.infracontrol.com/Public/Issue/Create?system=Södertälje%20kommun",
         "leisure": "dog_park",
         "name": "Badparkens hundrastgård",
         "phone": "+46852301000",
@@ -16671,7 +16849,15 @@
         11165927505
       ],
       "tags": {
-        "leisure": "dog_park"
+        "description": "Denna hundrastgård i Söderhamn erbjuder en trevlig plats för hundar att leka och motionera.",
+        "dog": "unleashed",
+        "fenced": "yes",
+        "leisure": "dog_park",
+        "name": "Hundrastgård Söderhamn",
+        "operator": "Söderhamns kommun",
+        "operator:type": "public",
+        "operator:wikidata": "Q145835",
+        "website": "https://www.soderhamn.se/sidor/uppleva-och-gora/friluftsliv-idrott-motion/hund-i-naturen-och-pa-badplatser.html"
       }
     },
     {
@@ -19217,6 +19403,7 @@
         12702001151
       ],
       "tags": {
+        "contact:website": "https://online.infracontrol.com/Public/Issue/Create?system=Södertälje%20kommun",
         "leisure": "dog_park",
         "name": "Kusensbacke Hundrastgård",
         "phone": "+46852301000",
@@ -22157,7 +22344,13 @@
       "tags": {
         "access": "yes",
         "barrier": "fence",
-        "leisure": "dog_park"
+        "description": "Rissne ängar, mot Hallonbergen",
+        "dog": "unleashed",
+        "leisure": "dog_park",
+        "name": "Rissneängarna Hundrastgård - Sundbyberg",
+        "operator": "Sundbybergs kommun",
+        "operator:type": "public",
+        "website": "https://www.sundbyberg.se/uppleva-och-gora/idrott-motion-och-friluftsliv/friluftsliv-och-motion/hundrastgardar"
       }
     },
     {
@@ -22184,6 +22377,35 @@
         "operator:type": "public",
         "operator:wikidata": "Q506250",
         "website": "https://parker.stockholm/hundrastplatser/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1441806351,
+      "center": {
+        "lat": 59.2508571,
+        "lon": 18.0389598
+      },
+      "nodes": [
+        13229714850,
+        13229714851,
+        13229714852,
+        13229714853,
+        13229714854,
+        13229714855,
+        13229714850
+      ],
+      "tags": {
+        "access": "yes",
+        "description": "Snösätra hundpark ligger vid Snösätravägen i Bandhagen. Den har en inhägnad yta där hundar kan springa fritt och leka i en naturskön miljö",
+        "dog": "unleashed",
+        "fence": "yes",
+        "leisure": "dog_park",
+        "name": "Snösätra hundpark - Bandhagen",
+        "operator": "Stockholms kommun",
+        "operator:type": "pubklic",
+        "website": "https://parker.stockholm/hundrastplatser/",
+        "wikimedia_commons": "Category:Snösätra_hundpark_-_Bandhagen"
       }
     },
     {

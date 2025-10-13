@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.916231,
+          59.417614
+        ]
+      },
+      "properties": {
+        "title": "File:Akalla hundrastg\u00e5rd Finlandsgatan 02.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Akalla_hundrastg\u00e5rd_Finlandsgatan_02.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.074711,
+          59.351806
+        ]
+      },
+      "properties": {
+        "title": "File:Lill-Jansskogens hundrastg\u00e5rd 01.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Lill-Jansskogens_hundrastg\u00e5rd_01.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1139 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.393889,
+          55.601111
+        ]
+      },
+      "properties": {
+        "title": "File:Genarp Hundrastg\u00e5rd entrance.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Genarp_Hundrastg\u00e5rd_entrance.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.807744,
+          59.502304
+        ]
+      },
+      "properties": {
+        "title": "File:Hundrastplats \u00c4ngsj\u00f6 friluftsomr\u00e5de 01.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Hundrastplats_\u00c4ngsj\u00f6_friluftsomr\u00e5de_01.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.877639,
+          59.343881
+        ]
+      },
+      "properties": {
+        "title": "File:Blackebergsbackens hundrastg\u00e5rd 06.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Blackebergsbackens_hundrastg\u00e5rd_06.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.895086,
+          59.356103
+        ]
+      },
+      "properties": {
+        "title": "File:Bekomberga hundrastg\u00e5rd 02.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Bekomberga_hundrastg\u00e5rd_02.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.936903,
+          59.402497
+        ]
+      },
+      "properties": {
+        "title": "File:Kvarnens hundrastg\u00e5rd 04.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Kvarnens_hundrastg\u00e5rd_04.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.916386,
+          59.417631
+        ]
+      },
+      "properties": {
+        "title": "File:Akalla hundrastg\u00e5rd Finlandsgatan 01.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Akalla_hundrastg\u00e5rd_Finlandsgatan_01.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.026718,
+          59.254353
+        ]
+      },
+      "properties": {
+        "title": "File:R\u00e5gsveds hundrastg\u00e5rd (cropped).jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:R\u00e5gsveds_hundrastg\u00e5rd_(cropped).jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.070803,
+          59.339172
+        ]
+      },
+      "properties": {
+        "title": "File:Humleg\u00e5rdens hundpark 03.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Humleg\u00e5rdens_hundpark_03.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.909333,
+          59.410636
+        ]
+      },
+      "properties": {
+        "title": "File:Akalla hundrastg\u00e5rd, J\u00e4rvaf\u00e4ltet 04.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Akalla_hundrastg\u00e5rd,_J\u00e4rvaf\u00e4ltet_04.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.895117,
+          59.356122
+        ]
+      },
+      "properties": {
+        "title": "File:Bekomberga hundrastg\u00e5rd 03.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Bekomberga_hundrastg\u00e5rd_03.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.936761,
+          59.402539
+        ]
+      },
+      "properties": {
+        "title": "File:Kvarnens hundrastg\u00e5rd 05.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Kvarnens_hundrastg\u00e5rd_05.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.936731,
+          59.402675
+        ]
+      },
+      "properties": {
+        "title": "File:Kvarnens hundrastg\u00e5rd 07.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Kvarnens_hundrastg\u00e5rd_07.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.859444,
+          59.364364
+        ]
+      },
+      "properties": {
+        "title": "File:Lunda\u00e4ngens Hundrastg\u00e5rd - Sp\u00e5nga 07.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Lunda\u00e4ngens_Hundrastg\u00e5rd_-_Sp\u00e5nga_07.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.818139,
+          59.369889
+        ]
+      },
+      "properties": {
+        "title": "File:Oxtungans hundg\u00e5rd H\u00e4sselby 05.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Oxtungans_hundg\u00e5rd_H\u00e4sselby_05.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.074889,
+          59.351822
+        ]
+      },
+      "properties": {
+        "title": "File:Lill-Jansskogens hundrastg\u00e5rd 02.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Lill-Jansskogens_hundrastg\u00e5rd_02.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.909261,
+          59.410572
+        ]
+      },
+      "properties": {
+        "title": "File:Akalla hundrastg\u00e5rd, J\u00e4rvaf\u00e4ltet 05.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Akalla_hundrastg\u00e5rd,_J\u00e4rvaf\u00e4ltet_05.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.935669,
+          59.396789
+        ]
+      },
+      "properties": {
+        "title": "File:\u00c5rvinge hundrastg\u00e5rd 09.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:\u00c5rvinge_hundrastg\u00e5rd_09.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.935025,
+          59.396611
+        ]
+      },
+      "properties": {
+        "title": "File:\u00c5rvinge hundrastg\u00e5rd 08.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:\u00c5rvinge_hundrastg\u00e5rd_08.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.936706,
+          59.4026
+        ]
+      },
+      "properties": {
+        "title": "File:Kvarnens hundrastg\u00e5rd 09.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Kvarnens_hundrastg\u00e5rd_09.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.859189,
+          59.364303
+        ]
+      },
+      "properties": {
+        "title": "File:Lunda\u00e4ngens Hundrastg\u00e5rd - Sp\u00e5nga 05.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Lunda\u00e4ngens_Hundrastg\u00e5rd_-_Sp\u00e5nga_05.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.935014,
+          59.396633
+        ]
+      },
+      "properties": {
+        "title": "File:\u00c5rvinge hundrastg\u00e5rd 07.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:\u00c5rvinge_hundrastg\u00e5rd_07.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.070331,
+          59.339267
+        ]
+      },
+      "properties": {
+        "title": "File:Humleg\u00e5rdens hundpark 05.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Humleg\u00e5rdens_hundpark_05.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.877606,
+          59.343875
+        ]
+      },
+      "properties": {
+        "title": "File:Blackebergsbackens hundrastg\u00e5rd 05.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Blackebergsbackens_hundrastg\u00e5rd_05.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0706,
+          59.339256
+        ]
+      },
+      "properties": {
+        "title": "File:Humleg\u00e5rdens hundpark 04.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Humleg\u00e5rdens_hundpark_04.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.859439,
+          59.364239
+        ]
+      },
+      "properties": {
+        "title": "File:Lunda\u00e4ngens Hundrastg\u00e5rd - Sp\u00e5nga 09.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Lunda\u00e4ngens_Hundrastg\u00e5rd_-_Sp\u00e5nga_09.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.937058,
+          59.402264
+        ]
+      },
+      "properties": {
+        "title": "File:Kvarnens hundrastg\u00e5rd 02.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Kvarnens_hundrastg\u00e5rd_02.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.937122,
+          59.402425
+        ]
+      },
+      "properties": {
+        "title": "File:Kvarnens hundrastg\u00e5rd 03.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Kvarnens_hundrastg\u00e5rd_03.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.921556,
+          59.405978
+        ]
+      },
+      "properties": {
+        "title": "File:Husby hundrastg\u00e5rd, Stockholm 03.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Husby_hundrastg\u00e5rd,_Stockholm_03.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9094,
+          59.410697
+        ]
+      },
+      "properties": {
+        "title": "File:Akalla hundrastg\u00e5rd, J\u00e4rvaf\u00e4ltet 09.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Akalla_hundrastg\u00e5rd,_J\u00e4rvaf\u00e4ltet_09.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.859436,
+          59.364236
+        ]
+      },
+      "properties": {
+        "title": "File:Lunda\u00e4ngens Hundrastg\u00e5rd - Sp\u00e5nga 11.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Lunda\u00e4ngens_Hundrastg\u00e5rd_-_Sp\u00e5nga_11.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.895094,
+          59.356103
+        ]
+      },
+      "properties": {
+        "title": "File:Bekomberga hundrastg\u00e5rd 01.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Bekomberga_hundrastg\u00e5rd_01.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.070464,
+          59.338842
+        ]
+      },
+      "properties": {
+        "title": "File:Humleg\u00e5rdens hundpark 02.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Humleg\u00e5rdens_hundpark_02.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.055808,
+          59.342056
+        ]
+      },
+      "properties": {
+        "title": "File:Hundrastplats Obsan 04.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Hundrastplats_Obsan_04.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.074711,
+          59.351806
+        ]
+      },
+      "properties": {
+        "title": "File:Lill-Jansskogens hundrastg\u00e5rd 01.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Lill-Jansskogens_hundrastg\u00e5rd_01.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.935653,
+          59.396917
+        ]
+      },
+      "properties": {
+        "title": "File:\u00c5rvinge hundrastg\u00e5rd 02.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:\u00c5rvinge_hundrastg\u00e5rd_02.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.818461,
+          59.370017
+        ]
+      },
+      "properties": {
+        "title": "File:Oxtungans hundg\u00e5rd H\u00e4sselby 04.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Oxtungans_hundg\u00e5rd_H\u00e4sselby_04.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.909139,
+          59.410581
+        ]
+      },
+      "properties": {
+        "title": "File:Akalla hundrastg\u00e5rd, J\u00e4rvaf\u00e4ltet 08.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Akalla_hundrastg\u00e5rd,_J\u00e4rvaf\u00e4ltet_08.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.935114,
+          59.396872
+        ]
+      },
+      "properties": {
+        "title": "File:\u00c5rvinge hundrastg\u00e5rd 05.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:\u00c5rvinge_hundrastg\u00e5rd_05.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.895039,
+          59.356114
+        ]
+      },
+      "properties": {
+        "title": "File:Bekomberga hundrastg\u00e5rd 04.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Bekomberga_hundrastg\u00e5rd_04.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.055758,
+          59.341975
+        ]
+      },
+      "properties": {
+        "title": "File:Hundrastplats Obsan 03.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Hundrastplats_Obsan_03.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.979191,
+          59.371005
+        ]
+      },
+      "properties": {
+        "title": "File:Golf\u00e4ngarnas Hundrastg\u00e5rd.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Golf\u00e4ngarnas_Hundrastg\u00e5rd.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.921458,
+          59.406028
+        ]
+      },
+      "properties": {
+        "title": "File:Husby hundrastg\u00e5rd, Stockholm 05.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Husby_hundrastg\u00e5rd,_Stockholm_05.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.818386,
+          59.370003
+        ]
+      },
+      "properties": {
+        "title": "File:Oxtungans hundg\u00e5rd H\u00e4sselby 01.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Oxtungans_hundg\u00e5rd_H\u00e4sselby_01.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.859458,
+          59.364456
+        ]
+      },
+      "properties": {
+        "title": "File:Lunda\u00e4ngens Hundrastg\u00e5rd - Sp\u00e5nga 01.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Lunda\u00e4ngens_Hundrastg\u00e5rd_-_Sp\u00e5nga_01.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.055811,
+          59.341992
+        ]
+      },
+      "properties": {
+        "title": "File:Hundrastplats Obsan 01.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Hundrastplats_Obsan_01.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.909558,
+          59.410706
+        ]
+      },
+      "properties": {
+        "title": "File:Akalla hundrastg\u00e5rd, J\u00e4rvaf\u00e4ltet 02.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Akalla_hundrastg\u00e5rd,_J\u00e4rvaf\u00e4ltet_02.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.909228,
+          59.410556
+        ]
+      },
+      "properties": {
+        "title": "File:Akalla hundrastg\u00e5rd, J\u00e4rvaf\u00e4ltet 07.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Akalla_hundrastg\u00e5rd,_J\u00e4rvaf\u00e4ltet_07.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.393889,
+          55.600833
+        ]
+      },
+      "properties": {
+        "title": "File:Genarp Hundrastg\u00e5rd table.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Genarp_Hundrastg\u00e5rd_table.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.807711,
+          59.502523
+        ]
+      },
+      "properties": {
+        "title": "File:Hundrastplats \u00c4ngsj\u00f6 friluftsomr\u00e5de 02.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Hundrastplats_\u00c4ngsj\u00f6_friluftsomr\u00e5de_02.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.877583,
+          59.343872
+        ]
+      },
+      "properties": {
+        "title": "File:Blackebergsbackens hundrastg\u00e5rd 04.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Blackebergsbackens_hundrastg\u00e5rd_04.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.070522,
+          59.338847
+        ]
+      },
+      "properties": {
+        "title": "File:Humleg\u00e5rdens hundpark 01.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Humleg\u00e5rdens_hundpark_01.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.818486,
+          59.370011
+        ]
+      },
+      "properties": {
+        "title": "File:Oxtungans hundg\u00e5rd H\u00e4sselby 03.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Oxtungans_hundg\u00e5rd_H\u00e4sselby_03.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.858936,
+          59.364369
+        ]
+      },
+      "properties": {
+        "title": "File:Lunda\u00e4ngens Hundrastg\u00e5rd - Sp\u00e5nga 04.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Lunda\u00e4ngens_Hundrastg\u00e5rd_-_Sp\u00e5nga_04.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.935678,
+          59.396911
+        ]
+      },
+      "properties": {
+        "title": "File:\u00c5rvinge hundrastg\u00e5rd 01.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:\u00c5rvinge_hundrastg\u00e5rd_01.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9351,
+          59.396842
+        ]
+      },
+      "properties": {
+        "title": "File:\u00c5rvinge hundrastg\u00e5rd 06.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:\u00c5rvinge_hundrastg\u00e5rd_06.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.921347,
+          59.406094
+        ]
+      },
+      "properties": {
+        "title": "File:Husby hundrastg\u00e5rd, Stockholm 04.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Husby_hundrastg\u00e5rd,_Stockholm_04.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.859553,
+          59.364453
+        ]
+      },
+      "properties": {
+        "title": "File:Lunda\u00e4ngens Hundrastg\u00e5rd - Sp\u00e5nga 03.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Lunda\u00e4ngens_Hundrastg\u00e5rd_-_Sp\u00e5nga_03.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.859442,
+          59.364228
+        ]
+      },
+      "properties": {
+        "title": "File:Lunda\u00e4ngens Hundrastg\u00e5rd - Sp\u00e5nga 10.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Lunda\u00e4ngens_Hundrastg\u00e5rd_-_Sp\u00e5nga_10.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.859447,
+          59.36435
+        ]
+      },
+      "properties": {
+        "title": "File:Lunda\u00e4ngens Hundrastg\u00e5rd - Sp\u00e5nga 08.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Lunda\u00e4ngens_Hundrastg\u00e5rd_-_Sp\u00e5nga_08.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.877603,
+          59.343772
+        ]
+      },
+      "properties": {
+        "title": "File:Blackebergsbackens hundrastg\u00e5rd 03.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Blackebergsbackens_hundrastg\u00e5rd_03.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.937236,
+          59.402356
+        ]
+      },
+      "properties": {
+        "title": "File:Kvarnens hundrastg\u00e5rd 06.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Kvarnens_hundrastg\u00e5rd_06.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.909569,
+          59.410706
+        ]
+      },
+      "properties": {
+        "title": "File:Akalla hundrastg\u00e5rd, J\u00e4rvaf\u00e4ltet 01.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Akalla_hundrastg\u00e5rd,_J\u00e4rvaf\u00e4ltet_01.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.895058,
+          59.356086
+        ]
+      },
+      "properties": {
+        "title": "File:Bekomberga hundrastg\u00e5rd 05.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Bekomberga_hundrastg\u00e5rd_05.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.936694,
+          59.402614
+        ]
+      },
+      "properties": {
+        "title": "File:Kvarnens hundrastg\u00e5rd 08.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Kvarnens_hundrastg\u00e5rd_08.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9216,
+          59.405953
+        ]
+      },
+      "properties": {
+        "title": "File:Husby hundrastg\u00e5rd, Stockholm 02.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Husby_hundrastg\u00e5rd,_Stockholm_02.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.877619,
+          59.3437
+        ]
+      },
+      "properties": {
+        "title": "File:Blackebergsbackens hundrastg\u00e5rd 01.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Blackebergsbackens_hundrastg\u00e5rd_01.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.055797,
+          59.341992
+        ]
+      },
+      "properties": {
+        "title": "File:Hundrastplats Obsan 02.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Hundrastplats_Obsan_02.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8776,
+          59.343739
+        ]
+      },
+      "properties": {
+        "title": "File:Blackebergsbackens hundrastg\u00e5rd 02.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Blackebergsbackens_hundrastg\u00e5rd_02.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.921642,
+          59.405936
+        ]
+      },
+      "properties": {
+        "title": "File:Husby hundrastg\u00e5rd, Stockholm 01.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Husby_hundrastg\u00e5rd,_Stockholm_01.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.935681,
+          59.396842
+        ]
+      },
+      "properties": {
+        "title": "File:\u00c5rvinge hundrastg\u00e5rd 10.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:\u00c5rvinge_hundrastg\u00e5rd_10.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.916231,
+          59.417614
+        ]
+      },
+      "properties": {
+        "title": "File:Akalla hundrastg\u00e5rd Finlandsgatan 02.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Akalla_hundrastg\u00e5rd_Finlandsgatan_02.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.393889,
+          55.600833
+        ]
+      },
+      "properties": {
+        "title": "File:Genarp Hundrastg\u00e5rd pipe.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Genarp_Hundrastg\u00e5rd_pipe.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.026718,
+          59.254353
+        ]
+      },
+      "properties": {
+        "title": "File:R\u00e5gsveds hundrastg\u00e5rd.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:R\u00e5gsveds_hundrastg\u00e5rd.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.909467,
+          59.410675
+        ]
+      },
+      "properties": {
+        "title": "File:Akalla hundrastg\u00e5rd, J\u00e4rvaf\u00e4ltet 03.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Akalla_hundrastg\u00e5rd,_J\u00e4rvaf\u00e4ltet_03.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.818481,
+          59.370003
+        ]
+      },
+      "properties": {
+        "title": "File:Oxtungans hundg\u00e5rd H\u00e4sselby 02.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Oxtungans_hundg\u00e5rd_H\u00e4sselby_02.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.859147,
+          59.364444
+        ]
+      },
+      "properties": {
+        "title": "File:Lunda\u00e4ngens Hundrastg\u00e5rd - Sp\u00e5nga 02.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Lunda\u00e4ngens_Hundrastg\u00e5rd_-_Sp\u00e5nga_02.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.935325,
+          59.396886
+        ]
+      },
+      "properties": {
+        "title": "File:\u00c5rvinge hundrastg\u00e5rd 04.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:\u00c5rvinge_hundrastg\u00e5rd_04.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.937064,
+          59.402206
+        ]
+      },
+      "properties": {
+        "title": "File:Kvarnens hundrastg\u00e5rd 01.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Kvarnens_hundrastg\u00e5rd_01.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.859056,
+          59.364344
+        ]
+      },
+      "properties": {
+        "title": "File:Lunda\u00e4ngens Hundrastg\u00e5rd - Sp\u00e5nga 06.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Lunda\u00e4ngens_Hundrastg\u00e5rd_-_Sp\u00e5nga_06.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.909292,
+          59.410611
+        ]
+      },
+      "properties": {
+        "title": "File:Akalla hundrastg\u00e5rd, J\u00e4rvaf\u00e4ltet 06.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Akalla_hundrastg\u00e5rd,_J\u00e4rvaf\u00e4ltet_06.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.935653,
+          59.396917
+        ]
+      },
+      "properties": {
+        "title": "File:\u00c5rvinge hundrastg\u00e5rd 03.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:\u00c5rvinge_hundrastg\u00e5rd_03.jpg"
+      }
+    }
+  ]
+}

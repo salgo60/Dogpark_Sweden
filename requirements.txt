@@ -1,5 +1,0 @@
-folium
-ipywidgets
-SPARQLWrapper
-pandas
-requests

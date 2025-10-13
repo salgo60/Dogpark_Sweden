@@ -1,0 +1,1992 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_aec392cb0f6071e659780e0853ba1343 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_aec392cb0f6071e659780e0853ba1343" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_aec392cb0f6071e659780e0853ba1343 = L.map(
+                "map_aec392cb0f6071e659780e0853ba1343",
+                {
+                    center: [59.33, 18.07],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 11,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_0655df00494723da7ae38e9bc5bcd89e = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_0655df00494723da7ae38e9bc5bcd89e.addTo(map_aec392cb0f6071e659780e0853ba1343);
+        
+    
+            var feature_group_8c078be9b8fbdfdccc6d62da49e89412 = L.featureGroup(
+                {
+}
+            );
+        
+    
+            var marker_9b5ced7f3699026dfcd732f02b42f2ab = L.marker(
+                [59.3093948, 18.0732459],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_1f78facf63fc564fa9a8ddf88eb0edf7 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_35ad79e2e989411e793c9e3cd66ceb9e = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_2810ff52cb14508796bdacc04731a667 = $(`<div id="html_2810ff52cb14508796bdacc04731a667" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Älvsborgsgatans Hundrastgård småhundar Älvsborgsgatan 1, 118 58 Stockholm, Sweden</b><br>       <i>Stockholm</i><br><br>       Invalid Date       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJ3z3fAAB3X0YRvLUbrU0jIh4" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3093948/18.0732459" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh5.googleusercontent.com/p/AF1QipNdwJ2Z00ReVv0JhhlNw0LfB9JWpR0mJxCyWKPu=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_35ad79e2e989411e793c9e3cd66ceb9e.setContent(html_2810ff52cb14508796bdacc04731a667);
+            
+        
+
+        marker_9b5ced7f3699026dfcd732f02b42f2ab.bindPopup(popup_35ad79e2e989411e793c9e3cd66ceb9e)
+        ;
+
+        
+    
+    
+                marker_9b5ced7f3699026dfcd732f02b42f2ab.setIcon(icon_1f78facf63fc564fa9a8ddf88eb0edf7);
+            
+    
+            var marker_d7996d820115e42fba0768595066a771 = L.marker(
+                [59.3107439, 18.023132],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_09158128886dac5f1c1cb0c4a6b38b34 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_21394565960b3c6f5a7e30289b5512b3 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_e1ebf33153bad3786809f74c0713ac10 = $(`<div id="html_e1ebf33153bad3786809f74c0713ac10" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Björnparken Hund park Liljeholmen, Stockholm, Sweden 3.0</b><br>       <i>Stockholm</i><br><br>       27 juni 2023       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJjVFPtm93X0YRqyNMPxYEONY" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3107439/18.023132" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ucm8OxfjIIDurfjVznIy9g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=301.01474&pitch=0&thumbfov=100" width="250">     </div>     </div>`)[0];
+                popup_21394565960b3c6f5a7e30289b5512b3.setContent(html_e1ebf33153bad3786809f74c0713ac10);
+            
+        
+
+        marker_d7996d820115e42fba0768595066a771.bindPopup(popup_21394565960b3c6f5a7e30289b5512b3)
+        ;
+
+        
+    
+    
+                marker_d7996d820115e42fba0768595066a771.setIcon(icon_09158128886dac5f1c1cb0c4a6b38b34);
+            
+    
+            var marker_b8b10b7d7bf3b56410f649ed1de31d3f = L.marker(
+                [59.2905028, 18.0911605],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_93a1a7e90cd9abaaa2e53c7d2bf9abc7 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f041be5590b7258292dd9b75ba1aa8e2 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_d7078546660052842495f0d66918d52f = $(`<div id="html_d7078546660052842495f0d66918d52f" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Rullstolsanpassad ingång Blåsut hundrastgård Blåsut, Stockholm, Sweden 3.8</b><br>       <i>Stockholm</i><br><br>       8 februari 2024       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJ_82puyR4X0YR-X20nxOS-2s" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.2905028/18.0911605" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh5.googleusercontent.com/p/AF1QipOFuNW_myOzHPOdKqRR2R2jLy7tjdn4eb5xjtjF=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_f041be5590b7258292dd9b75ba1aa8e2.setContent(html_d7078546660052842495f0d66918d52f);
+            
+        
+
+        marker_b8b10b7d7bf3b56410f649ed1de31d3f.bindPopup(popup_f041be5590b7258292dd9b75ba1aa8e2)
+        ;
+
+        
+    
+    
+                marker_b8b10b7d7bf3b56410f649ed1de31d3f.setIcon(icon_93a1a7e90cd9abaaa2e53c7d2bf9abc7);
+            
+    
+            var marker_1c76f06a3b0934a4d7122fbab32acc44 = L.marker(
+                [59.2859021, 17.9696681],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_a016af19f10d21576b44a6da63883652 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_85560caddde2d50bca076bd9fdd26cc8 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_6979fbe1e55b0e0d3878808bb48ddca8 = $(`<div id="html_6979fbe1e55b0e0d3878808bb48ddca8" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Dog Park Mickelsbergsvägen 129 50 Stockholm, Sweden 3.9</b><br>       <i>Stockholm</i><br><br>       Måndag: 7 AM to 10 PM Tisdag: 7 AM to 10 PM Onsdag: 7 AM to 10 PM Torsdag: 7 AM to 10 PM Fredag: 7 AM to 10 PM Lördag: 7 AM to 10 PM Söndag: 7 AM to 10 PM       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJl7otMVV3X0YRk56h2JChk-U" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.2859021/17.9696681" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh5.googleusercontent.com/p/AF1QipNy6R4NMelBlHQNzLFCK5gShY9v0acaFrpTGPk9=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_85560caddde2d50bca076bd9fdd26cc8.setContent(html_6979fbe1e55b0e0d3878808bb48ddca8);
+            
+        
+
+        marker_1c76f06a3b0934a4d7122fbab32acc44.bindPopup(popup_85560caddde2d50bca076bd9fdd26cc8)
+        ;
+
+        
+    
+    
+                marker_1c76f06a3b0934a4d7122fbab32acc44.setIcon(icon_a016af19f10d21576b44a6da63883652);
+            
+    
+            var marker_ff2a46c31e40f9a7b72a91e1426cc609 = L.marker(
+                [59.2904037, 17.9653548],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_dc80ebef0988a221200797b2ff479f0f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1df1183a611aa6cd0339de981e233be2 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_c4678941b5561bb4117415cf6ca8684a = $(`<div id="html_c4678941b5561bb4117415cf6ca8684a" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Dog Park Västertorp Metro Station Västertorpsvägen, 129 47 Stockholm, Sweden 3.2</b><br>       <i>Stockholm</i><br><br>       Öppet dygnet runt       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJC34N_gd3X0YR95R_uUgldbQ" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.2904037/17.9653548" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh3.googleusercontent.com/p/AF1QipN5zn4asVHtF4og7lylSRNK3pXW-DrldDdBvFo=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_1df1183a611aa6cd0339de981e233be2.setContent(html_c4678941b5561bb4117415cf6ca8684a);
+            
+        
+
+        marker_ff2a46c31e40f9a7b72a91e1426cc609.bindPopup(popup_1df1183a611aa6cd0339de981e233be2)
+        ;
+
+        
+    
+    
+                marker_ff2a46c31e40f9a7b72a91e1426cc609.setIcon(icon_dc80ebef0988a221200797b2ff479f0f);
+            
+    
+            var marker_f60480c08b2f9e7f15d117fe77f3f4ef = L.marker(
+                [59.3141093, 18.041118],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_20078ce86d5712b728fab7b30fbb8202 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_ca66a18b6279e5df049b53d39f3a95bd = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_9784a9062cdaff22c17b81581c2f69b1 = $(`<div id="html_9784a9062cdaff22c17b81581c2f69b1" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Drakenbergsparkens hundpark Hornsviksstigen, 117 41 Stockholm, Sweden 2.2</b><br>       <i>Stockholm</i><br><br>       Öppet dygnet runt       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJHwFqtsN3X0YRbKyN8sXOt6s" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3141093/18.041118" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh5.googleusercontent.com/p/AF1QipM9_3vj-amVxiWEMxeHFEr4Ch0kBJy54syzKsP6=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_ca66a18b6279e5df049b53d39f3a95bd.setContent(html_9784a9062cdaff22c17b81581c2f69b1);
+            
+        
+
+        marker_f60480c08b2f9e7f15d117fe77f3f4ef.bindPopup(popup_ca66a18b6279e5df049b53d39f3a95bd)
+        ;
+
+        
+    
+    
+                marker_f60480c08b2f9e7f15d117fe77f3f4ef.setIcon(icon_20078ce86d5712b728fab7b30fbb8202);
+            
+    
+            var marker_8b5ec87c5d8039313d0978c3cdc9e792 = L.marker(
+                [59.3189738, 18.0672255],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_5e55d663af0f560bc8788743ec6869f5 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_a7b28107e0c85b0c5ef45c641c980195 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_f60daef7ef23d3a33451f9b0ff8f537e = $(`<div id="html_f60daef7ef23d3a33451f9b0ff8f537e" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Fatbursparken Hund park Maria, Södermalm, Stockholm, Sweden 5.0</b><br>       <i>Stockholm</i><br><br>       Information saknas       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJQ1uKWI53X0YRoyaUiRgVMz0" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3189738/18.0672255" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JHW6hqNhEB4fVCiw0xbhYQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=117.03812&pitch=0&thumbfov=100" width="250">     </div>     </div>`)[0];
+                popup_a7b28107e0c85b0c5ef45c641c980195.setContent(html_f60daef7ef23d3a33451f9b0ff8f537e);
+            
+        
+
+        marker_8b5ec87c5d8039313d0978c3cdc9e792.bindPopup(popup_a7b28107e0c85b0c5ef45c641c980195)
+        ;
+
+        
+    
+    
+                marker_8b5ec87c5d8039313d0978c3cdc9e792.setIcon(icon_5e55d663af0f560bc8788743ec6869f5);
+            
+    
+            var marker_83c03d198d54e03d1fd1a2ec34944808 = L.marker(
+                [59.3095155, 18.0766912],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_5f0a5c28c903803e4ef498d64f48bf8f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2ec2aa0ee1ba0a8698adf4fa90529fc2 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_d548233472cd261eaccb6dce10e8d38c = $(`<div id="html_d548233472cd261eaccb6dce10e8d38c" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Gotlandsparkens hundrastgård Gotlandsgatan 40-54, 116 65 Stockholm, Sweden 2.3</b><br>       <i>Stockholm</i><br><br>       Information saknas       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJ1QYfDXt3X0YRueCm12f6UTM" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3095155/18.0766912" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh5.googleusercontent.com/p/AF1QipOoN10ApRP3uvztDkpDuF97DjNrUIUZUO1fcYDX=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_2ec2aa0ee1ba0a8698adf4fa90529fc2.setContent(html_d548233472cd261eaccb6dce10e8d38c);
+            
+        
+
+        marker_83c03d198d54e03d1fd1a2ec34944808.bindPopup(popup_2ec2aa0ee1ba0a8698adf4fa90529fc2)
+        ;
+
+        
+    
+    
+                marker_83c03d198d54e03d1fd1a2ec34944808.setIcon(icon_5f0a5c28c903803e4ef498d64f48bf8f);
+            
+    
+            var marker_36ab8cc4aeae29e41a5ea53e9269432c = L.marker(
+                [59.3573446, 17.8585174],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_e5bc388a6b31b552b7d123c9dfcea590 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_47b508b236aa4d94c6bcf8ae0b0c0625 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_139d15104b52c530068e09fd99881eaa = $(`<div id="html_139d15104b52c530068e09fd99881eaa" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Picknickbord Vandring Grimstafältets hundrastgård Grimsta, Stockholm, Sweden 3.9</b><br>       <i>Stockholm</i><br><br>       Öppet dygnet runt       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJRVv79KafX0YRSHpZ2ssMKd8" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3573446/17.8585174" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh5.googleusercontent.com/p/AF1QipMFBefw2z5diGEwcegBUl_ngt6np2NsyL3n9A_h=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_47b508b236aa4d94c6bcf8ae0b0c0625.setContent(html_139d15104b52c530068e09fd99881eaa);
+            
+        
+
+        marker_36ab8cc4aeae29e41a5ea53e9269432c.bindPopup(popup_47b508b236aa4d94c6bcf8ae0b0c0625)
+        ;
+
+        
+    
+    
+                marker_36ab8cc4aeae29e41a5ea53e9269432c.setIcon(icon_e5bc388a6b31b552b7d123c9dfcea590);
+            
+    
+            var marker_18d6c25ed892f8bae427babde09251ca = L.marker(
+                [59.3947666, 17.8996949],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_8a58653e20d12064649f6e0df0721870 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_efdf567d1673e41f7f173508d1b3c20c = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_1c1815b5befdc3ffe949a63bd94d8fad = $(`<div id="html_1c1815b5befdc3ffe949a63bd94d8fad" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Picknickbord Hjulsta hundrastgård Tensta, Stockholm, Sweden 4.2</b><br>       <i>Stockholm</i><br><br>       Öppet dygnet runt       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJz33hwtGfX0YRYw5qNYPvnFE" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3947666/17.8996949" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XY0ssi945OPmgRqn6fbfqA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=41.61156&pitch=0&thumbfov=100" width="250">     </div>     </div>`)[0];
+                popup_efdf567d1673e41f7f173508d1b3c20c.setContent(html_1c1815b5befdc3ffe949a63bd94d8fad);
+            
+        
+
+        marker_18d6c25ed892f8bae427babde09251ca.bindPopup(popup_efdf567d1673e41f7f173508d1b3c20c)
+        ;
+
+        
+    
+    
+                marker_18d6c25ed892f8bae427babde09251ca.setIcon(icon_8a58653e20d12064649f6e0df0721870);
+            
+    
+            var marker_52825a5131f5023472dbe9547fb0a02c = L.marker(
+                [59.3415211, 17.8797289],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_1197c4bd349104552d46ec9a1931b5d4 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_19455c88ccc7a09baf6b306dd5c1d566 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_a91b196d1993c17935e37656a13c2962 = $(`<div id="html_a91b196d1993c17935e37656a13c2962" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Hundgård 168 52 Stockholm, Sweden 3.4</b><br>       <i>Stockholm</i><br><br>       26 november 2024       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJYb_QO5B1X0YRFgDr-JCgTso" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3415211/17.8797289" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh5.googleusercontent.com/p/AF1QipMqH4ZAIpyTd0l0hoF8j3Qb1oO2MK3r_rg5yXI=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_19455c88ccc7a09baf6b306dd5c1d566.setContent(html_a91b196d1993c17935e37656a13c2962);
+            
+        
+
+        marker_52825a5131f5023472dbe9547fb0a02c.bindPopup(popup_19455c88ccc7a09baf6b306dd5c1d566)
+        ;
+
+        
+    
+    
+                marker_52825a5131f5023472dbe9547fb0a02c.setIcon(icon_1197c4bd349104552d46ec9a1931b5d4);
+            
+    
+            var marker_5f45a7d441066a7dfc2929674219764c = L.marker(
+                [59.3442368, 18.0345303],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_5bb1f6b899d05eb85d28e63cece302d3 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2f61067a71f6498b3e0f22fa743438ad = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_2b771c4dd52139e2e99ee9dcb01ca315 = $(`<div id="html_2b771c4dd52139e2e99ee9dcb01ca315" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Hund park Rödabergsgatan 16, 113 33 Stockholm, Sweden 3.9</b><br>       <i>Stockholm</i><br><br>       27 februari 2025       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJrXvUcXedX0YRn8TgIkXk6Og" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3442368/18.0345303" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh5.googleusercontent.com/p/AF1QipNKaCV3PeGdJ2TZ6j0CdEDQNkVqgQREAt-kHoZL=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_2f61067a71f6498b3e0f22fa743438ad.setContent(html_2b771c4dd52139e2e99ee9dcb01ca315);
+            
+        
+
+        marker_5f45a7d441066a7dfc2929674219764c.bindPopup(popup_2f61067a71f6498b3e0f22fa743438ad)
+        ;
+
+        
+    
+    
+                marker_5f45a7d441066a7dfc2929674219764c.setIcon(icon_5bb1f6b899d05eb85d28e63cece302d3);
+            
+    
+            var marker_e0f13baf22bab2508582dc4b8e312c36 = L.marker(
+                [59.3176821, 18.0859445],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_ac1089cc407ab2f2d61b9818c503f5a2 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_8f739b1f69554c9414559696a9d10bd1 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_c8e984a834b1df686f104d0fbccaa2fb = $(`<div id="html_c8e984a834b1df686f104d0fbccaa2fb" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Hund park 116 45 Stockholm, Sweden 4.3</b><br>       <i>Stockholm</i><br><br>       Öppet dygnet runt       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJq5U6s-V5X0YRJyD0nILfmek" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3176821/18.0859445" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh5.googleusercontent.com/p/AF1QipP5NHkFnbQhmjADiXu5scKDaVm7O6i9VcM_kTJU=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_8f739b1f69554c9414559696a9d10bd1.setContent(html_c8e984a834b1df686f104d0fbccaa2fb);
+            
+        
+
+        marker_e0f13baf22bab2508582dc4b8e312c36.bindPopup(popup_8f739b1f69554c9414559696a9d10bd1)
+        ;
+
+        
+    
+    
+                marker_e0f13baf22bab2508582dc4b8e312c36.setIcon(icon_ac1089cc407ab2f2d61b9818c503f5a2);
+            
+    
+            var marker_6eac4c0f3dee71ef96e38a812cb0304a = L.marker(
+                [59.3470848, 18.0559921],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_5e9ca3957a75cf7fad87a22cf9e0ab02 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_dac33f65165977aac06cb577aed18726 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_624da852ed24782788f451073f1fade0 = $(`<div id="html_624da852ed24782788f451073f1fade0" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Hundpark Frejgatan 20X, 113 49 Stockholm, Sweden 4.4</b><br>       <i>Stockholm</i><br><br>       28 januari 2025       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJRVvUpG2dX0YRWO6J4zDZngk" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3470848/18.0559921" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh5.googleusercontent.com/p/AF1QipOD5vNBtoplKncXxrXLz1KHMvi4qSCQ-zJT9h5X=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_dac33f65165977aac06cb577aed18726.setContent(html_624da852ed24782788f451073f1fade0);
+            
+        
+
+        marker_6eac4c0f3dee71ef96e38a812cb0304a.bindPopup(popup_dac33f65165977aac06cb577aed18726)
+        ;
+
+        
+    
+    
+                marker_6eac4c0f3dee71ef96e38a812cb0304a.setIcon(icon_5e9ca3957a75cf7fad87a22cf9e0ab02);
+            
+    
+            var marker_c7998068c09537a199fda19eaf8ef22d = L.marker(
+                [59.3185814, 18.0418427],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_1d0131aa0bbe0f8ec71bbf5a64fed1ea = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_c8626781c734645118e16c93bc8d1146 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_da8c6fabf3dc33c4af3f7fb7ef2e30f3 = $(`<div id="html_da8c6fabf3dc33c4af3f7fb7ef2e30f3" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Hundrastgård Kristinehovsgatan 1, 117 29 Stockholm, Sweden 4.0</b><br>       <i>Stockholm</i><br><br>       Öppet dygnet runt       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJ63_mQ2t3X0YRKT9YFsfls3c" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3185814/18.0418427" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh5.googleusercontent.com/p/AF1QipO5JiuQi1ryBbSF0Dy8e3sAMHMqapibnBvyEbdo=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_c8626781c734645118e16c93bc8d1146.setContent(html_da8c6fabf3dc33c4af3f7fb7ef2e30f3);
+            
+        
+
+        marker_c7998068c09537a199fda19eaf8ef22d.bindPopup(popup_c8626781c734645118e16c93bc8d1146)
+        ;
+
+        
+    
+    
+                marker_c7998068c09537a199fda19eaf8ef22d.setIcon(icon_1d0131aa0bbe0f8ec71bbf5a64fed1ea);
+            
+    
+            var marker_cb17a41adfdb1210ad9584ac5d41167c = L.marker(
+                [59.4138569, 17.9099175],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_b1a319ecf631cf6f210d72b3b909907e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f33e037786efed414b86f1aac781e5f5 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_410b4c3c02d7e061cf8012a5572d33bf = $(`<div id="html_410b4c3c02d7e061cf8012a5572d33bf" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Hundrastgård Akalla 164 79 Stockholm, Sweden 4.8</b><br>       <i>Stockholm</i><br><br>       Information saknas       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJ0-WsH6ifX0YRKvS9IAzD5qE" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.4138569/17.9099175" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh5.googleusercontent.com/p/AF1QipNJE7JWVZRYOL6zHqb7Jp19-qU4WS0u9PIpnEbb=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_f33e037786efed414b86f1aac781e5f5.setContent(html_410b4c3c02d7e061cf8012a5572d33bf);
+            
+        
+
+        marker_cb17a41adfdb1210ad9584ac5d41167c.bindPopup(popup_f33e037786efed414b86f1aac781e5f5)
+        ;
+
+        
+    
+    
+                marker_cb17a41adfdb1210ad9584ac5d41167c.setIcon(icon_b1a319ecf631cf6f210d72b3b909907e);
+            
+    
+            var marker_ffde5649c11a5d968c9f82205018e779 = L.marker(
+                [59.4153224, 17.9123401],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_99e494b7aafafcacca4ee011e56600c1 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_c115847a1deabdc69bd916e79816ce2c = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_2d53dec79432eaa20c9ed22c11a2544e = $(`<div id="html_2d53dec79432eaa20c9ed22c11a2544e" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Hundrastgård Akalla 164 72 Stockholm, Sweden 5.0</b><br>       <i>Stockholm</i><br><br>       20 juli 2024       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJZ_EFH5SfX0YRoQyTLiVq-Kk" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.4153224/17.9123401" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BqQIx6dHLIfuY6CG3ywI2g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=21.662125&pitch=0&thumbfov=100" width="250">     </div>     </div>`)[0];
+                popup_c115847a1deabdc69bd916e79816ce2c.setContent(html_2d53dec79432eaa20c9ed22c11a2544e);
+            
+        
+
+        marker_ffde5649c11a5d968c9f82205018e779.bindPopup(popup_c115847a1deabdc69bd916e79816ce2c)
+        ;
+
+        
+    
+    
+                marker_ffde5649c11a5d968c9f82205018e779.setIcon(icon_99e494b7aafafcacca4ee011e56600c1);
+            
+    
+            var marker_2bc77d15f8fef74f334b29a8b6745e9d = L.marker(
+                [59.32262, 18.1173601],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_8398e85a539d5a065fee2faa32ee0001 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_160b73ba1e3ea14e4d198094b0389afa = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_306989483ef4e5bdec77ebbca05e319d = $(`<div id="html_306989483ef4e5bdec77ebbca05e319d" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Rullstolsanpassad ingång Hundrastgård Djurgården Prins Eugens Väg, 115 21 Stockholm, Sweden 4.4</b><br>       <i>Stockholm</i><br><br>       31 januari 2025       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJxU2R4veDX0YRWgt3P8dwzvc" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.32262/18.1173601" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh5.googleusercontent.com/p/AF1QipMv4t3E_zG5MalU0m-jBHIqApe9ZQXHy06bccfa=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_160b73ba1e3ea14e4d198094b0389afa.setContent(html_306989483ef4e5bdec77ebbca05e319d);
+            
+        
+
+        marker_2bc77d15f8fef74f334b29a8b6745e9d.bindPopup(popup_160b73ba1e3ea14e4d198094b0389afa)
+        ;
+
+        
+    
+    
+                marker_2bc77d15f8fef74f334b29a8b6745e9d.setIcon(icon_8398e85a539d5a065fee2faa32ee0001);
+            
+    
+            var marker_75933147c9ecc6accbbc267afd5850fa = L.marker(
+                [59.3438933, 18.0743127],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_2fde4edfd674683bc60677f3526e7178 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_b1e503fcef800c7e8e9766826f46ad4a = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_39aba3f73caf69791e1115d5a7c523f2 = $(`<div id="html_39aba3f73caf69791e1115d5a7c523f2" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Hundrastgården i Humlegården 114 32 Stockholm, Sweden 4.0</b><br>       <i>Stockholm</i><br><br>       5 oktober 2024       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJuRWzOD2dX0YRZAJ274K9QoE" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3438933/18.0743127" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh5.googleusercontent.com/p/AF1QipNYzvaIpXT2EGzAwgH71lKTd4cNP-fbeWuRZPQT=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_b1e503fcef800c7e8e9766826f46ad4a.setContent(html_39aba3f73caf69791e1115d5a7c523f2);
+            
+        
+
+        marker_75933147c9ecc6accbbc267afd5850fa.bindPopup(popup_b1e503fcef800c7e8e9766826f46ad4a)
+        ;
+
+        
+    
+    
+                marker_75933147c9ecc6accbbc267afd5850fa.setIcon(icon_2fde4edfd674683bc60677f3526e7178);
+            
+    
+            var marker_3caf8ca38c7954e7fc8e696c49e56854 = L.marker(
+                [59.3008458, 18.0947003],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_b6c70fa6c509f819e8dc71b3371e8090 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_9fe1efa1bec674b745a66482c24e05c5 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_2c58aa1258e666c478142e465129bbbc = $(`<div id="html_2c58aa1258e666c478142e465129bbbc" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Hundrastgård hammarbybacken Hammarby Fabriksväg, 120 33 Stockholm, Sweden 3.0</b><br>       <i>Stockholm</i><br><br>       Information saknas       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJMbN5wG55X0YRZ1RtcouDHhE" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3008458/18.0947003" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IOcrDWwBkydKC9zPMmzpeg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=0.45201504&pitch=0&thumbfov=100" width="250">     </div>     </div>`)[0];
+                popup_9fe1efa1bec674b745a66482c24e05c5.setContent(html_2c58aa1258e666c478142e465129bbbc);
+            
+        
+
+        marker_3caf8ca38c7954e7fc8e696c49e56854.bindPopup(popup_9fe1efa1bec674b745a66482c24e05c5)
+        ;
+
+        
+    
+    
+                marker_3caf8ca38c7954e7fc8e696c49e56854.setIcon(icon_b6c70fa6c509f819e8dc71b3371e8090);
+            
+    
+            var marker_c0e62a1f295add4bfe03ee3fa13ce32d = L.marker(
+                [59.3251172, 18.0710935],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_ded19cf85de17fbd3bf6b1bae48444ba = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_997f8b92e7c2c667a286c834bb336d05 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_c97c6dd82d4c28f3733dcfe784f62727 = $(`<div id="html_c97c6dd82d4c28f3733dcfe784f62727" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Hundrastgård Henriksdal Stockholm 222 23, 131 55 Stockholm, Sweden 5.0</b><br>       <i>Stockholm</i><br><br>       15 november 2023       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJG2YM7Bt5X0YRkiXiyyTneis" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3251172/18.0710935" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cXCxe1gLy2D0Yx0lcds-Iw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=296.49518&pitch=0&thumbfov=100" width="250">     </div>     </div>`)[0];
+                popup_997f8b92e7c2c667a286c834bb336d05.setContent(html_c97c6dd82d4c28f3733dcfe784f62727);
+            
+        
+
+        marker_c0e62a1f295add4bfe03ee3fa13ce32d.bindPopup(popup_997f8b92e7c2c667a286c834bb336d05)
+        ;
+
+        
+    
+    
+                marker_c0e62a1f295add4bfe03ee3fa13ce32d.setIcon(icon_ded19cf85de17fbd3bf6b1bae48444ba);
+            
+    
+            var marker_701b2278cdfb2cc2d9ec508c42254cb0 = L.marker(
+                [59.3376197, 18.0158768],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_87fdb1b060b537a3a74503a3ebb8d317 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_a1e66ee8e6c0a62dc45f12b122b370b2 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_e8d66f43caa0d1f81c436b1d79206ecd = $(`<div id="html_e8d66f43caa0d1f81c436b1d79206ecd" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Hundrastgård i Sankt Göransparken Stadshagen, Kungsholmen, 112 19 Stockholm, Sweden 2.8</b><br>       <i>Stockholm</i><br><br>       25 november 2024       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJT2uvAmedX0YRCQM67-C-Cuw" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3376197/18.0158768" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh5.googleusercontent.com/p/AF1QipPFmJvIJ5sWjnkicVEKJPUyE-eo5--yOdPNR4G0=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_a1e66ee8e6c0a62dc45f12b122b370b2.setContent(html_e8d66f43caa0d1f81c436b1d79206ecd);
+            
+        
+
+        marker_701b2278cdfb2cc2d9ec508c42254cb0.bindPopup(popup_a1e66ee8e6c0a62dc45f12b122b370b2)
+        ;
+
+        
+    
+    
+                marker_701b2278cdfb2cc2d9ec508c42254cb0.setIcon(icon_87fdb1b060b537a3a74503a3ebb8d317);
+            
+    
+            var marker_50705a4094b2ac55caea3f45374e94c0 = L.marker(
+                [59.3207312, 18.0604556],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_f75c7f2c9deaa7bf5433ede2a787bf37 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_11a37bd1acd84fdd6b1d4914d7486f86 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_708323dafb7859a56df40ce5212cc31c = $(`<div id="html_708323dafb7859a56df40ce5212cc31c" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Hundrastgård Monteliusvägen Monteliusvägen, 118 25 Stockholm, Sweden 4.3</b><br>       <i>Stockholm</i><br><br>       Öppet dygnet runt       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJ60PAP493X0YR8dClpruCgvE" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3207312/18.0604556" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh3.googleusercontent.com/gps-cs-s/AB5caB_mc1qSx9C2aTmrblSrVrAiE-40HYmUZW8uyXGZLQXf5LCgIY650ApSiqWUPx9jkKuwnZg1qTF29K5tOsy0BzFWSvCfv0pXOAX6qCW5RXezbwtr3ghgqG1TRFbif7vtV_yF6-xA=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_11a37bd1acd84fdd6b1d4914d7486f86.setContent(html_708323dafb7859a56df40ce5212cc31c);
+            
+        
+
+        marker_50705a4094b2ac55caea3f45374e94c0.bindPopup(popup_11a37bd1acd84fdd6b1d4914d7486f86)
+        ;
+
+        
+    
+    
+                marker_50705a4094b2ac55caea3f45374e94c0.setIcon(icon_f75c7f2c9deaa7bf5433ede2a787bf37);
+            
+    
+            var marker_7baa90a53ff8d6fffc44b74a69f87e05 = L.marker(
+                [59.3414574, 18.0565585],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_9b5f6d27df2b56ba3850d06f2f33840a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_943428b9fc935d7440486e689d8b7b8a = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_80073c02820ee5ad1ef209d0b87311f9 = $(`<div id="html_80073c02820ee5ad1ef209d0b87311f9" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Hundrastgård Observatorielunden Bertil Ohlins gata 4, 113 50 Stockholm, Sweden 3.4</b><br>       <i>Stockholm</i><br><br>       19 februari 2025       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJOTjwKeKdX0YRbLb7ZKp9VyQ" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3414574/18.0565585" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh5.googleusercontent.com/p/AF1QipMdAT7Xqi9BMrrE4drcvidkw54xz5BKahvFJufm=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_943428b9fc935d7440486e689d8b7b8a.setContent(html_80073c02820ee5ad1ef209d0b87311f9);
+            
+        
+
+        marker_7baa90a53ff8d6fffc44b74a69f87e05.bindPopup(popup_943428b9fc935d7440486e689d8b7b8a)
+        ;
+
+        
+    
+    
+                marker_7baa90a53ff8d6fffc44b74a69f87e05.setIcon(icon_9b5f6d27df2b56ba3850d06f2f33840a);
+            
+    
+            var marker_ccc335f5c7c9cbd30a30f2821b2f7e93 = L.marker(
+                [59.3160943, 18.0577689],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_d373d5f16a01187f292920ed968ca48e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_af91affce31b8e9a7ca0a94f1a7b8234 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_d807ef1b8d757471505c3ba300aa2443 = $(`<div id="html_d807ef1b8d757471505c3ba300aa2443" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Hundrastgård Wollmar Yxkullsgatan 25 Wollmar Yxkullsgatan 25, 118 52 Stockholm, Sweden</b><br>       <i>Stockholm</i><br><br>       Öppet dygnet runt       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJ11XiFwB3X0YRHO1-gbmH9AQ" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3160943/18.0577689" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://www.hundlekplatsen.se/placeholder.svg?height=500&width=1200" width="250">     </div>     </div>`)[0];
+                popup_af91affce31b8e9a7ca0a94f1a7b8234.setContent(html_d807ef1b8d757471505c3ba300aa2443);
+            
+        
+
+        marker_ccc335f5c7c9cbd30a30f2821b2f7e93.bindPopup(popup_af91affce31b8e9a7ca0a94f1a7b8234)
+        ;
+
+        
+    
+    
+                marker_ccc335f5c7c9cbd30a30f2821b2f7e93.setIcon(icon_d373d5f16a01187f292920ed968ca48e);
+            
+    
+            var marker_78998d15a4b29c1ae318f1377022f53e = L.marker(
+                [59.3100607, 18.0591472],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_7c3c359712ec2d220db132a9715514ff = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2c60274cecb7ba830150e8071cb8eca3 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_d9ce4d4dc252495e7635dc8ff7f765f4 = $(`<div id="html_d9ce4d4dc252495e7635dc8ff7f765f4" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Hundrastområde Eriksdalslunden 118 67 Stockholm, Sweden 4.5</b><br>       <i>Stockholm</i><br><br>       5 december 2022       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJl7X849l3X0YRT5qzqqIHNaI" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3100607/18.0591472" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh5.googleusercontent.com/p/AF1QipOATFsJSRmnTaABGcKdIyt-Ko7xh-DgjLdU18KR=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_2c60274cecb7ba830150e8071cb8eca3.setContent(html_d9ce4d4dc252495e7635dc8ff7f765f4);
+            
+        
+
+        marker_78998d15a4b29c1ae318f1377022f53e.bindPopup(popup_2c60274cecb7ba830150e8071cb8eca3)
+        ;
+
+        
+    
+    
+                marker_78998d15a4b29c1ae318f1377022f53e.setIcon(icon_7c3c359712ec2d220db132a9715514ff);
+            
+    
+            var marker_309589b763f5f81d01ea09163a5c3809 = L.marker(
+                [59.3453832, 18.1025419],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_4fdbb6c7ca691ff606273fb7f427ad6d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_3ba60dc2ee37df607f50b99f73a97124 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_c17475a92d261c7ed50efa18e46e00ea = $(`<div id="html_c17475a92d261c7ed50efa18e46e00ea" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Kampementsbacken Hund park Kampementsgatan 8, 115 38 Stockholm, Sweden 4.2</b><br>       <i>Stockholm</i><br><br>       10 mars 2025       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJqVld-4edX0YRQfMEDNS1tc0" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3453832/18.1025419" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh5.googleusercontent.com/p/AF1QipPfo8Q4yEgUBJ841DTz7690imhe28vrDKKSK-gY=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_3ba60dc2ee37df607f50b99f73a97124.setContent(html_c17475a92d261c7ed50efa18e46e00ea);
+            
+        
+
+        marker_309589b763f5f81d01ea09163a5c3809.bindPopup(popup_3ba60dc2ee37df607f50b99f73a97124)
+        ;
+
+        
+    
+    
+                marker_309589b763f5f81d01ea09163a5c3809.setIcon(icon_4fdbb6c7ca691ff606273fb7f427ad6d);
+            
+    
+            var marker_eb445b6e4e42d1f4e4ff7ead76bc3966 = L.marker(
+                [59.3330234, 18.0077003],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_ca01e071e5ef55da7b06f6f1bbf0491d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_55f6312e9f4b92bb9f971097975f30ab = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_57278d78a6fb511deb3ec349667e9be3 = $(`<div id="html_57278d78a6fb511deb3ec349667e9be3" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Kristinebergs Hundrastgård Kristinebergs Slottsväg, 112 14 Stockholm, Sweden</b><br>       <i>Stockholm</i><br><br>       Invalid Date       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJc-YtFgB3X0YRQRz_4aWVTfc" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3330234/18.0077003" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sINYJ5N8DM6NPSMKiN29Fg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=347.15433&pitch=0&thumbfov=100" width="250">     </div>     </div>`)[0];
+                popup_55f6312e9f4b92bb9f971097975f30ab.setContent(html_57278d78a6fb511deb3ec349667e9be3);
+            
+        
+
+        marker_eb445b6e4e42d1f4e4ff7ead76bc3966.bindPopup(popup_55f6312e9f4b92bb9f971097975f30ab)
+        ;
+
+        
+    
+    
+                marker_eb445b6e4e42d1f4e4ff7ead76bc3966.setIcon(icon_ca01e071e5ef55da7b06f6f1bbf0491d);
+            
+    
+            var marker_d567e33a707be0d9906a6360da18dbb4 = L.marker(
+                [59.3332138, 18.0369087],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_046985993310a970e7a8d61ebb4553cf = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_df232b335523a381694e3e07f0719a43 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_7aae678cd454d964ec91ebe6799d63cb = $(`<div id="html_7aae678cd454d964ec91ebe6799d63cb" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Picknickbord Rutschkanor Kronobergsparken Parkgatan 6, 112 38 Stockholm, Sweden 4.2</b><br>       <i>Stockholm</i><br><br>       8 mars 2025       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJR_ao4Nd3X0YRXxBCfKrFRXw" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3332138/18.0369087" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh5.googleusercontent.com/p/AF1QipP4M_mcdu3yHzDDM7H9a-GotSHDd_JJsuY3YYTB=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_df232b335523a381694e3e07f0719a43.setContent(html_7aae678cd454d964ec91ebe6799d63cb);
+            
+        
+
+        marker_d567e33a707be0d9906a6360da18dbb4.bindPopup(popup_df232b335523a381694e3e07f0719a43)
+        ;
+
+        
+    
+    
+                marker_d567e33a707be0d9906a6360da18dbb4.setIcon(icon_046985993310a970e7a8d61ebb4553cf);
+            
+    
+            var marker_880391c3b1f73e6d00b5a3eb709e0bdf = L.marker(
+                [59.3344399, 18.0411752],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_2ee9d869a52e7ead9b4628425c137b1a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_bc5072acdad7d424bd9865c231605758 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_2a5d6ade48da8d14e4e04602ff0bb180 = $(`<div id="html_2a5d6ade48da8d14e4e04602ff0bb180" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Kvarnbergets hundrastgård 112 69 Stockholm, Sweden 4.2</b><br>       <i>Stockholm</i><br><br>       Öppet dygnet runt       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJ5cEmdyKdX0YRmhI5n0lXDSA" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3344399/18.0411752" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh5.googleusercontent.com/p/AF1QipOlTzEPGbjAQFwVJ67nqtz-4zHd-FLmB_WGfH-m=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_bc5072acdad7d424bd9865c231605758.setContent(html_2a5d6ade48da8d14e4e04602ff0bb180);
+            
+        
+
+        marker_880391c3b1f73e6d00b5a3eb709e0bdf.bindPopup(popup_bc5072acdad7d424bd9865c231605758)
+        ;
+
+        
+    
+    
+                marker_880391c3b1f73e6d00b5a3eb709e0bdf.setIcon(icon_2ee9d869a52e7ead9b4628425c137b1a);
+            
+    
+            var marker_837016d6c9baa079866b973242356461 = L.marker(
+                [59.324156, 18.0018751],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_4788bb8b5f2f6140eb020bbc186b939f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2e2663ece2a7a5db45ee9178770bd801 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_b8901b8bdb9e81718bd3e626403f715e = $(`<div id="html_b8901b8bdb9e81718bd3e626403f715e" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Lilla Essingens hundrastgård Primusgatan 53, 112 67 Stockholm, Sweden</b><br>       <i>Stockholm</i><br><br>       Invalid Date       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJt658TAB3X0YRz7o2lRqnTkE" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.324156/18.0018751" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5QfryIA8kE__D5t5jqzVKQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=11.390183&pitch=0&thumbfov=100" width="250">     </div>     </div>`)[0];
+                popup_2e2663ece2a7a5db45ee9178770bd801.setContent(html_b8901b8bdb9e81718bd3e626403f715e);
+            
+        
+
+        marker_837016d6c9baa079866b973242356461.bindPopup(popup_2e2663ece2a7a5db45ee9178770bd801)
+        ;
+
+        
+    
+    
+                marker_837016d6c9baa079866b973242356461.setIcon(icon_4788bb8b5f2f6140eb020bbc186b939f);
+            
+    
+            var marker_2bdf700add76bcc0800e343127ddfd74 = L.marker(
+                [59.3523931, 18.0672288],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_5745094d199d15b7caffc9b25c05a1d2 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1680892b70fe86e13c12c143a94cf604 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_e26e17a79de854fa16926fd30815a441 = $(`<div id="html_e26e17a79de854fa16926fd30815a441" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Lill-Jansskogen hundrastgård Uggleviksvägen, 114 28 Stockholm, Sweden 4.3</b><br>       <i>Stockholm</i><br><br>       Information saknas       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJkW5z_r6dX0YR9pk8yw27nfI" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3523931/18.0672288" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh5.googleusercontent.com/p/AF1QipNsEVt23RMh6eAqFJHrj3v8cw8pUw05Xy03j8nu=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_1680892b70fe86e13c12c143a94cf604.setContent(html_e26e17a79de854fa16926fd30815a441);
+            
+        
+
+        marker_2bdf700add76bcc0800e343127ddfd74.bindPopup(popup_1680892b70fe86e13c12c143a94cf604)
+        ;
+
+        
+    
+    
+                marker_2bdf700add76bcc0800e343127ddfd74.setIcon(icon_5745094d199d15b7caffc9b25c05a1d2);
+            
+    
+            var marker_ba4524c188a57ee6ca36bbd243bf7fc6 = L.marker(
+                [59.3130587, 17.998093],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_4c6a36d736835e61346f2e34ddd9d360 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f054d06a9050b36d91a790fdf5033c3e = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_6d2249276b50879a6e1f3d300c35bec3 = $(`<div id="html_6d2249276b50879a6e1f3d300c35bec3" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Mörtviksparken Hund park Fregattvägen 79, 117 68 Stockholm, Sweden 4.5</b><br>       <i>Stockholm</i><br><br>       29 oktober 2024       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJDRdycut3X0YR6uS_I4R6wTM" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3130587/17.998093" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh5.googleusercontent.com/p/AF1QipNhKN2o0Wy314JdPe5lMr24zrxtG1thvXUXariV=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_f054d06a9050b36d91a790fdf5033c3e.setContent(html_6d2249276b50879a6e1f3d300c35bec3);
+            
+        
+
+        marker_ba4524c188a57ee6ca36bbd243bf7fc6.bindPopup(popup_f054d06a9050b36d91a790fdf5033c3e)
+        ;
+
+        
+    
+    
+                marker_ba4524c188a57ee6ca36bbd243bf7fc6.setIcon(icon_4c6a36d736835e61346f2e34ddd9d360);
+            
+    
+            var marker_087e0b6041646d589f47472db89f8a2f = L.marker(
+                [59.2868986, 18.1082514],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_dfb213941daf6d8dbd401ff56017e2f7 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_4a3fa72c8d1c038c67e0ca442fc8a7d6 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_3ba0f7446d4b7eb029e771b51eb7a3a9 = $(`<div id="html_3ba0f7446d4b7eb029e771b51eb7a3a9" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Nytorpsgärdet hundrastgård 121 54 Stockholm, Sweden 5.0</b><br>       <i>Stockholm</i><br><br>       Öppet dygnet runt       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJ94jFcQB5X0YRfDE9BzdljHs" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.2868986/18.1082514" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh3.googleusercontent.com/p/AF1QipNgqacIbT_ZdVtETk2T0nBkqlssh8uQKZ9P3o2q=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_4a3fa72c8d1c038c67e0ca442fc8a7d6.setContent(html_3ba0f7446d4b7eb029e771b51eb7a3a9);
+            
+        
+
+        marker_087e0b6041646d589f47472db89f8a2f.bindPopup(popup_4a3fa72c8d1c038c67e0ca442fc8a7d6)
+        ;
+
+        
+    
+    
+                marker_087e0b6041646d589f47472db89f8a2f.setIcon(icon_dfb213941daf6d8dbd401ff56017e2f7);
+            
+    
+            var marker_9d2bcd2beedb87fea213fbd799d171a7 = L.marker(
+                [59.3574658, 18.0916489],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_1fde2b56c6ca31bf139076625d601476 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_917f11e77fd0f67492262bda73338fa4 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_0aa24de047ab44a759ac021c0780f05a = $(`<div id="html_0aa24de047ab44a759ac021c0780f05a" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Östra Hjorthagsparken hundrastningsområde 115 42 Stockholm, Sweden</b><br>       <i>Stockholm</i><br><br>       Invalid Date       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJ7xSrmJmdX0YRPCDo_xNKP0Q" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3574658/18.0916489" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://www.hundlekplatsen.se/placeholder.svg?height=500&width=1200" width="250">     </div>     </div>`)[0];
+                popup_917f11e77fd0f67492262bda73338fa4.setContent(html_0aa24de047ab44a759ac021c0780f05a);
+            
+        
+
+        marker_9d2bcd2beedb87fea213fbd799d171a7.bindPopup(popup_917f11e77fd0f67492262bda73338fa4)
+        ;
+
+        
+    
+    
+                marker_9d2bcd2beedb87fea213fbd799d171a7.setIcon(icon_1fde2b56c6ca31bf139076625d601476);
+            
+    
+            var marker_44acb5a8c7f1c1579b12a398b16b7b8a = L.marker(
+                [59.3251172, 18.0710935],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_c572c0b81ae10a17409d72cc9f802f78 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_a1ebcb40d4b2864dfaa107b5040c2795 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_4a4ed0f7859e459f71d66c102748c7ab = $(`<div id="html_4a4ed0f7859e459f71d66c102748c7ab" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Reimersholme Hund park 117 50 Stockholm, Sweden 4.7</b><br>       <i>Stockholm</i><br><br>       Öppet dygnet runt       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJe1sJINd3X0YRBfSfb77uOBI" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3251172/18.0710935" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KQDvAIFbGBY0qCVVPYNaHw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=326.15308&pitch=0&thumbfov=100" width="250">     </div>     </div>`)[0];
+                popup_a1ebcb40d4b2864dfaa107b5040c2795.setContent(html_4a4ed0f7859e459f71d66c102748c7ab);
+            
+        
+
+        marker_44acb5a8c7f1c1579b12a398b16b7b8a.bindPopup(popup_a1ebcb40d4b2864dfaa107b5040c2795)
+        ;
+
+        
+    
+    
+                marker_44acb5a8c7f1c1579b12a398b16b7b8a.setIcon(icon_c572c0b81ae10a17409d72cc9f802f78);
+            
+    
+            var marker_22281e6f8bb32841e36ae8d801872a45 = L.marker(
+                [59.3483144, 18.0410376],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_21b4deec079269d96c2aeae40adce5e8 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_5ae966b4769e4c4b895ec6d3dd5257ca = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_38c5afa9b97b22856bc3eca83591f64b = $(`<div id="html_38c5afa9b97b22856bc3eca83591f64b" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Sankt Eriksparkens hundrastgård Sankt Eriksgatan 140, 113 43 Stockholm, Sweden</b><br>       <i>Stockholm</i><br><br>       Öppet dygnet runt       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJ0bBFHgCdX0YR535XCNeKaOo" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3483144/18.0410376" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Qvy7K0CUTwbq9hX7DMKUuQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=85.09404&pitch=0&thumbfov=100" width="250">     </div>     </div>`)[0];
+                popup_5ae966b4769e4c4b895ec6d3dd5257ca.setContent(html_38c5afa9b97b22856bc3eca83591f64b);
+            
+        
+
+        marker_22281e6f8bb32841e36ae8d801872a45.bindPopup(popup_5ae966b4769e4c4b895ec6d3dd5257ca)
+        ;
+
+        
+    
+    
+                marker_22281e6f8bb32841e36ae8d801872a45.setIcon(icon_21b4deec079269d96c2aeae40adce5e8);
+            
+    
+            var marker_2cadc2621cf21d6459531c50bf261a03 = L.marker(
+                [59.3041463, 18.0286923],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_46e3786a2c051bb301628b77569d0452 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e6f1ee2333d7f0eb196f243882ba7a9c = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_e88e632a75f551d49cccbaba0ae497c5 = $(`<div id="html_e88e632a75f551d49cccbaba0ae497c5" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Sjöviksbackens hundrastgård Sjöviksbacken, 117 43 Stockholm, Sweden 3.0</b><br>       <i>Stockholm</i><br><br>       Öppet dygnet runt       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJqcCfzxd3X0YRUmCJN-ZA_m0" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3041463/18.0286923" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh5.googleusercontent.com/p/AF1QipMcRjOVcFKcEMIuIFKSmp9OTL-U6paiJljz4TWZ=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_e6f1ee2333d7f0eb196f243882ba7a9c.setContent(html_e88e632a75f551d49cccbaba0ae497c5);
+            
+        
+
+        marker_2cadc2621cf21d6459531c50bf261a03.bindPopup(popup_e6f1ee2333d7f0eb196f243882ba7a9c)
+        ;
+
+        
+    
+    
+                marker_2cadc2621cf21d6459531c50bf261a03.setIcon(icon_46e3786a2c051bb301628b77569d0452);
+            
+    
+            var marker_a724b767582bac696e3c7fe38e5184c0 = L.marker(
+                [59.3186099, 18.0500483],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_d586b50a23bf0e61230bd49239ad5dfd = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_755cce830cca4f1243c52943b0c65006 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_87013046e0180c01af01c9a4be4aa177 = $(`<div id="html_87013046e0180c01af01c9a4be4aa177" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Skinnarviksbergets hundrastgård Yttersta tvärgränd 9B, 118 23 Stockholm, Sweden 4.0</b><br>       <i>Stockholm</i><br><br>       Öppet dygnet runt       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJB2aKfN13X0YRgAv3trXFczU" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3186099/18.0500483" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh5.googleusercontent.com/p/AF1QipMvpEMF1bN6qe2YxLBhhOakX2-uSi0U62S6JooZ=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_755cce830cca4f1243c52943b0c65006.setContent(html_87013046e0180c01af01c9a4be4aa177);
+            
+        
+
+        marker_a724b767582bac696e3c7fe38e5184c0.bindPopup(popup_755cce830cca4f1243c52943b0c65006)
+        ;
+
+        
+    
+    
+                marker_a724b767582bac696e3c7fe38e5184c0.setIcon(icon_d586b50a23bf0e61230bd49239ad5dfd);
+            
+    
+            var marker_6665097b16d01b573a7e6df90789cc90 = L.marker(
+                [59.2964776, 18.0528626],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_9735d1d28b5cf058f82816f0e48b59f2 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2de0f64d18c03e35788042fc8fe1bda9 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_09580080c06eed4ec577c1503909da34 = $(`<div id="html_09580080c06eed4ec577c1503909da34" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Steningeparkens hundrastgård Årsta, Stockholm, Sweden</b><br>       <i>Stockholm</i><br><br>       Invalid Date       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJP8IyNAB3X0YRiDITQeA8Ct4" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.2964776/18.0528626" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3ZjRjmpwWh2YdVnfa7XY-Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=320.19485&pitch=0&thumbfov=100" width="250">     </div>     </div>`)[0];
+                popup_2de0f64d18c03e35788042fc8fe1bda9.setContent(html_09580080c06eed4ec577c1503909da34);
+            
+        
+
+        marker_6665097b16d01b573a7e6df90789cc90.bindPopup(popup_2de0f64d18c03e35788042fc8fe1bda9)
+        ;
+
+        
+    
+    
+                marker_6665097b16d01b573a7e6df90789cc90.setIcon(icon_9735d1d28b5cf058f82816f0e48b59f2);
+            
+    
+            var marker_71347f94bed47e438379ac02279913d8 = L.marker(
+                [59.3318957, 18.0876325],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_0d181b3f72ce83d4cfaadb7250fe325c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f36250280e5dc775ac0e54c8ecae7054 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_f34e8ffcac9984c7666462b07446de88 = $(`<div id="html_f34e8ffcac9984c7666462b07446de88" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Strandvägens hundrastgård Strandvägen 33, 114 56 Stockholm, Sweden</b><br>       <i>Stockholm</i><br><br>       Invalid Date       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJvUYvUwCdX0YRLCI-2IfmJGk" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3318957/18.0876325" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yI1dHlNNs6OHz3GYT3xq5g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=335.75586&pitch=0&thumbfov=100" width="250">     </div>     </div>`)[0];
+                popup_f36250280e5dc775ac0e54c8ecae7054.setContent(html_f34e8ffcac9984c7666462b07446de88);
+            
+        
+
+        marker_71347f94bed47e438379ac02279913d8.bindPopup(popup_f36250280e5dc775ac0e54c8ecae7054)
+        ;
+
+        
+    
+    
+                marker_71347f94bed47e438379ac02279913d8.setIcon(icon_0d181b3f72ce83d4cfaadb7250fe325c);
+            
+    
+            var marker_f71daec966c509d016e2ac2732e2d254 = L.marker(
+                [59.3148632, 18.04416],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_23f9f61b88c99c471bfbacb53af1577d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_4263ad8ce7f0113dd55ab95b79f0bdd1 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_6bd488799c4ec6dd9f7faad794a1ab7f = $(`<div id="html_6bd488799c4ec6dd9f7faad794a1ab7f" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Tantolundens hundrastgård 117 41 Stockholm, Sweden 4.1</b><br>       <i>Stockholm</i><br><br>       12 augusti 2024       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJ3Xzbq5B3X0YRFdGpmTT5-Bk" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3148632/18.04416" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh5.googleusercontent.com/p/AF1QipN-GNbVV6soHb7-Ok7BsTtrfFqPddRVq9jaQ50G=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_4263ad8ce7f0113dd55ab95b79f0bdd1.setContent(html_6bd488799c4ec6dd9f7faad794a1ab7f);
+            
+        
+
+        marker_f71daec966c509d016e2ac2732e2d254.bindPopup(popup_4263ad8ce7f0113dd55ab95b79f0bdd1)
+        ;
+
+        
+    
+    
+                marker_f71daec966c509d016e2ac2732e2d254.setIcon(icon_23f9f61b88c99c471bfbacb53af1577d);
+            
+    
+            var marker_3b412e748e50b8426bed63c01506293a = L.marker(
+                [59.3414869, 18.0909499],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_787c6313e0a5613d4106d97cf7ab6958 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_88bb1317b32c9eecda2a3101ee876a83 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_acc2e54dfb409d5d1f3397f2cb8b9dbe = $(`<div id="html_acc2e54dfb409d5d1f3397f2cb8b9dbe" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Tessinparkens hundrastgård Erik Dahlbergsgatan 40A, 115 32 Stockholm, Sweden 3.1</b><br>       <i>Stockholm</i><br><br>       27 juni 2023       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJ98G3kvedX0YR46dBf7_arvY" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3414869/18.0909499" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh5.googleusercontent.com/p/AF1QipPuzZ0mHWaiPc2p3vAvGswBiP4n9LpHo_R6-LzJ=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_88bb1317b32c9eecda2a3101ee876a83.setContent(html_acc2e54dfb409d5d1f3397f2cb8b9dbe);
+            
+        
+
+        marker_3b412e748e50b8426bed63c01506293a.bindPopup(popup_88bb1317b32c9eecda2a3101ee876a83)
+        ;
+
+        
+    
+    
+                marker_3b412e748e50b8426bed63c01506293a.setIcon(icon_787c6313e0a5613d4106d97cf7ab6958);
+            
+    
+            var marker_48783ea4030f773c1b08695a6340762e = L.marker(
+                [59.3492199, 18.0566945],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_b8d539172373deb8a7fdd78277bd095b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_b22f371ec7862d68848f43abc5969182 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_bbfe593486c9cb0e6a7b6b8900bce069 = $(`<div id="html_bbfe593486c9cb0e6a7b6b8900bce069" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Picknickbord Rutschkanor Vanadislunden Ingemarsgatan 8, 113 54 Stockholm, Sweden 4.4</b><br>       <i>Stockholm</i><br><br>       Urban park with several playgrounds & a pool on the site of an early 20th-century water reservoir.       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJfxhvhW2dX0YRjM4QkCiEeLw" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3492199/18.0566945" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh3.googleusercontent.com/gps-cs-s/AB5caB-hqft5lU4kh_BJemxWl5WQjf_7O-zL-wLnpQ4Tg6uuZleOu3ffYwvCszlNxw0xAQgcKiBPip5ERDeelksZQcH_6Wwa7iA9V8OOrqiblrVuzN1kTO2MfbV3n0RxbN4EaLUpvUlVZw=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_b22f371ec7862d68848f43abc5969182.setContent(html_bbfe593486c9cb0e6a7b6b8900bce069);
+            
+        
+
+        marker_48783ea4030f773c1b08695a6340762e.bindPopup(popup_b22f371ec7862d68848f43abc5969182)
+        ;
+
+        
+    
+    
+                marker_48783ea4030f773c1b08695a6340762e.setIcon(icon_b8d539172373deb8a7fdd78277bd095b);
+            
+    
+            var marker_face1997d13bcb2784f6fce2884c77cf = L.marker(
+                [59.3391804, 18.0396201],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_b43a1fd6d32dbf65d1266509a52de803 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_14c22efb96366d15dcd9ee70b40ca8bd = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_a56d2f2b2a1e661f5085e85c95e03e17 = $(`<div id="html_a56d2f2b2a1e661f5085e85c95e03e17" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Vasaparkens hundrastgård Torsgatan, 113 21 Stockholm, Sweden 3.1</b><br>       <i>Stockholm</i><br><br>       18 januari 2025       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJbdx5VXqdX0YRYt1aDMqedyI" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3391804/18.0396201" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh5.googleusercontent.com/p/AF1QipO3vJ7kaxnh7OEP2YaT20uEvODlF138m_Vq1sk6=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_14c22efb96366d15dcd9ee70b40ca8bd.setContent(html_a56d2f2b2a1e661f5085e85c95e03e17);
+            
+        
+
+        marker_face1997d13bcb2784f6fce2884c77cf.bindPopup(popup_14c22efb96366d15dcd9ee70b40ca8bd)
+        ;
+
+        
+    
+    
+                marker_face1997d13bcb2784f6fce2884c77cf.setIcon(icon_b43a1fd6d32dbf65d1266509a52de803);
+            
+    
+            var marker_cc53dc3145ca39739462d52b5c39e71c = L.marker(
+                [59.3251172, 18.0710935],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_7995fed698ec4100aa05baf590bb3875 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_44ccff23a4f1a4d91f330841f2d50760 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_57725aff7d04530db1d3b4e2190f9119 = $(`<div id="html_57725aff7d04530db1d3b4e2190f9119" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Västertorp Hundgård 129 30 Stockholm, Sweden 3.7</b><br>       <i>Stockholm</i><br><br>       27 januari 2025       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJfURKlf92X0YRtSt2tj-DtUE" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3251172/18.0710935" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh5.googleusercontent.com/p/AF1QipOMNi1rCoppmxElVFAG2Z-9xwkO4Krx-ffE6ezX=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_44ccff23a4f1a4d91f330841f2d50760.setContent(html_57725aff7d04530db1d3b4e2190f9119);
+            
+        
+
+        marker_cc53dc3145ca39739462d52b5c39e71c.bindPopup(popup_44ccff23a4f1a4d91f330841f2d50760)
+        ;
+
+        
+    
+    
+                marker_cc53dc3145ca39739462d52b5c39e71c.setIcon(icon_7995fed698ec4100aa05baf590bb3875);
+            
+    
+            var marker_4d6125d98617e6cf908e889e1085df67 = L.marker(
+                [59.3547224, 18.0959038],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_b91592b4412dd53b703d8068646b5a49 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_43a2fff17b4c64d7e683139de47cf53d = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_cb689151d79cf7568ff968e768356031 = $(`<div id="html_cb689151d79cf7568ff968e768356031" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Västra Hjorthagsparken hundrastgård Ahlsellvägen, 115 43 Stockholm, Sweden 4.0</b><br>       <i>Stockholm</i><br><br>       Information saknas       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJIVcyVfWdX0YRTz9jWSM5GZ0" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3547224/18.0959038" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh3.googleusercontent.com/gps-cs-s/AB5caB-2GshL6asJ7KPCE8CAFNKY99dwybfuxbihsK5xqbBRf35kGRw6O2KtMyuuP-G-DNSLta-jrVX_Ljx9QJ4dY_3AIfq61AECJnLcaNPszItmNOQSh1sYC-Dnrhn-aegHaoBPZ76H=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_43a2fff17b4c64d7e683139de47cf53d.setContent(html_cb689151d79cf7568ff968e768356031);
+            
+        
+
+        marker_4d6125d98617e6cf908e889e1085df67.bindPopup(popup_43a2fff17b4c64d7e683139de47cf53d)
+        ;
+
+        
+    
+    
+                marker_4d6125d98617e6cf908e889e1085df67.setIcon(icon_b91592b4412dd53b703d8068646b5a49);
+            
+    
+            var marker_336695aa5eda0fd632b7a1594ca71f69 = L.marker(
+                [59.310961, 18.0000432],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_e9f8e5f9e67cde8b9c27bb081dad11d7 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_cc631ce7294d142baba28d5b02adbdc4 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_d889e81194bd757ec6eefb32b7d2b99d = $(`<div id="html_d889e81194bd757ec6eefb32b7d2b99d" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Grillplats Picknickbord Vinterviksparken Vinterviksvägen, 117 65 Stockholm, Sweden 4.5</b><br>       <i>Stockholm</i><br><br>       14 februari 2025       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJuUbRrUp2X0YRQwz4nR1cHXw" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.310961/18.0000432" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh3.googleusercontent.com/gps-cs-s/AB5caB-wL720oEqedovxPHXS99evlgl6IND5P9uJTFZtPmENVZMlSbjqEO9aaQ7Rk59fW1D9wERaQLzCu3nfpX5MvfcCGNJcJ8UbjQUlCi_o7WBqPVu6xJib_8_zzH3udgorF_HHhCKX=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_cc631ce7294d142baba28d5b02adbdc4.setContent(html_d889e81194bd757ec6eefb32b7d2b99d);
+            
+        
+
+        marker_336695aa5eda0fd632b7a1594ca71f69.bindPopup(popup_cc631ce7294d142baba28d5b02adbdc4)
+        ;
+
+        
+    
+    
+                marker_336695aa5eda0fd632b7a1594ca71f69.setIcon(icon_e9f8e5f9e67cde8b9c27bb081dad11d7);
+            
+    
+            var marker_a809bba1abaf4aabf36ca69cb954b136 = L.marker(
+                [59.3119026, 18.0909768],
+                {
+}
+            ).addTo(feature_group_8c078be9b8fbdfdccc6d62da49e89412);
+        
+    
+            var icon_111bb22bdbc7e5370b20b6d52e1c0826 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_9487bb4e404e58eea8940970a40d9efb = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_12daef19bb953dcf4fb874d580084d9c = $(`<div id="html_12daef19bb953dcf4fb874d580084d9c" style="width: 100.0%; height: 100.0%;">     <div style="font-size:14px; line-height:1.4">       <b>Picknickbord Rullstolsanpassad ingång Vitabergsparkens hundrastgård Stora Mejtens Gränd 10, 116 35 Stockholm, Sweden 4.3</b><br>       <i>Stockholm</i><br><br>       24 augusti 2024       <br><br>       <a href="https://www.hundlekplatsen.se/dogpark/ChIJXfkh0QJ4X0YRbABkZF6EEAk" target="_blank">🐾 Visa på Hundlekplatsen.se</a><br>       <a href="https://www.openstreetmap.org/note/new#map=18/59.3119026/18.0909768" target="_blank">✏️ Skapa OSM-anteckning</a>       <br><br><img src="https://lh5.googleusercontent.com/p/AF1QipP07jEmwhmlRUjSo82aC8-0JXi4UEieBJWaSWyo=w1920-h1080-k-no" width="250">     </div>     </div>`)[0];
+                popup_9487bb4e404e58eea8940970a40d9efb.setContent(html_12daef19bb953dcf4fb874d580084d9c);
+            
+        
+
+        marker_a809bba1abaf4aabf36ca69cb954b136.bindPopup(popup_9487bb4e404e58eea8940970a40d9efb)
+        ;
+
+        
+    
+    
+                marker_a809bba1abaf4aabf36ca69cb954b136.setIcon(icon_111bb22bdbc7e5370b20b6d52e1c0826);
+            
+    
+            feature_group_8c078be9b8fbdfdccc6d62da49e89412.addTo(map_aec392cb0f6071e659780e0853ba1343);
+        
+    
+            var layer_control_4a1ab133f13ab24bcef36b8f688eb462_layers = {
+                base_layers : {
+                    "openstreetmap" : tile_layer_0655df00494723da7ae38e9bc5bcd89e,
+                },
+                overlays :  {
+                    "Hundlekplatser" : feature_group_8c078be9b8fbdfdccc6d62da49e89412,
+                },
+            };
+            let layer_control_4a1ab133f13ab24bcef36b8f688eb462 = L.control.layers(
+                layer_control_4a1ab133f13ab24bcef36b8f688eb462_layers.base_layers,
+                layer_control_4a1ab133f13ab24bcef36b8f688eb462_layers.overlays,
+                {
+  "position": "topright",
+  "collapsed": true,
+  "autoZIndex": true,
+}
+            ).addTo(map_aec392cb0f6071e659780e0853ba1343);
+
+        
+</script>
+</html>

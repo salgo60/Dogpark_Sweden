@@ -1,0 +1,681 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.194972,
+          55.698672
+        ]
+      },
+      "properties": {
+        "title": "File:Lund, house 9 Tr\u00e4dg\u00e5rdsgatan.JPG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.194961,
+          55.698678
+        ]
+      },
+      "properties": {
+        "title": "File:Lund, the street Korsgatan.JPG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.195169,
+          55.69835
+        ]
+      },
+      "properties": {
+        "title": "File:Lund, house 12A Tr\u00e4dg\u00e5rdsgatan.JPG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.194778,
+          55.699086
+        ]
+      },
+      "properties": {
+        "title": "File:Lund, house 5B Tr\u00e4dg\u00e5rdsgatan.JPG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.195233,
+          55.698172
+        ]
+      },
+      "properties": {
+        "title": "File:Lund, the street Tr\u00e4dg\u00e5rdsgatan.JPG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.252778,
+          60.420361
+        ]
+      },
+      "properties": {
+        "title": "File:Uittamo-002.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.638889,
+          59.185556
+        ]
+      },
+      "properties": {
+        "title": "File:Bridges of S\u00f6dert\u00e4lje.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.638889,
+          59.185556
+        ]
+      },
+      "properties": {
+        "title": "File:Bridges of S\u00f6dert\u00e4lje2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.161419,
+          58.605337
+        ]
+      },
+      "properties": {
+        "title": "File:Sandbyhovsskolan, Norrk\u00f6ping.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.552903,
+          55.669969
+        ]
+      },
+      "properties": {
+        "title": "File:Otto Krabbes Plads.JPG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.55292,
+          55.670378
+        ]
+      },
+      "properties": {
+        "title": "File:Id\u00e9 L\u00e6r hellere b\u00f8rnene at pumpe en cykel... (8947971831).jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.55278,
+          55.67042
+        ]
+      },
+      "properties": {
+        "title": "File:Dannebrogsgade 24 image 01.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.55279,
+          55.6705
+        ]
+      },
+      "properties": {
+        "title": "File:Dannebrogsgade 24 image 02.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.55211,
+          55.66995
+        ]
+      },
+      "properties": {
+        "title": "File:Westend vesterbro otto kra.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5538,
+          55.66989
+        ]
+      },
+      "properties": {
+        "title": "File:Skydebanemuren - garden side.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.552062,
+          55.669906
+        ]
+      },
+      "properties": {
+        "title": "File:Good rain gear is underrated (8773188204).jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5539,
+          55.66974
+        ]
+      },
+      "properties": {
+        "title": "File:Skydebanemuren detail.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.553763,
+          55.670694
+        ]
+      },
+      "properties": {
+        "title": "File:Shooting gallery wall - Ludvig Knudsen -1888 - Historicism, Neo-Gothic - panoramio.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.553199,
+          55.670862
+        ]
+      },
+      "properties": {
+        "title": "File:Akrobat, oh! (8902972618).jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.553476,
+          55.6693
+        ]
+      },
+      "properties": {
+        "title": "File:Istedgade, Copenhagen, on a sunny afternoon in March - panoramio.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.557419,
+          55.70875
+        ]
+      },
+      "properties": {
+        "title": "File:Studsgaardsgade 04.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.557692,
+          55.708664
+        ]
+      },
+      "properties": {
+        "title": "File:Studsgaardsgade 02.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.557878,
+          55.708336
+        ]
+      },
+      "properties": {
+        "title": "File:Haraldsgade 03.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.558029,
+          55.708481
+        ]
+      },
+      "properties": {
+        "title": "File:Haralds Plads 02.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.557958,
+          55.708236
+        ]
+      },
+      "properties": {
+        "title": "File:Studsgaardsgade 01.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5577,
+          55.708027
+        ]
+      },
+      "properties": {
+        "title": "File:\u00d8sterbro Privatskole.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.558444,
+          55.708687
+        ]
+      },
+      "properties": {
+        "title": "File:Haralds Plads 03.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.556928,
+          55.708001
+        ]
+      },
+      "properties": {
+        "title": "File:Netto, Haraldsgade.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.558536,
+          55.708739
+        ]
+      },
+      "properties": {
+        "title": "File:Haralds Plads 01.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.55855,
+          55.70851
+        ]
+      },
+      "properties": {
+        "title": "File:Ragnagade No. 9-17.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.55858,
+          55.70861
+        ]
+      },
+      "properties": {
+        "title": "File:Ragnagade 28-30 (Copenhagen) 01.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.558341,
+          55.709045
+        ]
+      },
+      "properties": {
+        "title": "File:Rudolph Berghs Gade 01.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.558589,
+          55.708572
+        ]
+      },
+      "properties": {
+        "title": "File:Haraldsgade - Ragnagade.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.55785,
+          55.709283
+        ]
+      },
+      "properties": {
+        "title": "File:Rudolph Berghs Gade 0.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.558103,
+          55.709219
+        ]
+      },
+      "properties": {
+        "title": "File:Rudolph Berghs Gade 02.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.55869,
+          55.70854
+        ]
+      },
+      "properties": {
+        "title": "File:Ragnagade 28-30 (Copenhagen) 02.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5587,
+          55.70858
+        ]
+      },
+      "properties": {
+        "title": "File:Teglg\u00e5rden.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.558444,
+          55.709075
+        ]
+      },
+      "properties": {
+        "title": "File:Rudolph Bergs Gade.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.55872,
+          55.70856
+        ]
+      },
+      "properties": {
+        "title": "File:Ragnagade 01.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.55882,
+          55.70858
+        ]
+      },
+      "properties": {
+        "title": "File:Ragnagade.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5588,
+          55.708925
+        ]
+      },
+      "properties": {
+        "title": "File:Haraldsgade.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.528727,
+          55.648173
+        ]
+      },
+      "properties": {
+        "title": "File:Movia bus line 9A on Mozartsvej 01.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.528276,
+          55.648209
+        ]
+      },
+      "properties": {
+        "title": "File:Movia bus line 9A on Mozartsvej 02.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.528191,
+          55.648113
+        ]
+      },
+      "properties": {
+        "title": "File:Movia bus line 19 on Mozartsvej 01.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.528191,
+          55.648113
+        ]
+      },
+      "properties": {
+        "title": "File:Movia bus line 19 on Mozartsvej 02.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.145517,
+          59.316672
+        ]
+      },
+      "properties": {
+        "title": "File:Salongen, Trer\u00e4ttersmeny, Birka Gotland - 20241208 - 10.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.145517,
+          59.316672
+        ]
+      },
+      "properties": {
+        "title": "File:Car deck, Viking Cinderella - 20241203 - 12.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.145517,
+          59.316672
+        ]
+      },
+      "properties": {
+        "title": "File:Car deck, Viking Cinderella - 20241203 - 13.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.145786,
+          59.316301
+        ]
+      },
+      "properties": {
+        "title": "File:Svindersviksbron 21 juni 2016c.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.145203,
+          59.316355
+        ]
+      },
+      "properties": {
+        "title": "File:Kvarholmsv\u00e4gen, Svindersviksbron, 2022.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.14636,
+          59.31614
+        ]
+      },
+      "properties": {
+        "title": "File:Svindersviksbron 21 juni 2016h.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.14667,
+          59.316078
+        ]
+      },
+      "properties": {
+        "title": "File:Svindersviksbron 21 juni 2016g.jpg"
+      }
+    }
+  ]
+}
