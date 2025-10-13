@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-10-12T14:54:00Z",
+    "timestamp_osm_base": "2025-10-13T05:18:40Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -213,7 +213,8 @@
       "lat": 59.4850975,
       "lon": 17.9309121,
       "tags": {
-        "leisure": "dog_park"
+        "leisure": "dog_park",
+        "wheelchair": "limited"
       }
     },
     {
@@ -1620,8 +1621,13 @@
         9646990323
       ],
       "tags": {
+        "area": "0.4",
         "barrier": "fence",
-        "leisure": "dog_park"
+        "bus_stop:distancedistance": "75 meter",
+        "description": "Denna stora, öppna och flacka hage på 4 000 kvadratmeter ligger mellan Läroverksvägen och Pumpvägen, intill ett koloniområde. Det finns ett bänkbord i hagen. Parkeringsplatser finns vid Pumpvägen, cirka 75 meter bort, en busshållplats finns intill.",
+        "leisure": "dog_park",
+        "name": "Mosstorps hundhage",
+        "website": "https://lidingo.se/toppmeny/naturmiljo/gronomradenochparker/hundinaturen.4.6429948018ecac981f62d2.html"
       }
     },
     {
@@ -2203,8 +2209,13 @@
         1284831682
       ],
       "tags": {
+        "access": "yes",
         "area": "yes",
         "leisure": "dog_park",
+        "name": "Judarskogens hundrastplats",
+        "operator": "Stockholms kommun",
+        "operator:type": "public",
+        "website": "https://parker.stockholm/hundrastplatser/",
         "wheelchair": "yes"
       }
     },
@@ -5924,8 +5935,16 @@
       ],
       "tags": {
         "access": "yes",
+        "dog": "unleashed",
+        "fence_type": "chain_link",
+        "fenced": "yes",
         "leisure": "dog_park",
-        "surface": "grass"
+        "name": "Lånestaheden i Vagnhärad Hundrastgård",
+        "operator": "Trosa kommun",
+        "operator:type": "public",
+        "operator:wikidata": "Q505064",
+        "surface": "grass",
+        "website": "https://www.trosa.se/uppleva-och-gora/fritidsaktiviteter/hundrastgardar/"
       }
     },
     {
@@ -9381,6 +9400,7 @@
       "tags": {
         "area": "yes",
         "barrier": "fence",
+        "dog": "unleashed",
         "fence": "yes",
         "fence_type": "chain_link",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Lunda%C3%A4ngens_Hundrastg%C3%A5rd_-_Sp%C3%A5nga_06.jpg/2560px-Lunda%C3%A4ngens_Hundrastg%C3%A5rd_-_Sp%C3%A5nga_06.jpg",
@@ -12169,6 +12189,11 @@
       "tags": {
         "access": "yes",
         "leisure": "dog_park",
+        "name": "Hjulsta hundrastgård",
+        "operator": "Stockholms kommun",
+        "operator:type": "public",
+        "operator:wikidata": "Q506250",
+        "website": "https://parker.stockholm/hundrastplatser/",
         "wheelchair": "yes"
       }
     },
@@ -16226,9 +16251,16 @@
         11054629120
       ],
       "tags": {
+        "dog": "unleashed",
         "leisure": "dog_park",
+        "mapillary": "761250403570356",
         "name": "Rågsveds hundrastgård",
-        "wheelchair": "no"
+        "operator": "Stockholms kommun",
+        "operator:type": "public",
+        "operator:wikidata": "Q506250",
+        "website": "https://parker.stockholm/hundrastplatser/",
+        "wheelchair": "no",
+        "wikimedia_commons": "Category:Rågsveds_hundrastgård"
       }
     },
     {
@@ -21810,14 +21842,19 @@
         13206193978
       ],
       "tags": {
+        "access": "yes",
         "agility": "no",
         "barrier": "fence",
+        "dog": "unleashed",
         "fence": "yes",
         "fence_type": "chain_link",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Oxtungans_hundg%C3%A5rd_H%C3%A4sselby_01.jpg/2560px-Oxtungans_hundg%C3%A5rd_H%C3%A4sselby_01.jpg",
         "image:license": "CC-0",
         "leisure": "dog_park",
         "lit": "yes",
+        "name": "Hundrastgård Oxtungan",
+        "operator": "Stockholms kommun",
+        "operator:type": "public",
         "surface": "fine_gravel",
         "website": "https://parker.stockholm/hundrastplatser/",
         "wikimedia_commons": "Category:Oxtungans_hundrastgård,_Hässelby#"
@@ -22124,6 +22161,32 @@
       }
     },
     {
+      "type": "way",
+      "id": 1441646427,
+      "center": {
+        "lat": 59.2966275,
+        "lon": 17.9881841
+      },
+      "nodes": [
+        13227841268,
+        13227841269,
+        13227841270,
+        13227841271,
+        13227841268
+      ],
+      "tags": {
+        "access": "yes",
+        "description": "Himlabackens hundpark ligger vid Träsnidarvägen i Hägersten. Den har en inhägnad yta där hundar kan springa fritt och leka i en kuperad terräng",
+        "dog:leash": "yes",
+        "leisure": "dog_park",
+        "name": "Himlabackens hundpark",
+        "operator": "Stockholms kommun",
+        "operator:type": "public",
+        "operator:wikidata": "Q506250",
+        "website": "https://parker.stockholm/hundrastplatser/"
+      }
+    },
+    {
       "type": "relation",
       "id": 3181480,
       "center": {
@@ -22138,10 +22201,13 @@
         }
       ],
       "tags": {
+        "description": "I Drottningholms slottspark vid Drottningholms slott finns en hundö, Ormholmen, som ligger i Engelska parken. Där får du släppa lös din hund om du är säker på att hunden inte simmar iväg och lämnar ön. Sedan 2019 finns en fin paviljong på ön som väderskyd",
         "dog": "designated",
+        "fenced": "no",
         "leisure": "dog_park",
-        "name": "Hundöarna",
+        "name": "Ormholmen Hundön - Drottningholm",
         "type": "multipolygon",
+        "website": "https://www.upplevekero.se/se--gora/sport--fritid/hundrastgardar/hundrastgard-i-drottningholmsparken",
         "wheelchair": "limited"
       }
     },

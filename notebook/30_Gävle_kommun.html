@@ -1,0 +1,1618 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_43471c2a531954f11c13fc35067fbf1c {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_43471c2a531954f11c13fc35067fbf1c" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_43471c2a531954f11c13fc35067fbf1c = L.map(
+                "map_43471c2a531954f11c13fc35067fbf1c",
+                {
+                    center: [60.6749, 17.1413],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 12,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_6f88ea0d2ebbdf01498710751f62a57e = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_6f88ea0d2ebbdf01498710751f62a57e.addTo(map_43471c2a531954f11c13fc35067fbf1c);
+        
+    
+            var feature_group_da86e1a0d2c7cf222d60a0ef9771a4d5 = L.featureGroup(
+                {
+}
+            );
+        
+    
+        function geo_json_48162607e78f079a218894d1d96c3a9e_styler(feature) {
+            switch(feature.id) {
+                default:
+                    return {"color": "darkgreen", "fillColor": "green", "fillOpacity": 0.4, "weight": 2};
+            }
+        }
+
+        function geo_json_48162607e78f079a218894d1d96c3a9e_onEachFeature(feature, layer) {
+
+            layer.on({
+            });
+        };
+        var geo_json_48162607e78f079a218894d1d96c3a9e = L.geoJson(null, {
+                onEachFeature: geo_json_48162607e78f079a218894d1d96c3a9e_onEachFeature,
+            
+                style: geo_json_48162607e78f079a218894d1d96c3a9e_styler,
+            ...{
+}
+        });
+
+        function geo_json_48162607e78f079a218894d1d96c3a9e_add (data) {
+            geo_json_48162607e78f079a218894d1d96c3a9e
+                .addData(data);
+        }
+            geo_json_48162607e78f079a218894d1d96c3a9e_add({"features": [{"geometry": {"coordinates": [[[16.895889038318707, 60.614560709641694], [16.895922282482694, 60.61455875614585], [16.896288180556773, 60.61476219211648], [16.896697690693937, 60.614670872757955], [16.896258633776796, 60.614430069324804], [16.896243623169145, 60.61436781150285], [16.89584756055142, 60.61439169054462], [16.895889038318707, 60.614560709641694]]], "type": "Polygon"}, "id": "0", "type": "Feature"}], "type": "FeatureCollection"});
+
+        
+    
+            geo_json_48162607e78f079a218894d1d96c3a9e.bindTooltip(
+                `<div>
+                     Pilparken
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+        var popup_9c86f4d3073afba544d4394681a03dc1 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_eb73ae2dca5ecc8970d91e4d94cba898 = $(`<div id="html_eb73ae2dca5ecc8970d91e4d94cba898" style="width: 100.0%; height: 100.0%;">     <b>Pilparken</b><br>     Lat: 60.614561<br>     Lon: 16.896224<br>     <a href="https://www.openstreetmap.org/?mlat=60.614561&mlon=16.896224&zoom=17" target="_blank">📍 Visa på OpenStreetMap</a>     </div>`)[0];
+                popup_9c86f4d3073afba544d4394681a03dc1.setContent(html_eb73ae2dca5ecc8970d91e4d94cba898);
+            
+        
+
+        geo_json_48162607e78f079a218894d1d96c3a9e.bindPopup(popup_9c86f4d3073afba544d4394681a03dc1)
+        ;
+
+        
+    
+    
+            geo_json_48162607e78f079a218894d1d96c3a9e.addTo(feature_group_da86e1a0d2c7cf222d60a0ef9771a4d5);
+        
+    
+        function geo_json_caeb1a0ba974129bc272a387618d24cf_styler(feature) {
+            switch(feature.id) {
+                default:
+                    return {"color": "darkgreen", "fillColor": "green", "fillOpacity": 0.4, "weight": 2};
+            }
+        }
+
+        function geo_json_caeb1a0ba974129bc272a387618d24cf_onEachFeature(feature, layer) {
+
+            layer.on({
+            });
+        };
+        var geo_json_caeb1a0ba974129bc272a387618d24cf = L.geoJson(null, {
+                onEachFeature: geo_json_caeb1a0ba974129bc272a387618d24cf_onEachFeature,
+            
+                style: geo_json_caeb1a0ba974129bc272a387618d24cf_styler,
+            ...{
+}
+        });
+
+        function geo_json_caeb1a0ba974129bc272a387618d24cf_add (data) {
+            geo_json_caeb1a0ba974129bc272a387618d24cf
+                .addData(data);
+        }
+            geo_json_caeb1a0ba974129bc272a387618d24cf_add({"features": [{"geometry": {"coordinates": [[[16.99760307546044, 60.642456731895415], [16.998523761194566, 60.642601043473256], [16.99861836767723, 60.64252440385724], [16.997877327775864, 60.642248533917986], [16.997876673802807, 60.64224902997375], [16.99766979340424, 60.642170166097635], [16.997577048471655, 60.64224540520922], [16.997605430146276, 60.64228769838212], [16.997759821174768, 60.64233773875928], [16.99760307546044, 60.642456731895415]]], "type": "Polygon"}, "id": "0", "type": "Feature"}], "type": "FeatureCollection"});
+
+        
+    
+            geo_json_caeb1a0ba974129bc272a387618d24cf.bindTooltip(
+                `<div>
+                     Siporexparken
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+        var popup_3924395a52e5c3158e09b61730af991a = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_1d3723a4978528f8b4883f51973ac170 = $(`<div id="html_1d3723a4978528f8b4883f51973ac170" style="width: 100.0%; height: 100.0%;">     <b>Siporexparken</b><br>     Lat: 60.642414<br>     Lon: 16.998035<br>     <a href="https://www.openstreetmap.org/?mlat=60.642414&mlon=16.998035&zoom=17" target="_blank">📍 Visa på OpenStreetMap</a>     </div>`)[0];
+                popup_3924395a52e5c3158e09b61730af991a.setContent(html_1d3723a4978528f8b4883f51973ac170);
+            
+        
+
+        geo_json_caeb1a0ba974129bc272a387618d24cf.bindPopup(popup_3924395a52e5c3158e09b61730af991a)
+        ;
+
+        
+    
+    
+            geo_json_caeb1a0ba974129bc272a387618d24cf.addTo(feature_group_da86e1a0d2c7cf222d60a0ef9771a4d5);
+        
+    
+        function geo_json_49d6f254598be9718a3281e54ff853d9_styler(feature) {
+            switch(feature.id) {
+                default:
+                    return {"color": "darkgreen", "fillColor": "green", "fillOpacity": 0.4, "weight": 2};
+            }
+        }
+
+        function geo_json_49d6f254598be9718a3281e54ff853d9_onEachFeature(feature, layer) {
+
+            layer.on({
+            });
+        };
+        var geo_json_49d6f254598be9718a3281e54ff853d9 = L.geoJson(null, {
+                onEachFeature: geo_json_49d6f254598be9718a3281e54ff853d9_onEachFeature,
+            
+                style: geo_json_49d6f254598be9718a3281e54ff853d9_styler,
+            ...{
+}
+        });
+
+        function geo_json_49d6f254598be9718a3281e54ff853d9_add (data) {
+            geo_json_49d6f254598be9718a3281e54ff853d9
+                .addData(data);
+        }
+            geo_json_49d6f254598be9718a3281e54ff853d9_add({"features": [{"geometry": {"coordinates": [[[17.012696832566245, 60.64096057424954], [17.012859476447062, 60.640867758381646], [17.012905948312273, 60.64083872575165], [17.012920644465986, 60.64082954367635], [17.013110407074556, 60.640627733671046], [17.0130653118489, 60.6406036372584], [17.01306316299176, 60.64060377742675], [17.013008892067475, 60.64060732052744], [17.01251643130346, 60.640879036247746], [17.012696832566245, 60.64096057424954]]], "type": "Polygon"}, "id": "0", "type": "Feature"}], "type": "FeatureCollection"});
+
+        
+    
+            geo_json_49d6f254598be9718a3281e54ff853d9.bindTooltip(
+                `<div>
+                     Skolvägen
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+        var popup_5f0ba0aa3a074faa6c8d8fb797b82f09 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_7c2cccd087ee7ef83e4e95888a29c6fe = $(`<div id="html_7c2cccd087ee7ef83e4e95888a29c6fe" style="width: 100.0%; height: 100.0%;">     <b>Skolvägen</b><br>     Lat: 60.640790<br>     Lon: 17.012821<br>     <a href="https://www.openstreetmap.org/?mlat=60.640790&mlon=17.012821&zoom=17" target="_blank">📍 Visa på OpenStreetMap</a>     </div>`)[0];
+                popup_5f0ba0aa3a074faa6c8d8fb797b82f09.setContent(html_7c2cccd087ee7ef83e4e95888a29c6fe);
+            
+        
+
+        geo_json_49d6f254598be9718a3281e54ff853d9.bindPopup(popup_5f0ba0aa3a074faa6c8d8fb797b82f09)
+        ;
+
+        
+    
+    
+            geo_json_49d6f254598be9718a3281e54ff853d9.addTo(feature_group_da86e1a0d2c7cf222d60a0ef9771a4d5);
+        
+    
+        function geo_json_23c13015d6fe905a474f4e61e5acc249_styler(feature) {
+            switch(feature.id) {
+                default:
+                    return {"color": "darkgreen", "fillColor": "green", "fillOpacity": 0.4, "weight": 2};
+            }
+        }
+
+        function geo_json_23c13015d6fe905a474f4e61e5acc249_onEachFeature(feature, layer) {
+
+            layer.on({
+            });
+        };
+        var geo_json_23c13015d6fe905a474f4e61e5acc249 = L.geoJson(null, {
+                onEachFeature: geo_json_23c13015d6fe905a474f4e61e5acc249_onEachFeature,
+            
+                style: geo_json_23c13015d6fe905a474f4e61e5acc249_styler,
+            ...{
+}
+        });
+
+        function geo_json_23c13015d6fe905a474f4e61e5acc249_add (data) {
+            geo_json_23c13015d6fe905a474f4e61e5acc249
+                .addData(data);
+        }
+            geo_json_23c13015d6fe905a474f4e61e5acc249_add({"features": [{"geometry": {"coordinates": [[[17.11909318246469, 60.68906201453344], [17.119106784321215, 60.68899955116284], [17.11864902537688, 60.68897237808392], [17.118552724115574, 60.689320233463185], [17.11851191696915, 60.68944767214558], [17.118703948997254, 60.68958009409004], [17.11915071736834, 60.689678012113816], [17.119276407896272, 60.689466358910146], [17.119181380632426, 60.68945164912572], [17.119199257281743, 60.68941722994325], [17.119223233236273, 60.68937874202529], [17.119320261063056, 60.689390412571306], [17.119303801262145, 60.68928752288395], [17.119288944578173, 60.68915423641244], [17.11916528105327, 60.68914975853467], [17.119062726301504, 60.68914285131811], [17.11909318246469, 60.68906201453344]]], "type": "Polygon"}, "id": "0", "type": "Feature"}], "type": "FeatureCollection"});
+
+        
+    
+            geo_json_23c13015d6fe905a474f4e61e5acc249.bindTooltip(
+                `<div>
+                     Sätraängarna
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+        var popup_ef6e6099953bc010c025ea35a6ed188a = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_24c6582c1d09a0fc1f691d6a9d42584d = $(`<div id="html_24c6582c1d09a0fc1f691d6a9d42584d" style="width: 100.0%; height: 100.0%;">     <b>Sätraängarna</b><br>     Lat: 60.689318<br>     Lon: 17.118913<br>     <a href="https://www.openstreetmap.org/?mlat=60.689318&mlon=17.118913&zoom=17" target="_blank">📍 Visa på OpenStreetMap</a>     </div>`)[0];
+                popup_ef6e6099953bc010c025ea35a6ed188a.setContent(html_24c6582c1d09a0fc1f691d6a9d42584d);
+            
+        
+
+        geo_json_23c13015d6fe905a474f4e61e5acc249.bindPopup(popup_ef6e6099953bc010c025ea35a6ed188a)
+        ;
+
+        
+    
+    
+            geo_json_23c13015d6fe905a474f4e61e5acc249.addTo(feature_group_da86e1a0d2c7cf222d60a0ef9771a4d5);
+        
+    
+        function geo_json_5e3984e742c28163849bcdfa19d325a7_styler(feature) {
+            switch(feature.id) {
+                default:
+                    return {"color": "darkgreen", "fillColor": "green", "fillOpacity": 0.4, "weight": 2};
+            }
+        }
+
+        function geo_json_5e3984e742c28163849bcdfa19d325a7_onEachFeature(feature, layer) {
+
+            layer.on({
+            });
+        };
+        var geo_json_5e3984e742c28163849bcdfa19d325a7 = L.geoJson(null, {
+                onEachFeature: geo_json_5e3984e742c28163849bcdfa19d325a7_onEachFeature,
+            
+                style: geo_json_5e3984e742c28163849bcdfa19d325a7_styler,
+            ...{
+}
+        });
+
+        function geo_json_5e3984e742c28163849bcdfa19d325a7_add (data) {
+            geo_json_5e3984e742c28163849bcdfa19d325a7
+                .addData(data);
+        }
+            geo_json_5e3984e742c28163849bcdfa19d325a7_add({"features": [{"geometry": {"coordinates": [[[17.142381212175138, 60.6804735508239], [17.14289366115456, 60.68042684401948], [17.142886683785438, 60.680411063481685], [17.14283742239497, 60.68029963421168], [17.142331737330704, 60.68036344801113], [17.142321048465565, 60.680364797048384], [17.142381212175138, 60.6804735508239]]], "type": "Polygon"}, "id": "0", "type": "Feature"}], "type": "FeatureCollection"});
+
+        
+    
+            geo_json_5e3984e742c28163849bcdfa19d325a7.bindTooltip(
+                `<div>
+                     Stora Esplanadgatan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+        var popup_c8de72f288e1e7900c47f36b69adb61c = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_7a63adb5c0f12421653820983bc4763f = $(`<div id="html_7a63adb5c0f12421653820983bc4763f" style="width: 100.0%; height: 100.0%;">     <b>Stora Esplanadgatan</b><br>     Lat: 60.680390<br>     Lon: 17.142614<br>     <a href="https://www.openstreetmap.org/?mlat=60.680390&mlon=17.142614&zoom=17" target="_blank">📍 Visa på OpenStreetMap</a>     </div>`)[0];
+                popup_c8de72f288e1e7900c47f36b69adb61c.setContent(html_7a63adb5c0f12421653820983bc4763f);
+            
+        
+
+        geo_json_5e3984e742c28163849bcdfa19d325a7.bindPopup(popup_c8de72f288e1e7900c47f36b69adb61c)
+        ;
+
+        
+    
+    
+            geo_json_5e3984e742c28163849bcdfa19d325a7.addTo(feature_group_da86e1a0d2c7cf222d60a0ef9771a4d5);
+        
+    
+        function geo_json_e995c93904836a7678376012d79c27cc_styler(feature) {
+            switch(feature.id) {
+                default:
+                    return {"color": "darkgreen", "fillColor": "green", "fillOpacity": 0.4, "weight": 2};
+            }
+        }
+
+        function geo_json_e995c93904836a7678376012d79c27cc_onEachFeature(feature, layer) {
+
+            layer.on({
+            });
+        };
+        var geo_json_e995c93904836a7678376012d79c27cc = L.geoJson(null, {
+                onEachFeature: geo_json_e995c93904836a7678376012d79c27cc_onEachFeature,
+            
+                style: geo_json_e995c93904836a7678376012d79c27cc_styler,
+            ...{
+}
+        });
+
+        function geo_json_e995c93904836a7678376012d79c27cc_add (data) {
+            geo_json_e995c93904836a7678376012d79c27cc
+                .addData(data);
+        }
+            geo_json_e995c93904836a7678376012d79c27cc_add({"features": [{"geometry": {"coordinates": [[[17.158230995719062, 60.67937431588126], [17.158378123083054, 60.67923934585107], [17.15794434792901, 60.67912321077029], [17.15779333544739, 60.679259478343226], [17.158230995719062, 60.67937431588126]]], "type": "Polygon"}, "id": "0", "type": "Feature"}], "type": "FeatureCollection"});
+
+        
+    
+            geo_json_e995c93904836a7678376012d79c27cc.bindTooltip(
+                `<div>
+                     Holmkanalen
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+        var popup_addb79a57fc395b7c69507d2b757496f = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_6cfa969d4572de1064d8a34f7143a1da = $(`<div id="html_6cfa969d4572de1064d8a34f7143a1da" style="width: 100.0%; height: 100.0%;">     <b>Holmkanalen</b><br>     Lat: 60.679249<br>     Lon: 17.158086<br>     <a href="https://www.openstreetmap.org/?mlat=60.679249&mlon=17.158086&zoom=17" target="_blank">📍 Visa på OpenStreetMap</a>     </div>`)[0];
+                popup_addb79a57fc395b7c69507d2b757496f.setContent(html_6cfa969d4572de1064d8a34f7143a1da);
+            
+        
+
+        geo_json_e995c93904836a7678376012d79c27cc.bindPopup(popup_addb79a57fc395b7c69507d2b757496f)
+        ;
+
+        
+    
+    
+            geo_json_e995c93904836a7678376012d79c27cc.addTo(feature_group_da86e1a0d2c7cf222d60a0ef9771a4d5);
+        
+    
+        function geo_json_4829de4d515942dc462739aceb40c82c_styler(feature) {
+            switch(feature.id) {
+                default:
+                    return {"color": "darkgreen", "fillColor": "green", "fillOpacity": 0.4, "weight": 2};
+            }
+        }
+
+        function geo_json_4829de4d515942dc462739aceb40c82c_onEachFeature(feature, layer) {
+
+            layer.on({
+            });
+        };
+        var geo_json_4829de4d515942dc462739aceb40c82c = L.geoJson(null, {
+                onEachFeature: geo_json_4829de4d515942dc462739aceb40c82c_onEachFeature,
+            
+                style: geo_json_4829de4d515942dc462739aceb40c82c_styler,
+            ...{
+}
+        });
+
+        function geo_json_4829de4d515942dc462739aceb40c82c_add (data) {
+            geo_json_4829de4d515942dc462739aceb40c82c
+                .addData(data);
+        }
+            geo_json_4829de4d515942dc462739aceb40c82c_add({"features": [{"geometry": {"coordinates": [[[17.150386158131482, 60.67750727247753], [17.150351379686875, 60.67749923991645], [17.150292251423718, 60.67748558420683], [17.150176667580638, 60.67752790433109], [17.14943547742931, 60.6782073834866], [17.149370157571372, 60.67826726213065], [17.149504192439657, 60.67830256551712], [17.149511000515837, 60.678296549742946], [17.150329389529176, 60.677573300182765], [17.150386158131482, 60.67750727247753]]], "type": "Polygon"}, "id": "0", "type": "Feature"}], "type": "FeatureCollection"});
+
+        
+    
+            geo_json_4829de4d515942dc462739aceb40c82c.bindTooltip(
+                `<div>
+                     Hamntorget
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+        var popup_4ca7c5c5afbaa1ac8e4d1e3f74478009 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_5bcb0a1fda874997e83fbe4076b799b6 = $(`<div id="html_5bcb0a1fda874997e83fbe4076b799b6" style="width: 100.0%; height: 100.0%;">     <b>Hamntorget</b><br>     Lat: 60.677883<br>     Lon: 17.149884<br>     <a href="https://www.openstreetmap.org/?mlat=60.677883&mlon=17.149884&zoom=17" target="_blank">📍 Visa på OpenStreetMap</a>     </div>`)[0];
+                popup_4ca7c5c5afbaa1ac8e4d1e3f74478009.setContent(html_5bcb0a1fda874997e83fbe4076b799b6);
+            
+        
+
+        geo_json_4829de4d515942dc462739aceb40c82c.bindPopup(popup_4ca7c5c5afbaa1ac8e4d1e3f74478009)
+        ;
+
+        
+    
+    
+            geo_json_4829de4d515942dc462739aceb40c82c.addTo(feature_group_da86e1a0d2c7cf222d60a0ef9771a4d5);
+        
+    
+        function geo_json_fac7101d7d0e080fcf3afe1858c22da2_styler(feature) {
+            switch(feature.id) {
+                default:
+                    return {"color": "darkgreen", "fillColor": "green", "fillOpacity": 0.4, "weight": 2};
+            }
+        }
+
+        function geo_json_fac7101d7d0e080fcf3afe1858c22da2_onEachFeature(feature, layer) {
+
+            layer.on({
+            });
+        };
+        var geo_json_fac7101d7d0e080fcf3afe1858c22da2 = L.geoJson(null, {
+                onEachFeature: geo_json_fac7101d7d0e080fcf3afe1858c22da2_onEachFeature,
+            
+                style: geo_json_fac7101d7d0e080fcf3afe1858c22da2_styler,
+            ...{
+}
+        });
+
+        function geo_json_fac7101d7d0e080fcf3afe1858c22da2_add (data) {
+            geo_json_fac7101d7d0e080fcf3afe1858c22da2
+                .addData(data);
+        }
+            geo_json_fac7101d7d0e080fcf3afe1858c22da2_add({"features": [{"geometry": {"coordinates": [[[17.139022529634435, 60.67189187678112], [17.139218612977633, 60.67189942980349], [17.139270790360534, 60.67187430376342], [17.13931806113031, 60.67185452332425], [17.13923493380931, 60.67181439950446], [17.13900586692338, 60.67183258992368], [17.139022529634435, 60.67189187678112]]], "type": "Polygon"}, "id": "0", "type": "Feature"}], "type": "FeatureCollection"});
+
+        
+    
+            geo_json_fac7101d7d0e080fcf3afe1858c22da2.bindTooltip(
+                `<div>
+                     Gammelbron
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+        var popup_03c74823b195b214f0750498cc967dfa = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_822ce682ecbf116305a557f0383ffd61 = $(`<div id="html_822ce682ecbf116305a557f0383ffd61" style="width: 100.0%; height: 100.0%;">     <b>Gammelbron</b><br>     Lat: 60.671858<br>     Lon: 17.139152<br>     <a href="https://www.openstreetmap.org/?mlat=60.671858&mlon=17.139152&zoom=17" target="_blank">📍 Visa på OpenStreetMap</a>     </div>`)[0];
+                popup_03c74823b195b214f0750498cc967dfa.setContent(html_822ce682ecbf116305a557f0383ffd61);
+            
+        
+
+        geo_json_fac7101d7d0e080fcf3afe1858c22da2.bindPopup(popup_03c74823b195b214f0750498cc967dfa)
+        ;
+
+        
+    
+    
+            geo_json_fac7101d7d0e080fcf3afe1858c22da2.addTo(feature_group_da86e1a0d2c7cf222d60a0ef9771a4d5);
+        
+    
+        function geo_json_e9498e725d39505f6543c8b10c7d3f24_styler(feature) {
+            switch(feature.id) {
+                default:
+                    return {"color": "darkgreen", "fillColor": "green", "fillOpacity": 0.4, "weight": 2};
+            }
+        }
+
+        function geo_json_e9498e725d39505f6543c8b10c7d3f24_onEachFeature(feature, layer) {
+
+            layer.on({
+            });
+        };
+        var geo_json_e9498e725d39505f6543c8b10c7d3f24 = L.geoJson(null, {
+                onEachFeature: geo_json_e9498e725d39505f6543c8b10c7d3f24_onEachFeature,
+            
+                style: geo_json_e9498e725d39505f6543c8b10c7d3f24_styler,
+            ...{
+}
+        });
+
+        function geo_json_e9498e725d39505f6543c8b10c7d3f24_add (data) {
+            geo_json_e9498e725d39505f6543c8b10c7d3f24
+                .addData(data);
+        }
+            geo_json_e9498e725d39505f6543c8b10c7d3f24_add({"features": [{"geometry": {"coordinates": [[[17.144007277335394, 60.65113997043427], [17.144041445182133, 60.65123552081884], [17.143841184593136, 60.651235123337564], [17.143830907148548, 60.65117881374854], [17.143434468816064, 60.65119624906112], [17.143450434040556, 60.65144577555731], [17.144096637046307, 60.651435808855176], [17.144728653253335, 60.65142605812863], [17.14465306548844, 60.651263381683854], [17.144657535415433, 60.651254775498316], [17.144623722487975, 60.651106708568314], [17.14461550732776, 60.65108734938233], [17.144481600060338, 60.651099816883146], [17.144263494475855, 60.651120266188606], [17.144189641118246, 60.65112719129817], [17.144166185118547, 60.651129390856056], [17.144107337652258, 60.6511345716667], [17.144007277335394, 60.65113997043427]]], "type": "Polygon"}, "id": "0", "type": "Feature"}], "type": "FeatureCollection"});
+
+        
+    
+            geo_json_e9498e725d39505f6543c8b10c7d3f24.bindTooltip(
+                `<div>
+                     Lugna gatan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+        var popup_abdff58c5a49e0405651fc1e5b19f114 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_293221bf8b9a73e8ebf9a71896914c29 = $(`<div id="html_293221bf8b9a73e8ebf9a71896914c29" style="width: 100.0%; height: 100.0%;">     <b>Lugna gatan</b><br>     Lat: 60.651294<br>     Lon: 17.144097<br>     <a href="https://www.openstreetmap.org/?mlat=60.651294&mlon=17.144097&zoom=17" target="_blank">📍 Visa på OpenStreetMap</a>     </div>`)[0];
+                popup_abdff58c5a49e0405651fc1e5b19f114.setContent(html_293221bf8b9a73e8ebf9a71896914c29);
+            
+        
+
+        geo_json_e9498e725d39505f6543c8b10c7d3f24.bindPopup(popup_abdff58c5a49e0405651fc1e5b19f114)
+        ;
+
+        
+    
+    
+            geo_json_e9498e725d39505f6543c8b10c7d3f24.addTo(feature_group_da86e1a0d2c7cf222d60a0ef9771a4d5);
+        
+    
+        function geo_json_301c85176d2c0c733b70fd9e96cfa631_styler(feature) {
+            switch(feature.id) {
+                default:
+                    return {"color": "darkgreen", "fillColor": "green", "fillOpacity": 0.4, "weight": 2};
+            }
+        }
+
+        function geo_json_301c85176d2c0c733b70fd9e96cfa631_onEachFeature(feature, layer) {
+
+            layer.on({
+            });
+        };
+        var geo_json_301c85176d2c0c733b70fd9e96cfa631 = L.geoJson(null, {
+                onEachFeature: geo_json_301c85176d2c0c733b70fd9e96cfa631_onEachFeature,
+            
+                style: geo_json_301c85176d2c0c733b70fd9e96cfa631_styler,
+            ...{
+}
+        });
+
+        function geo_json_301c85176d2c0c733b70fd9e96cfa631_add (data) {
+            geo_json_301c85176d2c0c733b70fd9e96cfa631
+                .addData(data);
+        }
+            geo_json_301c85176d2c0c733b70fd9e96cfa631_add({"features": [{"geometry": {"coordinates": [[[17.144876126013067, 60.661460729928876], [17.14491752303011, 60.66144208233138], [17.1451151677792, 60.661353052676425], [17.14514176935304, 60.6613410693638], [17.145070796215762, 60.66132235538669], [17.145068795927, 60.66132182741522], [17.14497176095775, 60.66130056434866], [17.144937560778143, 60.66129306973383], [17.144819116453792, 60.661268703765806], [17.144707716461465, 60.661233615374556], [17.144623556540175, 60.66126569351502], [17.14475384789847, 60.66136253102886], [17.144876126013067, 60.661460729928876]]], "type": "Polygon"}, "id": "0", "type": "Feature"}], "type": "FeatureCollection"});
+
+        
+    
+            geo_json_301c85176d2c0c733b70fd9e96cfa631.bindTooltip(
+                `<div>
+                     Urbergsterassen
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+        var popup_e0692f8e94835adc4972d7cf4884e296 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_5429fd97c9e7cb2b051ef9d6d96b12a5 = $(`<div id="html_5429fd97c9e7cb2b051ef9d6d96b12a5" style="width: 100.0%; height: 100.0%;">     <b>Urbergsterassen</b><br>     Lat: 60.661341<br>     Lon: 17.144870<br>     <a href="https://www.openstreetmap.org/?mlat=60.661341&mlon=17.144870&zoom=17" target="_blank">📍 Visa på OpenStreetMap</a>     </div>`)[0];
+                popup_e0692f8e94835adc4972d7cf4884e296.setContent(html_5429fd97c9e7cb2b051ef9d6d96b12a5);
+            
+        
+
+        geo_json_301c85176d2c0c733b70fd9e96cfa631.bindPopup(popup_e0692f8e94835adc4972d7cf4884e296)
+        ;
+
+        
+    
+    
+            geo_json_301c85176d2c0c733b70fd9e96cfa631.addTo(feature_group_da86e1a0d2c7cf222d60a0ef9771a4d5);
+        
+    
+        function geo_json_747d6882cd1a6d7e108640d46a095efe_styler(feature) {
+            switch(feature.id) {
+                default:
+                    return {"color": "darkgreen", "fillColor": "green", "fillOpacity": 0.4, "weight": 2};
+            }
+        }
+
+        function geo_json_747d6882cd1a6d7e108640d46a095efe_onEachFeature(feature, layer) {
+
+            layer.on({
+            });
+        };
+        var geo_json_747d6882cd1a6d7e108640d46a095efe = L.geoJson(null, {
+                onEachFeature: geo_json_747d6882cd1a6d7e108640d46a095efe_onEachFeature,
+            
+                style: geo_json_747d6882cd1a6d7e108640d46a095efe_styler,
+            ...{
+}
+        });
+
+        function geo_json_747d6882cd1a6d7e108640d46a095efe_add (data) {
+            geo_json_747d6882cd1a6d7e108640d46a095efe
+                .addData(data);
+        }
+            geo_json_747d6882cd1a6d7e108640d46a095efe_add({"features": [{"geometry": {"coordinates": [[[17.114541893220505, 60.69397695004621], [17.11463990238112, 60.69398137130459], [17.11461536511868, 60.69388546484446], [17.11461056499715, 60.69385695983355], [17.114603388669224, 60.693778369086154], [17.114604151817748, 60.693692870668976], [17.114528784747638, 60.69369430316431], [17.114485610266833, 60.693728415853315], [17.11443671692923, 60.69376704583647], [17.114386786528357, 60.69380649728027], [17.1144168010254, 60.693839481897854], [17.114528477073677, 60.69396220641409], [17.114541893220505, 60.69397695004621]]], "type": "Polygon"}, "id": "0", "type": "Feature"}], "type": "FeatureCollection"});
+
+        
+    
+            geo_json_747d6882cd1a6d7e108640d46a095efe.bindTooltip(
+                `<div>
+                     Ulvsmygen
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+        var popup_b94ee9e0a3b5f74568209148c9b9e4e9 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_fc020853e9aadf04293a0f6d52020aa9 = $(`<div id="html_fc020853e9aadf04293a0f6d52020aa9" style="width: 100.0%; height: 100.0%;">     <b>Ulvsmygen</b><br>     Lat: 60.693835<br>     Lon: 17.114532<br>     <a href="https://www.openstreetmap.org/?mlat=60.693835&mlon=17.114532&zoom=17" target="_blank">📍 Visa på OpenStreetMap</a>     </div>`)[0];
+                popup_b94ee9e0a3b5f74568209148c9b9e4e9.setContent(html_fc020853e9aadf04293a0f6d52020aa9);
+            
+        
+
+        geo_json_747d6882cd1a6d7e108640d46a095efe.bindPopup(popup_b94ee9e0a3b5f74568209148c9b9e4e9)
+        ;
+
+        
+    
+    
+            geo_json_747d6882cd1a6d7e108640d46a095efe.addTo(feature_group_da86e1a0d2c7cf222d60a0ef9771a4d5);
+        
+    
+        function geo_json_488d74512f2963ebbf8bbd49371e2595_styler(feature) {
+            switch(feature.id) {
+                default:
+                    return {"color": "darkgreen", "fillColor": "green", "fillOpacity": 0.4, "weight": 2};
+            }
+        }
+
+        function geo_json_488d74512f2963ebbf8bbd49371e2595_onEachFeature(feature, layer) {
+
+            layer.on({
+            });
+        };
+        var geo_json_488d74512f2963ebbf8bbd49371e2595 = L.geoJson(null, {
+                onEachFeature: geo_json_488d74512f2963ebbf8bbd49371e2595_onEachFeature,
+            
+                style: geo_json_488d74512f2963ebbf8bbd49371e2595_styler,
+            ...{
+}
+        });
+
+        function geo_json_488d74512f2963ebbf8bbd49371e2595_add (data) {
+            geo_json_488d74512f2963ebbf8bbd49371e2595
+                .addData(data);
+        }
+            geo_json_488d74512f2963ebbf8bbd49371e2595_add({"features": [{"geometry": {"coordinates": [[[17.180831895255036, 60.675147038841764], [17.181641976385226, 60.67515718333944], [17.18169569605984, 60.67453854827863], [17.180887619268844, 60.674516627637324], [17.180831895255036, 60.675147038841764]]], "type": "Polygon"}, "id": "0", "type": "Feature"}], "type": "FeatureCollection"});
+
+        
+    
+            geo_json_488d74512f2963ebbf8bbd49371e2595.bindTooltip(
+                `<div>
+                     Atlasgatan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+        var popup_906de1528674ea37436842f4f9ea634f = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_2d57648e2ac6af107a85c02143efe6c8 = $(`<div id="html_2d57648e2ac6af107a85c02143efe6c8" style="width: 100.0%; height: 100.0%;">     <b>Atlasgatan</b><br>     Lat: 60.674840<br>     Lon: 17.181263<br>     <a href="https://www.openstreetmap.org/?mlat=60.674840&mlon=17.181263&zoom=17" target="_blank">📍 Visa på OpenStreetMap</a>     </div>`)[0];
+                popup_906de1528674ea37436842f4f9ea634f.setContent(html_2d57648e2ac6af107a85c02143efe6c8);
+            
+        
+
+        geo_json_488d74512f2963ebbf8bbd49371e2595.bindPopup(popup_906de1528674ea37436842f4f9ea634f)
+        ;
+
+        
+    
+    
+            geo_json_488d74512f2963ebbf8bbd49371e2595.addTo(feature_group_da86e1a0d2c7cf222d60a0ef9771a4d5);
+        
+    
+        function geo_json_7734a92295a9a619da76c0dcee61b2e2_styler(feature) {
+            switch(feature.id) {
+                default:
+                    return {"color": "darkgreen", "fillColor": "green", "fillOpacity": 0.4, "weight": 2};
+            }
+        }
+
+        function geo_json_7734a92295a9a619da76c0dcee61b2e2_onEachFeature(feature, layer) {
+
+            layer.on({
+            });
+        };
+        var geo_json_7734a92295a9a619da76c0dcee61b2e2 = L.geoJson(null, {
+                onEachFeature: geo_json_7734a92295a9a619da76c0dcee61b2e2_onEachFeature,
+            
+                style: geo_json_7734a92295a9a619da76c0dcee61b2e2_styler,
+            ...{
+}
+        });
+
+        function geo_json_7734a92295a9a619da76c0dcee61b2e2_add (data) {
+            geo_json_7734a92295a9a619da76c0dcee61b2e2
+                .addData(data);
+        }
+            geo_json_7734a92295a9a619da76c0dcee61b2e2_add({"features": [{"geometry": {"coordinates": [[[17.216620288653452, 60.675842784039276], [17.21668177906242, 60.67583315955366], [17.217731267268174, 60.675668881277275], [17.217772715630037, 60.675662392770704], [17.217569736309127, 60.67542029758631], [17.217481662741392, 60.67531525156324], [17.21617003652112, 60.67547535158905], [17.216080578661128, 60.67548627057039], [17.216257423003896, 60.67560308853411], [17.216574302526045, 60.67581240783362], [17.216620288653452, 60.675842784039276]]], "type": "Polygon"}, "id": "0", "type": "Feature"}], "type": "FeatureCollection"});
+
+        
+    
+            geo_json_7734a92295a9a619da76c0dcee61b2e2.bindTooltip(
+                `<div>
+                     Bomhus
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+        var popup_53ad92ec600bccbe3bac3108a3557776 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_60e7abc49cb3680f01ddebc15b0fed85 = $(`<div id="html_60e7abc49cb3680f01ddebc15b0fed85" style="width: 100.0%; height: 100.0%;">     <b>Bomhus</b><br>     Lat: 60.675574<br>     Lon: 17.216972<br>     <a href="https://www.openstreetmap.org/?mlat=60.675574&mlon=17.216972&zoom=17" target="_blank">📍 Visa på OpenStreetMap</a>     </div>`)[0];
+                popup_53ad92ec600bccbe3bac3108a3557776.setContent(html_60e7abc49cb3680f01ddebc15b0fed85);
+            
+        
+
+        geo_json_7734a92295a9a619da76c0dcee61b2e2.bindPopup(popup_53ad92ec600bccbe3bac3108a3557776)
+        ;
+
+        
+    
+    
+            geo_json_7734a92295a9a619da76c0dcee61b2e2.addTo(feature_group_da86e1a0d2c7cf222d60a0ef9771a4d5);
+        
+    
+            feature_group_da86e1a0d2c7cf222d60a0ef9771a4d5.addTo(map_43471c2a531954f11c13fc35067fbf1c);
+        
+    
+            var feature_group_84c96ee0e09dcee3c5dbf166f7633535 = L.featureGroup(
+                {
+}
+            );
+        
+    
+            var marker_3215a19d38cd9542da69336f5f653f93 = L.marker(
+                [60.61456063240101, 16.89622379868383],
+                {
+}
+            ).addTo(feature_group_84c96ee0e09dcee3c5dbf166f7633535);
+        
+    
+            var icon_26d30b4cbce9fa9841a8d5e6a009bc96 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkgreen",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+  "iconSize": [45, 45],
+}
+            );
+        
+    
+        var popup_abc2a9fe6cec11a3a76466e4e7e65340 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_8ef19b2f0331450e4acd512003df4d8c = $(`<div id="html_8ef19b2f0331450e4acd512003df4d8c" style="width: 100.0%; height: 100.0%;">     <b>Pilparken</b><br>     Lat: 60.614561<br>     Lon: 16.896224<br>     <a href="https://www.openstreetmap.org/?mlat=60.614561&mlon=16.896224&zoom=17" target="_blank">📍 Visa på OpenStreetMap</a>     </div>`)[0];
+                popup_abc2a9fe6cec11a3a76466e4e7e65340.setContent(html_8ef19b2f0331450e4acd512003df4d8c);
+            
+        
+
+        marker_3215a19d38cd9542da69336f5f653f93.bindPopup(popup_abc2a9fe6cec11a3a76466e4e7e65340)
+        ;
+
+        
+    
+    
+            marker_3215a19d38cd9542da69336f5f653f93.bindTooltip(
+                `<div>
+                     Pilparken
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_3215a19d38cd9542da69336f5f653f93.setIcon(icon_26d30b4cbce9fa9841a8d5e6a009bc96);
+            
+    
+            var marker_f7dab897bdfe2e1221f7322a7becc794 = L.marker(
+                [60.642413673903604, 16.998035011622978],
+                {
+}
+            ).addTo(feature_group_84c96ee0e09dcee3c5dbf166f7633535);
+        
+    
+            var icon_01273b751cf2aeb297a6849188e67efe = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkgreen",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+  "iconSize": [45, 45],
+}
+            );
+        
+    
+        var popup_c29d7a8e36c298c90ec2f1aa8ca35c81 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_e7a7a5f722aa183e8b9831f0bbb9c2ba = $(`<div id="html_e7a7a5f722aa183e8b9831f0bbb9c2ba" style="width: 100.0%; height: 100.0%;">     <b>Siporexparken</b><br>     Lat: 60.642414<br>     Lon: 16.998035<br>     <a href="https://www.openstreetmap.org/?mlat=60.642414&mlon=16.998035&zoom=17" target="_blank">📍 Visa på OpenStreetMap</a>     </div>`)[0];
+                popup_c29d7a8e36c298c90ec2f1aa8ca35c81.setContent(html_e7a7a5f722aa183e8b9831f0bbb9c2ba);
+            
+        
+
+        marker_f7dab897bdfe2e1221f7322a7becc794.bindPopup(popup_c29d7a8e36c298c90ec2f1aa8ca35c81)
+        ;
+
+        
+    
+    
+            marker_f7dab897bdfe2e1221f7322a7becc794.bindTooltip(
+                `<div>
+                     Siporexparken
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_f7dab897bdfe2e1221f7322a7becc794.setIcon(icon_01273b751cf2aeb297a6849188e67efe);
+            
+    
+            var marker_2fa9269a4478daa6e810f3e039ae3207 = L.marker(
+                [60.6407895927077, 17.01282083246255],
+                {
+}
+            ).addTo(feature_group_84c96ee0e09dcee3c5dbf166f7633535);
+        
+    
+            var icon_92c1e152ddf76870ab3c02d227a3d04c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkgreen",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+  "iconSize": [45, 45],
+}
+            );
+        
+    
+        var popup_71b7e93e113e345d780622d150f105d2 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_3606abe3cc8e1361651782d4dee7de7c = $(`<div id="html_3606abe3cc8e1361651782d4dee7de7c" style="width: 100.0%; height: 100.0%;">     <b>Skolvägen</b><br>     Lat: 60.640790<br>     Lon: 17.012821<br>     <a href="https://www.openstreetmap.org/?mlat=60.640790&mlon=17.012821&zoom=17" target="_blank">📍 Visa på OpenStreetMap</a>     </div>`)[0];
+                popup_71b7e93e113e345d780622d150f105d2.setContent(html_3606abe3cc8e1361651782d4dee7de7c);
+            
+        
+
+        marker_2fa9269a4478daa6e810f3e039ae3207.bindPopup(popup_71b7e93e113e345d780622d150f105d2)
+        ;
+
+        
+    
+    
+            marker_2fa9269a4478daa6e810f3e039ae3207.bindTooltip(
+                `<div>
+                     Skolvägen
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_2fa9269a4478daa6e810f3e039ae3207.setIcon(icon_92c1e152ddf76870ab3c02d227a3d04c);
+            
+    
+            var marker_addc352f4dbbc57e3091f678ee73003b = L.marker(
+                [60.689318210530686, 17.11891303181394],
+                {
+}
+            ).addTo(feature_group_84c96ee0e09dcee3c5dbf166f7633535);
+        
+    
+            var icon_5bb1e5ed0530f587f580e0270bfa9926 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkgreen",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+  "iconSize": [45, 45],
+}
+            );
+        
+    
+        var popup_cb578cd4548849df41ae25968cd8b617 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_50d8226bc0541385e1ca75b45865d3b3 = $(`<div id="html_50d8226bc0541385e1ca75b45865d3b3" style="width: 100.0%; height: 100.0%;">     <b>Sätraängarna</b><br>     Lat: 60.689318<br>     Lon: 17.118913<br>     <a href="https://www.openstreetmap.org/?mlat=60.689318&mlon=17.118913&zoom=17" target="_blank">📍 Visa på OpenStreetMap</a>     </div>`)[0];
+                popup_cb578cd4548849df41ae25968cd8b617.setContent(html_50d8226bc0541385e1ca75b45865d3b3);
+            
+        
+
+        marker_addc352f4dbbc57e3091f678ee73003b.bindPopup(popup_cb578cd4548849df41ae25968cd8b617)
+        ;
+
+        
+    
+    
+            marker_addc352f4dbbc57e3091f678ee73003b.bindTooltip(
+                `<div>
+                     Sätraängarna
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_addc352f4dbbc57e3091f678ee73003b.setIcon(icon_5bb1e5ed0530f587f580e0270bfa9926);
+            
+    
+            var marker_8fabd16ce902bfbc0c8686c14af1cf27 = L.marker(
+                [60.68039029411266, 17.142614436415986],
+                {
+}
+            ).addTo(feature_group_84c96ee0e09dcee3c5dbf166f7633535);
+        
+    
+            var icon_dbc3277adbc5aa613b4d4680d15a639f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkgreen",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+  "iconSize": [45, 45],
+}
+            );
+        
+    
+        var popup_01eec72945a7c8647e29ef5a2adba6f8 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_ffaeb6003885605a050fa1f307a1f4aa = $(`<div id="html_ffaeb6003885605a050fa1f307a1f4aa" style="width: 100.0%; height: 100.0%;">     <b>Stora Esplanadgatan</b><br>     Lat: 60.680390<br>     Lon: 17.142614<br>     <a href="https://www.openstreetmap.org/?mlat=60.680390&mlon=17.142614&zoom=17" target="_blank">📍 Visa på OpenStreetMap</a>     </div>`)[0];
+                popup_01eec72945a7c8647e29ef5a2adba6f8.setContent(html_ffaeb6003885605a050fa1f307a1f4aa);
+            
+        
+
+        marker_8fabd16ce902bfbc0c8686c14af1cf27.bindPopup(popup_01eec72945a7c8647e29ef5a2adba6f8)
+        ;
+
+        
+    
+    
+            marker_8fabd16ce902bfbc0c8686c14af1cf27.bindTooltip(
+                `<div>
+                     Stora Esplanadgatan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_8fabd16ce902bfbc0c8686c14af1cf27.setIcon(icon_dbc3277adbc5aa613b4d4680d15a639f);
+            
+    
+            var marker_448e306d0c03ad5447a33317c5c1b91e = L.marker(
+                [60.67924900920963, 17.158086163737835],
+                {
+}
+            ).addTo(feature_group_84c96ee0e09dcee3c5dbf166f7633535);
+        
+    
+            var icon_771efc689c5432778ce318e76392a2f1 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkgreen",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+  "iconSize": [45, 45],
+}
+            );
+        
+    
+        var popup_9a47f69d6d2c0a04a4e7cfd27f3fb7d1 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_395a63ccff4a837b796b416a1df25818 = $(`<div id="html_395a63ccff4a837b796b416a1df25818" style="width: 100.0%; height: 100.0%;">     <b>Holmkanalen</b><br>     Lat: 60.679249<br>     Lon: 17.158086<br>     <a href="https://www.openstreetmap.org/?mlat=60.679249&mlon=17.158086&zoom=17" target="_blank">📍 Visa på OpenStreetMap</a>     </div>`)[0];
+                popup_9a47f69d6d2c0a04a4e7cfd27f3fb7d1.setContent(html_395a63ccff4a837b796b416a1df25818);
+            
+        
+
+        marker_448e306d0c03ad5447a33317c5c1b91e.bindPopup(popup_9a47f69d6d2c0a04a4e7cfd27f3fb7d1)
+        ;
+
+        
+    
+    
+            marker_448e306d0c03ad5447a33317c5c1b91e.bindTooltip(
+                `<div>
+                     Holmkanalen
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_448e306d0c03ad5447a33317c5c1b91e.setIcon(icon_771efc689c5432778ce318e76392a2f1);
+            
+    
+            var marker_3f7bfd82a0ca20e7c279aace9b2afc2c = L.marker(
+                [60.6778832937096, 17.149884171511776],
+                {
+}
+            ).addTo(feature_group_84c96ee0e09dcee3c5dbf166f7633535);
+        
+    
+            var icon_2a349663bcf684f24b144f98007e8cd9 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkgreen",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+  "iconSize": [45, 45],
+}
+            );
+        
+    
+        var popup_0749044e934d3bbe08629f2c780239b8 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_5aeafd99b94005c1d544b51523371fc8 = $(`<div id="html_5aeafd99b94005c1d544b51523371fc8" style="width: 100.0%; height: 100.0%;">     <b>Hamntorget</b><br>     Lat: 60.677883<br>     Lon: 17.149884<br>     <a href="https://www.openstreetmap.org/?mlat=60.677883&mlon=17.149884&zoom=17" target="_blank">📍 Visa på OpenStreetMap</a>     </div>`)[0];
+                popup_0749044e934d3bbe08629f2c780239b8.setContent(html_5aeafd99b94005c1d544b51523371fc8);
+            
+        
+
+        marker_3f7bfd82a0ca20e7c279aace9b2afc2c.bindPopup(popup_0749044e934d3bbe08629f2c780239b8)
+        ;
+
+        
+    
+    
+            marker_3f7bfd82a0ca20e7c279aace9b2afc2c.bindTooltip(
+                `<div>
+                     Hamntorget
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_3f7bfd82a0ca20e7c279aace9b2afc2c.setIcon(icon_2a349663bcf684f24b144f98007e8cd9);
+            
+    
+            var marker_53c8909188488f69cdd6979a89139a25 = L.marker(
+                [60.67185793634306, 17.13915239246162],
+                {
+}
+            ).addTo(feature_group_84c96ee0e09dcee3c5dbf166f7633535);
+        
+    
+            var icon_5c1f5efb108ccbfac63b7615d40467e3 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkgreen",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+  "iconSize": [45, 45],
+}
+            );
+        
+    
+        var popup_0a3f7fb9741ce4510abb97a12b276f60 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_ec886141eb89207252c713f3e4dbed0b = $(`<div id="html_ec886141eb89207252c713f3e4dbed0b" style="width: 100.0%; height: 100.0%;">     <b>Gammelbron</b><br>     Lat: 60.671858<br>     Lon: 17.139152<br>     <a href="https://www.openstreetmap.org/?mlat=60.671858&mlon=17.139152&zoom=17" target="_blank">📍 Visa på OpenStreetMap</a>     </div>`)[0];
+                popup_0a3f7fb9741ce4510abb97a12b276f60.setContent(html_ec886141eb89207252c713f3e4dbed0b);
+            
+        
+
+        marker_53c8909188488f69cdd6979a89139a25.bindPopup(popup_0a3f7fb9741ce4510abb97a12b276f60)
+        ;
+
+        
+    
+    
+            marker_53c8909188488f69cdd6979a89139a25.bindTooltip(
+                `<div>
+                     Gammelbron
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_53c8909188488f69cdd6979a89139a25.setIcon(icon_5c1f5efb108ccbfac63b7615d40467e3);
+            
+    
+            var marker_23a63127cb6925c44b5ab9d3a2b2d582 = L.marker(
+                [60.65129442285688, 17.144096942205074],
+                {
+}
+            ).addTo(feature_group_84c96ee0e09dcee3c5dbf166f7633535);
+        
+    
+            var icon_b01b36a129cab8e5d1d5ff50b246e089 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkgreen",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+  "iconSize": [45, 45],
+}
+            );
+        
+    
+        var popup_d49ccc37404ff7e0030063136f1ebd18 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_6f09fc727ae6043bbd7b510eef9dc7bc = $(`<div id="html_6f09fc727ae6043bbd7b510eef9dc7bc" style="width: 100.0%; height: 100.0%;">     <b>Lugna gatan</b><br>     Lat: 60.651294<br>     Lon: 17.144097<br>     <a href="https://www.openstreetmap.org/?mlat=60.651294&mlon=17.144097&zoom=17" target="_blank">📍 Visa på OpenStreetMap</a>     </div>`)[0];
+                popup_d49ccc37404ff7e0030063136f1ebd18.setContent(html_6f09fc727ae6043bbd7b510eef9dc7bc);
+            
+        
+
+        marker_23a63127cb6925c44b5ab9d3a2b2d582.bindPopup(popup_d49ccc37404ff7e0030063136f1ebd18)
+        ;
+
+        
+    
+    
+            marker_23a63127cb6925c44b5ab9d3a2b2d582.bindTooltip(
+                `<div>
+                     Lugna gatan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_23a63127cb6925c44b5ab9d3a2b2d582.setIcon(icon_b01b36a129cab8e5d1d5ff50b246e089);
+            
+    
+            var marker_25ae01a35ae287b754363239edbedd51 = L.marker(
+                [60.66134055648909, 17.144870057833852],
+                {
+}
+            ).addTo(feature_group_84c96ee0e09dcee3c5dbf166f7633535);
+        
+    
+            var icon_76987688ce3ce2a6f4b2b71fb7dd0238 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkgreen",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+  "iconSize": [45, 45],
+}
+            );
+        
+    
+        var popup_95c890b4b0493b3b8bda69e87be0b037 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_cf49f8fea2b749b78e0017e6bff1529b = $(`<div id="html_cf49f8fea2b749b78e0017e6bff1529b" style="width: 100.0%; height: 100.0%;">     <b>Urbergsterassen</b><br>     Lat: 60.661341<br>     Lon: 17.144870<br>     <a href="https://www.openstreetmap.org/?mlat=60.661341&mlon=17.144870&zoom=17" target="_blank">📍 Visa på OpenStreetMap</a>     </div>`)[0];
+                popup_95c890b4b0493b3b8bda69e87be0b037.setContent(html_cf49f8fea2b749b78e0017e6bff1529b);
+            
+        
+
+        marker_25ae01a35ae287b754363239edbedd51.bindPopup(popup_95c890b4b0493b3b8bda69e87be0b037)
+        ;
+
+        
+    
+    
+            marker_25ae01a35ae287b754363239edbedd51.bindTooltip(
+                `<div>
+                     Urbergsterassen
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_25ae01a35ae287b754363239edbedd51.setIcon(icon_76987688ce3ce2a6f4b2b71fb7dd0238);
+            
+    
+            var marker_c21c2e6266437c3aeeaef61087c26e52 = L.marker(
+                [60.69383474739026, 17.114532018998275],
+                {
+}
+            ).addTo(feature_group_84c96ee0e09dcee3c5dbf166f7633535);
+        
+    
+            var icon_c80120c3a6dc20cef6a6a9a91861ee6b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkgreen",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+  "iconSize": [45, 45],
+}
+            );
+        
+    
+        var popup_e03c3a44680511022fc41233c0f3aa10 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_13ecd96af87003ce82b75a72a6c9c5b2 = $(`<div id="html_13ecd96af87003ce82b75a72a6c9c5b2" style="width: 100.0%; height: 100.0%;">     <b>Ulvsmygen</b><br>     Lat: 60.693835<br>     Lon: 17.114532<br>     <a href="https://www.openstreetmap.org/?mlat=60.693835&mlon=17.114532&zoom=17" target="_blank">📍 Visa på OpenStreetMap</a>     </div>`)[0];
+                popup_e03c3a44680511022fc41233c0f3aa10.setContent(html_13ecd96af87003ce82b75a72a6c9c5b2);
+            
+        
+
+        marker_c21c2e6266437c3aeeaef61087c26e52.bindPopup(popup_e03c3a44680511022fc41233c0f3aa10)
+        ;
+
+        
+    
+    
+            marker_c21c2e6266437c3aeeaef61087c26e52.bindTooltip(
+                `<div>
+                     Ulvsmygen
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_c21c2e6266437c3aeeaef61087c26e52.setIcon(icon_c80120c3a6dc20cef6a6a9a91861ee6b);
+            
+    
+            var marker_20ca2704be68bfb43ac97ccffc22f543 = L.marker(
+                [60.674839886736976, 17.18126301784633],
+                {
+}
+            ).addTo(feature_group_84c96ee0e09dcee3c5dbf166f7633535);
+        
+    
+            var icon_c5bd5e8e4178d668f80f6e4ab6a2227f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkgreen",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+  "iconSize": [45, 45],
+}
+            );
+        
+    
+        var popup_16a30475cd1d58912e1f92f4ca6898ec = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_994b026050fb3a3dd00164889a836162 = $(`<div id="html_994b026050fb3a3dd00164889a836162" style="width: 100.0%; height: 100.0%;">     <b>Atlasgatan</b><br>     Lat: 60.674840<br>     Lon: 17.181263<br>     <a href="https://www.openstreetmap.org/?mlat=60.674840&mlon=17.181263&zoom=17" target="_blank">📍 Visa på OpenStreetMap</a>     </div>`)[0];
+                popup_16a30475cd1d58912e1f92f4ca6898ec.setContent(html_994b026050fb3a3dd00164889a836162);
+            
+        
+
+        marker_20ca2704be68bfb43ac97ccffc22f543.bindPopup(popup_16a30475cd1d58912e1f92f4ca6898ec)
+        ;
+
+        
+    
+    
+            marker_20ca2704be68bfb43ac97ccffc22f543.bindTooltip(
+                `<div>
+                     Atlasgatan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_20ca2704be68bfb43ac97ccffc22f543.setIcon(icon_c5bd5e8e4178d668f80f6e4ab6a2227f);
+            
+    
+            var marker_2b8c1c5493a6aa4ab18c171232586c37 = L.marker(
+                [60.67557354233532, 17.216971930169183],
+                {
+}
+            ).addTo(feature_group_84c96ee0e09dcee3c5dbf166f7633535);
+        
+    
+            var icon_54966748144a906f7ef00c3ea31b55b2 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkgreen",
+  "iconColor": "white",
+  "icon": "paw",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+  "iconSize": [45, 45],
+}
+            );
+        
+    
+        var popup_ef611d5314cd0df0674520ee6b56e888 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_f76bea8a9a8c883c9d0367f6703429e5 = $(`<div id="html_f76bea8a9a8c883c9d0367f6703429e5" style="width: 100.0%; height: 100.0%;">     <b>Bomhus</b><br>     Lat: 60.675574<br>     Lon: 17.216972<br>     <a href="https://www.openstreetmap.org/?mlat=60.675574&mlon=17.216972&zoom=17" target="_blank">📍 Visa på OpenStreetMap</a>     </div>`)[0];
+                popup_ef611d5314cd0df0674520ee6b56e888.setContent(html_f76bea8a9a8c883c9d0367f6703429e5);
+            
+        
+
+        marker_2b8c1c5493a6aa4ab18c171232586c37.bindPopup(popup_ef611d5314cd0df0674520ee6b56e888)
+        ;
+
+        
+    
+    
+            marker_2b8c1c5493a6aa4ab18c171232586c37.bindTooltip(
+                `<div>
+                     Bomhus
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_2b8c1c5493a6aa4ab18c171232586c37.setIcon(icon_54966748144a906f7ef00c3ea31b55b2);
+            
+    
+            feature_group_84c96ee0e09dcee3c5dbf166f7633535.addTo(map_43471c2a531954f11c13fc35067fbf1c);
+        
+    
+            var layer_control_13fb74a9c03195046e014d3ce2838010_layers = {
+                base_layers : {
+                    "openstreetmap" : tile_layer_6f88ea0d2ebbdf01498710751f62a57e,
+                },
+                overlays :  {
+                    "\ud83d\udc3e Hundrastg\u00e5rdsytor" : feature_group_da86e1a0d2c7cf222d60a0ef9771a4d5,
+                    "\ud83d\udccd Hundrastg\u00e5rdar (mark\u00f6rer)" : feature_group_84c96ee0e09dcee3c5dbf166f7633535,
+                },
+            };
+            let layer_control_13fb74a9c03195046e014d3ce2838010 = L.control.layers(
+                layer_control_13fb74a9c03195046e014d3ce2838010_layers.base_layers,
+                layer_control_13fb74a9c03195046e014d3ce2838010_layers.overlays,
+                {
+  "position": "topright",
+  "collapsed": false,
+  "autoZIndex": true,
+}
+            ).addTo(map_43471c2a531954f11c13fc35067fbf1c);
+
+        
+    
+            tile_layer_6f88ea0d2ebbdf01498710751f62a57e.addTo(map_43471c2a531954f11c13fc35067fbf1c);
+        
+    
+            geo_json_48162607e78f079a218894d1d96c3a9e.addTo(feature_group_da86e1a0d2c7cf222d60a0ef9771a4d5);
+        
+    
+            geo_json_caeb1a0ba974129bc272a387618d24cf.addTo(feature_group_da86e1a0d2c7cf222d60a0ef9771a4d5);
+        
+    
+            geo_json_49d6f254598be9718a3281e54ff853d9.addTo(feature_group_da86e1a0d2c7cf222d60a0ef9771a4d5);
+        
+    
+            geo_json_23c13015d6fe905a474f4e61e5acc249.addTo(feature_group_da86e1a0d2c7cf222d60a0ef9771a4d5);
+        
+    
+            geo_json_5e3984e742c28163849bcdfa19d325a7.addTo(feature_group_da86e1a0d2c7cf222d60a0ef9771a4d5);
+        
+    
+            geo_json_e995c93904836a7678376012d79c27cc.addTo(feature_group_da86e1a0d2c7cf222d60a0ef9771a4d5);
+        
+    
+            geo_json_4829de4d515942dc462739aceb40c82c.addTo(feature_group_da86e1a0d2c7cf222d60a0ef9771a4d5);
+        
+    
+            geo_json_fac7101d7d0e080fcf3afe1858c22da2.addTo(feature_group_da86e1a0d2c7cf222d60a0ef9771a4d5);
+        
+    
+            geo_json_e9498e725d39505f6543c8b10c7d3f24.addTo(feature_group_da86e1a0d2c7cf222d60a0ef9771a4d5);
+        
+    
+            geo_json_301c85176d2c0c733b70fd9e96cfa631.addTo(feature_group_da86e1a0d2c7cf222d60a0ef9771a4d5);
+        
+    
+            geo_json_747d6882cd1a6d7e108640d46a095efe.addTo(feature_group_da86e1a0d2c7cf222d60a0ef9771a4d5);
+        
+    
+            geo_json_488d74512f2963ebbf8bbd49371e2595.addTo(feature_group_da86e1a0d2c7cf222d60a0ef9771a4d5);
+        
+    
+            geo_json_7734a92295a9a619da76c0dcee61b2e2.addTo(feature_group_da86e1a0d2c7cf222d60a0ef9771a4d5);
+        
+    
+            feature_group_da86e1a0d2c7cf222d60a0ef9771a4d5.addTo(map_43471c2a531954f11c13fc35067fbf1c);
+        
+    
+                marker_3215a19d38cd9542da69336f5f653f93.setIcon(icon_26d30b4cbce9fa9841a8d5e6a009bc96);
+            
+    
+                marker_f7dab897bdfe2e1221f7322a7becc794.setIcon(icon_01273b751cf2aeb297a6849188e67efe);
+            
+    
+                marker_2fa9269a4478daa6e810f3e039ae3207.setIcon(icon_92c1e152ddf76870ab3c02d227a3d04c);
+            
+    
+                marker_addc352f4dbbc57e3091f678ee73003b.setIcon(icon_5bb1e5ed0530f587f580e0270bfa9926);
+            
+    
+                marker_8fabd16ce902bfbc0c8686c14af1cf27.setIcon(icon_dbc3277adbc5aa613b4d4680d15a639f);
+            
+    
+                marker_448e306d0c03ad5447a33317c5c1b91e.setIcon(icon_771efc689c5432778ce318e76392a2f1);
+            
+    
+                marker_3f7bfd82a0ca20e7c279aace9b2afc2c.setIcon(icon_2a349663bcf684f24b144f98007e8cd9);
+            
+    
+                marker_53c8909188488f69cdd6979a89139a25.setIcon(icon_5c1f5efb108ccbfac63b7615d40467e3);
+            
+    
+                marker_23a63127cb6925c44b5ab9d3a2b2d582.setIcon(icon_b01b36a129cab8e5d1d5ff50b246e089);
+            
+    
+                marker_25ae01a35ae287b754363239edbedd51.setIcon(icon_76987688ce3ce2a6f4b2b71fb7dd0238);
+            
+    
+                marker_c21c2e6266437c3aeeaef61087c26e52.setIcon(icon_c80120c3a6dc20cef6a6a9a91861ee6b);
+            
+    
+                marker_20ca2704be68bfb43ac97ccffc22f543.setIcon(icon_c5bd5e8e4178d668f80f6e4ab6a2227f);
+            
+    
+                marker_2b8c1c5493a6aa4ab18c171232586c37.setIcon(icon_54966748144a906f7ef00c3ea31b55b2);
+            
+    
+            feature_group_84c96ee0e09dcee3c5dbf166f7633535.addTo(map_43471c2a531954f11c13fc35067fbf1c);
+        
+</script>
+</html>
