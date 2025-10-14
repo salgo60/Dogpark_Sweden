@@ -1,6 +1,7 @@
 <table border=0>
 <tr>
 <td>
+<img width="942" height="362" alt="image" src="https://github.com/user-attachments/assets/4b27e882-e758-425c-a840-4211ab9d65ab" />
 
 # 🐕‍🦺 Dogpark Sweden
 
