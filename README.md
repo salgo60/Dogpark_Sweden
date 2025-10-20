@@ -23,7 +23,6 @@
 </tr>
 </table>
 <b>Status 20251007 - Stockholm Stads öppna data</b> https://github.com/salgo60/Dogpark_Sweden/issues/10 <br /><br />
-<img src="image/SAT_Dogpark_sthlm.jpg" alt="Dogpark Stockholm 20251007 " width="800" height="800">
 <img src="image/DogparkSthlm.jpeg" alt="Dogpark Stockholm 20251007 " width="800" height="800">
 
 ----
