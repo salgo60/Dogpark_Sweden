@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-10-20T10:22:16Z",
+    "timestamp_osm_base": "2025-10-22T07:01:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -6947,16 +6947,21 @@
         4921813402,
         4921813403,
         4921813404,
+        13247793343,
         4921813401
       ],
       "tags": {
+        "dog": "unleashed",
         "fence_type": "chain_link",
+        "fenced": "yes",
         "leisure": "dog_park",
+        "name": "Hundrastgård Brogården",
         "operator": "Skara kommun",
         "operator:wikidata": "Q499421",
+        "surface": "grass",
         "website": "https://www.skara.se/upplevaochgora/idrottmotionochfriluftsliv/hundrastgardar.1873.html",
         "wikidata": "Q135458052",
-        "wikimedia_commons": "Category:Hundrastgård Brogården, Skara"
+        "wikimedia_commons": "Category:Hundrastgård_Brogården,_Skara"
       }
     },
     {
@@ -10125,11 +10130,14 @@
         "fence_type": "chain_link",
         "fenced": "yes",
         "height": "1.1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Skinnarviksbergets_hundrastg%C3%A5rd_05.jpg/1280px-Skinnarviksbergets_hundrastg%C3%A5rd_05.jpg",
+        "image:license": "CC0",
         "leisure": "dog_park",
         "name": "Skinnarviksbergets hundrastgård",
         "operator": "Stockholms kommun",
         "operator:type": "public",
         "operator:wikidata": "Q506250",
+        "survey:date": "2025-10-21",
         "website": "https://parker.stockholm/hundrastplatser",
         "wikimedia_commons": "Category:Skinnarviksbergets_hundrastgård"
       }
@@ -11232,14 +11240,19 @@
       ],
       "tags": {
         "barrier": "fence",
+        "dog": "unleashed",
         "fence_type": "chain_link",
         "fenced": "yes",
+        "height": "1.1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Fatbursparkens_hundrastg%C3%A5rd_05.jpg/2560px-Fatbursparkens_hundrastg%C3%A5rd_05.jpg",
+        "image:license": "CC0",
         "leisure": "dog_park",
         "name": "Fatbursparkens hundrastgård",
         "operator": "Stockholms kommun",
         "operator:type": "public",
         "operator:wikidata": "Q506250",
         "surface": "fine_gravel",
+        "survey:date": "2025-10-21",
         "website": "https://parker.stockholm/hundrastplatser",
         "wheelchair": "yes",
         "wikimedia_commons": "Category:Fatbursparkens_hundrastgård"
@@ -11924,7 +11937,9 @@
         8485994574
       ],
       "tags": {
-        "leisure": "dog_park"
+        "leisure": "dog_park",
+        "name": "Vintervikens hundrastgård",
+        "operator": "Stockholms kommun"
       }
     },
     {
@@ -22741,11 +22756,15 @@
         "dog": "unleashed",
         "fence_type": "chain_link",
         "fenced": "yes",
+        "height": "1.1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Monteliusv%C3%A4gens_hundrastg%C3%A5rd_02.jpg/1280px-Monteliusv%C3%A4gens_hundrastg%C3%A5rd_02.jpg",
+        "image:license": "CC0",
         "leisure": "dog_park",
         "name": "Monteliusvägens hundrastgård",
         "operator": "Stockholms kommun",
         "operator:type": "public",
         "operator:wikidata": "Q506250",
+        "survey:date": "2025-10-21",
         "website": "https://parker.stockholm/hundrastplatser",
         "wikimedia_commons": "Category:Monteliusvägens_hundrastgård"
       }
@@ -22791,14 +22810,83 @@
         "dog": "unleashed",
         "fence_type": "metal",
         "fenced": "yes",
+        "height": "1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Wollmar_Yxkullsgatans_hundrastg%C3%A5rd_02.jpg/2560px-Wollmar_Yxkullsgatans_hundrastg%C3%A5rd_02.jpg",
+        "image:license": "CC0",
         "leisure": "dog_park",
         "mapillary": "576570968083429",
         "name": "Wollmar Yxkullsgatans hundrastgård",
         "operator": "Stockholms kommun",
         "operator:type": "public",
         "operator:wikidata": "Q506250",
+        "surface": "gravel",
+        "survey:date": "2025-10-21",
         "website": "https://parker.stockholm/hundrastplatser",
         "wikimedia_commons": "Category:Wollmar_Yxkullsgatans_hundrastgård"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1443801229,
+      "center": {
+        "lat": 59.3098161,
+        "lon": 18.0616907
+      },
+      "nodes": [
+        13248731792,
+        13248731793,
+        13248731794,
+        13248731797,
+        13248731795,
+        13248731796,
+        13248731792
+      ],
+      "tags": {
+        "access": "yes",
+        "description": "Hundrastplatsen är indelad i två sektioner, där en sektion är för mindre hundar. Det vill säga hundar som väger maximalt 10 kilo och som har en mankhöjd på cirka 35 centimeter.",
+        "dog": "unleashed",
+        "fence_type": "chain_link",
+        "fenced": "yes",
+        "height": "1.1",
+        "leisure": "dog_park",
+        "name": "Rosenlundsparkens hundrastgård",
+        "operator": "Stockholms kommun",
+        "operator:type": "public",
+        "operator:wikidata": "Q506250",
+        "survey:date": "2025-10-21",
+        "wikimedia_commons": "Category:Rosenlundsparkens_hundrastgård"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1443802720,
+      "center": {
+        "lat": 59.3093418,
+        "lon": 18.0729114
+      },
+      "nodes": [
+        13248739062,
+        13248739063,
+        13248739064,
+        13248739065,
+        13248739062
+      ],
+      "tags": {
+        "dog": "unleashed",
+        "fence_type": "chain_link",
+        "fenced": "yes",
+        "height": "1.1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/%C3%84lvsborgsgatans_hundrastplsts_04.jpg/2560px-%C3%84lvsborgsgatans_hundrastplsts_04.jpg",
+        "image:license": "CC0",
+        "leisure": "dog_park",
+        "name": "Älvsborgsgatans hundrastplats",
+        "operator": "Stockholms kommun",
+        "operator:type": "public",
+        "operator:wikidata": "Q506250",
+        "surface": "fine_gravel",
+        "survey:date": "2025-10-21",
+        "website": "https://parker.stockholm/hundrastplatser",
+        "wikimedia_commons": "Category:Älvsborgsgatans_hundrastplats"
       }
     },
     {
