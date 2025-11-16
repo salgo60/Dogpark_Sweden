@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-11-16T07:59:58Z",
-    "timestamp_areas_base": "2025-11-16T04:45:43Z",
+    "timestamp_osm_base": "2025-11-16T19:00:11Z",
+    "timestamp_areas_base": "2025-11-16T15:51:00Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -5197,7 +5197,6 @@
         3504194467
       ],
       "tags": {
-        "alt_name": "Lundaängens Hundrastgård",
         "area": "yes",
         "barrier": "fence",
         "dog": "unleashed",
@@ -5213,7 +5212,7 @@
         "surface": "grass;compacted",
         "website": "https://parker.stockholm/hundrastplatser/",
         "wheelchair": "limited",
-        "wikimedia_commons": "Category:Lundaängens_Hundrastgård_-_Spånga"
+        "wikimedia_commons": "Category:Grimstafältets_Hundrastgård"
       }
     },
     {
@@ -11246,11 +11245,19 @@
       ],
       "tags": {
         "barrier": "fence",
+        "check_date": "2025-11-16",
+        "fence_type": "chain_link",
+        "height": "1.1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Lunda%C3%A4ngens_Hundrastg%C3%A5rd_-_Sp%C3%A5nga_Nov_2025_01.jpg/2560px-Lunda%C3%A4ngens_Hundrastg%C3%A5rd_-_Sp%C3%A5nga_Nov_2025_01.jpg",
+        "image:license": "CC-0",
         "leisure": "dog_park",
         "name": "Lundaängens Hundrastgård - Spånga",
         "opening_hours": "24/7",
+        "small_dog": "shared",
+        "surface": "grass",
         "website": "https://parker.stockholm/hundrastplatser/",
-        "wheelchair": "unknown"
+        "wheelchair": "limited",
+        "wikimedia_commons": "Category:Lundaängens_Hundrastgård_-_Spånga"
       }
     },
     {
@@ -11268,10 +11275,18 @@
         12903223132
       ],
       "tags": {
+        "barrier": "fence",
+        "dog": "unleashed",
+        "fence_type": "chain_link",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bromstens_Hundpark_2025_nov_-_8.jpg/2560px-Bromstens_Hundpark_2025_nov_-_8.jpg",
         "leisure": "dog_park",
         "name": "Bromstens Hundpark - Spånga",
+        "opening_hours": "24/7",
+        "small_dog": "shared",
+        "surface": "grass",
         "website": "https://parker.stockholm/hundrastplatser/",
-        "wheelchair": "unknown"
+        "wheelchair": "unknown",
+        "wikimedia_commons": "Category:Bromstens_Hundpark"
       }
     },
     {
@@ -12563,6 +12578,8 @@
       ],
       "tags": {
         "barrier": "fence",
+        "check_date": "2025-11-16",
+        "check_date:wheelchair": "2025-11-16",
         "dog": "unleashed",
         "fence_type": "chain_link",
         "fenced": "yes",
@@ -12577,8 +12594,8 @@
         "operator:wikidata": "Q506250",
         "small_dog": "shared",
         "surface": "fine_gravel",
-        "survey:date": "2025-10-21",
         "website": "https://parker.stockholm/hundrastplatser",
+        "wheelchair": "yes",
         "wikimedia_commons": "Category:Älvsborgsgatans_hundrastplats"
       }
     },
