@@ -1,0 +1,718 @@
+key,value,count
+access,yes,99
+access,private,4
+access,customers,3
+access,permit,2
+addr:city,Karlskoga,1
+addr:city,Sollentuna,1
+addr:city,Umeå,1
+addr:city,Stockholm,1
+addr:city,Mölndal,1
+addr:city,Hisings Backa,1
+addr:city,Viken,1
+addr:city,Halmstad,1
+addr:city,Klippan,1
+addr:city,Lindome,1
+addr:country,SE,3
+addr:housenumber,6,2
+addr:housenumber,19,1
+addr:housenumber,20,1
+addr:housenumber,1,1
+addr:housenumber,2,1
+addr:postcode,69151,1
+addr:postcode,192 78,1
+addr:postcode,906 52,1
+addr:postcode,11521,1
+addr:postcode,431 62,1
+addr:postcode,26364,1
+addr:postcode,302 29,1
+addr:postcode,264 22,1
+addr:postcode,437 33,1
+addr:street,Kottstigen,1
+addr:street,Sommarvägen,1
+addr:street,Kvarnholmsvägen 114,1
+addr:street,Holmbodavägen,1
+addr:street,Nydala Sjöväg,1
+addr:street,Prins Eugens väg,1
+addr:street,Södra Nedanvägsgatan,1
+addr:street,Hyllebärsvägen,1
+addr:street,Sofiebergsvägen,1
+addr:street,Forsmöllevägen,1
+alt_name,Lylysdoghouse,1
+alt_name,Värdsholmens Hundpark,1
+alt_name,Norra Djurgårdsstans hundrastpark,1
+alt_name,Lundaängens Hundrastgård,1
+alt_name,Hundrastgård Djurgården,1
+alt_name,Årvinge hundrastgård,1
+amenity,animal_training,2
+animal,dog,1
+animal,swimming,1
+animal_training,dog,3
+area,yes,10
+area,0.4,1
+area,no,1
+area,1 210,1
+area,1 070,1
+area:ha,2.630,1
+area:ha,0.468,1
+area:ha,0.414,1
+barrier,fence,183
+barrier,no,2
+barrier,yes,1
+bench,yes,1
+bin,yes,1
+building,yes,2
+check_date,2025-10-15,4
+check_date,2025-10-12,1
+check_date,2020-01-07,1
+check_date,2020-02-13,1
+check_date,2025-03-27,1
+check_date,2023-08-22,1
+check_date,2025-10-10,1
+contact:phone,+46 418 47 00 00,1
+contact:website,https://www.gavle.se/driftinformation-och-felanmalan/fel-du-kan-anmala-till-oss/,11
+contact:website,https://online.infracontrol.com/Public/Issue/Create?system=Södertälje%20kommun,6
+contact:website,https://goteborg.se/wps/portal/start/uppleva-och-gora/parker-och-lekplatser/for-dig-som-ar-hundagare/hundrastgardar/?id=5549,1
+contact:website,https://exempel.se/fel,1
+description,Hundrastgård,2
+description,Bath place for dogs,1
+description,Hair dresser for dogs,1
+description,Hundbad,1
+description,ligger nära gångvägen vid parkering (infart Nyckelviksvägen) och består av en bit inhägnad skog samt en agilitybana.,1
+description,"På östra Kvarnholmen hittar du en hundrastgård, som består av ett kuperat naturområde med gräs, buskar och träd.",1
+description,två hagar och agilityutrustning,1
+description,"Denna stora, öppna och flacka hage på 4 000 kvadratmeter ligger mellan Läroverksvägen och Pumpvägen, intill ett koloniområde. Det finns ett bänkbord i hagen. Parkeringsplatser finns vid Pumpvägen, cirka 75 meter bort, en busshållplats finns intill.",1
+description,"Hundrastgården ligger centralt, alldeles intill Centralstationen. Ytan är långsmal och här finns ett flertal träd samt stubbar innanför staketet samt en papperskorg och två bänkar att sitta på. Här finns ingen belysning i dagsläget.",1
+description,Gården är indelad in i två delar vilket möjliggör att hundar av olika storlekar kan vistas samtidigt. Här finns stockar och stenar och större ytor för hunden att springa på.,1
+description,i närheten av Björkebyskolan och i anslutning till Veddestafältet,1
+description,Hundrastgården är anlagd på gräs och erbjuder en trygg och inhägnad miljö där hundar kan springa fritt och leka utan koppel. Foto: Mattias Nilsson/Skövde kommun,1
+description,Fisksätras nyaste hundrastgård ligger i Gröna dalen där Fidravägen går över Svartkärrstigen. Hundrastgården består av två delar med stängsel mellan. I den ena delen finns agilityutrustning. I båda delarna finns sittplatser.,1
+description,"Hundrastgården ligger på Öster, alldeles intill Holmkanalen. Ytan är rektangulär och marken består främst av gräs. Ingen vegetation finns inom det avhängda området men strax utanför längs med ytan löper en allé av lind. Här finns en papperskorg",1
+description,"hundrastgård är cirka 1300 kvadratmeter och ligger i Långsjöns naturreservat, sydväst om sjön nära Vattenverksvägen. Den kan nås från promenadslingan runt Långsjön eller via en stig från parkeringen vid Blomsterlandet.",1
+description,Mindre hundrastgård med några stockar en parkbänk papperskorg och hundbajspåsar,1
+description,"Hundpark, f.d. Utegolfbana",1
+description,"Kvarnberget, ovanför Carl-Gustaf Lindstedts Gata och i anslutning till S:t Eriksområdet. Inhägnad hundrastgård, cirka 720 kvm",1
+description,ligger i Tollare naturreservat. Parkering finns ett par hundra meter söder om hundrastgården. Här finns några agilityredskap och ett stort bänkbord. Två parksoffor är placerade vid den ena kullen. Vid entrén finns soptunnor för hundbajspåsar.,1
+description,Inhägnad yta med grus och trappor,1
+description,Hundrastgården ligger i Andersberg intill en träddunge med blandskog. Gården som har en gemensam slussgruind är indelad i två delar vilket möjliggör att hundar av olika storlekar kan vistas samtidigt.,1
+description,Hundrastgården ligger i Sörby strax intill en skogsdunge av tall. Det finns även en del tallar inte på ytan som är kvadratisk. Markmaterialet är främst jord och högväxande gräs. Här finns papperskorg men ingen belysning i dagsläget.,1
+description,"Hundrastgården i Bomhus är av naturlig karaktär. Den är kuperad och innehåller stigar och gångstråk. Här finns en mängd träd, stockar stenar i former samt sittplatser, papperskorg och belysning.",1
+description,Hundrastgården ligger centralt i staden alldeles vid Gavleån och Gammelbron. Ytan sluttar ned mot vattnet och har en oregelbunden form. Markmaterialet är främst jord. Flera träd och buskar ringar in platsen vilket gör den relativt skuggig. Här finns en pa,1
+description,"Hundrastgården ligger i den norra delen av området Nordost mot järnvägsspåret. Ytan är rektangulär och marken består främst av gräs. Här finns ett träd, bänkbord och en papperskorg. Ingen belysning finns i dagsläget.",1
+description,Hundrastgården ligger mitt i parken Sätraängarna. Ytan är uppdelad i en större och en mindre hage som båda nås via en smitsäker slussgrind. Terrängen är plan med enstaka kullar att leka i. Marken består framförallt av gräs men också av stenmjöl i entréomr,1
+description,Hundrastgården ligger i Siporexparken i Valbo intill Siporexgropen. Ytan är rektangulär och något sluttande mot norr. Marken som i huvudsak består av gräs är något kuperad och i ena hörnet finns en hel del träd samt några stenar. Här finns en papperskorg,1
+description,"Hundrastgården ligger i Valbo, öster om Valbovägen mot E16. Ytan är långsmal och marken som är plan består främst av gräs. Här finns ett träd, en papperskorg samt två bänkar. I dagsläget finns ingen belysning.",1
+description,"Hundrastgården ligger i Pilparken i Forsbacka. Gården består av stockar, stenar, soffa och bänkbord.  Hundrastgården snöröjs inte vintertid.",1
+description,"I Kyrkparken, mellan Enköpingsvägen och Järfälla kyrka",1
+description,är belägen öster om köpcentret Elins Esplanad. Här kan dina fyrbenta vänner springa fritt i ett inhägnat område. Foto: Mattias Nilsson. Om du kommer med bil finns bra parkeringsmöjligheter i anslutning till köpcentret Elins Esplanad.,1
+description,"Henriksdalsbergets hundrastgård ligger på en bergknalle med stora höjdskillnader och stora uppväxta träd, främst tallar. Här finns ett picknickbord och en papperskorg.",1
+description,"Området är inhägnat och har, liksom Skaras andra hundrastgårdar, en hundlatrin.",1
+description,En mindre hundrastgård vid Skuggboparken i Mörby Centrum där du kan släppa din hund fritt.  Hundbad,1
+description,I den lilla hundrastgården har du med löptik eller hund som är rädd för andra hundar förtur. Är någon redan i rastgården får du fråga om det går bra att komma in.,1
+description,"I den stora hundrastgården kan flera hundar vistas samtidigt, här gäller ingen förtur. Du ansvarar för att din hund funkar med andra hundar, oavsett vem som kom först. Har du en löptik eller hund som är rädd för andra hundar, använd den lilla rastgården.",1
+description,Denna hundrastgård i Söderhamn erbjuder en trevlig plats för hundar att leka och motionera.,1
+description,Dog Club,1
+description,vid Snapphanevägen i Järfälla ligger mellan Snapphanevägen och E18,1
+description,"hundrastgård med badplats för hundar. Ligger nära terränghundrastgården. Följ gångvägen till höger om den, rakt neråt till vattnet. Det finns även en skylt med pil.",1
+description,"Hundrastgård på ungefär 2 900 kvadratmeter. En del av Lilljansskogen. Området gränsar i norr till Uggleängsvägen, i öster till belyst motionsspår, i söder motionsspåret och i väster till motionsspår och Klappjaktsvägen.",1
+description,"Rissne ängar, mot Hallonbergen",1
+description,Himlabackens hundpark ligger vid Träsnidarvägen i Hägersten. Den har en inhägnad yta där hundar kan springa fritt och leka i en kuperad terräng,1
+description,Snösätra hundpark ligger vid Snösätravägen i Bandhagen. Den har en inhägnad yta där hundar kan springa fritt och leka i en naturskön miljö,1
+description,"Sjöbo, Barnhemsgatan/Lindormsgatan",1
+description,"Kampementsbacken mot Värtavägen. Inhägnad hundrastgård, cirka 2 770 kvm med bänkar och bord ligger i en skogsdunge",1
+description,"Hundrastplatsen är indelad i två sektioner, där en sektion är för mindre hundar. Det vill säga hundar som väger maximalt 10 kilo och som har en mankhöjd på cirka 35 centimeter.",1
+description,"I Drottningholms slottspark vid Drottningholms slott finns en hundö, Ormholmen, som ligger i Engelska parken. Där får du släppa lös din hund om du är säker på att hunden inte simmar iväg och lämnar ön. Sedan 2019 finns en fin paviljong på ön som väderskyd",1
+description:en,A bit overgrown and unkept. Intact and dogs can run free.,1
+dog,unleashed,69
+dog,designated,5
+dog,yes,2
+dog:discipline:agility,yes,2
+dog:discipline:agility,no,2
+ele,121.22,1
+email,bbk.kontakt@hotmail.se,1
+fee,yes,1
+fence,yes,7
+fence,chain_link,1
+fence_type,chain_link,55
+fence_type,metal,3
+fence_type,chain,2
+fence_type,wire_mesh,2
+fence_type,railings,1
+fence_type,wood,1
+fence_type,wire,1
+fenced,yes,46
+fenced,no,1
+fixme,approximated area,1
+fixme,"Not on imagery, from photograph",1
+fixme,var slutar den i skogen?,1
+height,1.1,11
+height,1.2,8
+height,1,7
+height,1.35 m,3
+height,1.5,2
+height,2,1
+image,https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Humleg%C3%A5rdens_hundpark_04.jpg/2560px-Humleg%C3%A5rdens_hundpark_04.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Kronobergsparkens_hundrastg%C3%A5rd_01.jpg/2560px-Kronobergsparkens_hundrastg%C3%A5rd_01.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/d/dd/Fr%C3%B6s%C3%A4ng_Hundrastg%C3%A5rd_%28cropped%29.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/V%C3%A4stra_Hjorthagsparkens_hundrastg%C3%A5rd_01.jpg/2560px-V%C3%A4stra_Hjorthagsparkens_hundrastg%C3%A5rd_01.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Tessinparkenshundrastg%C3%A5rd_05.jpg/2560px-Tessinparkenshundrastg%C3%A5rd_05.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kvarnbergets_hundrastg%C3%A5rd_11.jpg/1280px-Kvarnbergets_hundrastg%C3%A5rd_11.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Hundrastg%C3%A5rd_-_Tureberg_3_-_6.jpg/1536px-Hundrastg%C3%A5rd_-_Tureberg_3_-_6.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/e/ef/Vanadislundens_hundrastg%C3%A5rd_04.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Lunda%C3%A4ngens_Hundrastg%C3%A5rd_-_Sp%C3%A5nga_06.jpg/2560px-Lunda%C3%A4ngens_Hundrastg%C3%A5rd_-_Sp%C3%A5nga_06.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hundg%C3%A5rd%2C_Frisens_park_03.jpg/2560px-Hundg%C3%A5rd%2C_Frisens_park_03.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hundrastplats_Obsan_04.jpg/2560px-Hundrastplats_Obsan_04.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Skinnarviksbergets_hundrastg%C3%A5rd_05.jpg/1280px-Skinnarviksbergets_hundrastg%C3%A5rd_05.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Vasaparkens_hundrastg%C3%A5rd_03.jpg/2560px-Vasaparkens_hundrastg%C3%A5rd_03.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Solv%C3%A4ndashundrastg%C3%A5rd_04.jpg/1280px-Solv%C3%A4ndashundrastg%C3%A5rd_04.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Fatbursparkens_hundrastg%C3%A5rd_05.jpg/2560px-Fatbursparkens_hundrastg%C3%A5rd_05.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Hundrastg%C3%A5rd_Kyrkparken_Barkarby_01.jpg/2560px-Hundrastg%C3%A5rd_Kyrkparken_Barkarby_01.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Golf%C3%A4ngarnas_Hundrastg%C3%A5rd.jpg/1280px-Golf%C3%A4ngarnas_Hundrastg%C3%A5rd.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Strandv%C3%A4gens_hundrastg%C3%A5rd_06.jpg/2560px-Strandv%C3%A4gens_hundrastg%C3%A5rd_06.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/c/c6/R%C3%A5gsveds_hundrastg%C3%A5rd_%28cropped%29.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Sankt_Eriksparkens_hundrastg%C3%A5rd_01.jpg/2560px-Sankt_Eriksparkens_hundrastg%C3%A5rd_01.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C3%85rvinge_hundrastg%C3%A5rd_01.jpg/1280px-%C3%85rvinge_hundrastg%C3%A5rd_01.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Snapphanev%C3%A4gens_hundrastg%C3%A5rd_01.jpg/2560px-Snapphanev%C3%A4gens_hundrastg%C3%A5rd_01.jpg,1
+image,https://commons.wikimedia.org/wiki/File:Bellevueparkens_Hundrastomr%C3%A5de_13.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/8/84/Akalla_hundrastg%C3%A5rd%2C_J%C3%A4rvaf%C3%A4ltet_06.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/3/38/Lill-Jansskogens_hundrastg%C3%A5rd_01.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/8/80/Akalla_hundrastg%C3%A5rd_Finlandsgatan_02.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/5/5c/Husby_hundrastg%C3%A5rd%2C_Stockholm_05.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Oxtungans_hundg%C3%A5rd_H%C3%A4sselby_01.jpg/2560px-Oxtungans_hundg%C3%A5rd_H%C3%A4sselby_01.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Blackebergsbackens_hundrastg%C3%A5rd_05.jpg/1280px-Blackebergsbackens_hundrastg%C3%A5rd_05.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bekomberga_hundrastg%C3%A5rd_05.jpg/2560px-Bekomberga_hundrastg%C3%A5rd_05.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Kvarnens_hundrastg%C3%A5rd_07.jpg/2560px-Kvarnens_hundrastg%C3%A5rd_07.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sl%C3%B6jdv%C3%A4gens_Hundrastg%C3%A5rd_01.jpg/2560px-Sl%C3%B6jdv%C3%A4gens_Hundrastg%C3%A5rd_01.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/S%C3%B6derh%C3%B6jdens_Hundrastg%C3%A5rd_01.jpg/2560px-S%C3%B6derh%C3%B6jdens_Hundrastg%C3%A5rd_01.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kampementsbackens_hundrastg%C3%A5rd_01.jpg/2560px-Kampementsbackens_hundrastg%C3%A5rd_01.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Monteliusv%C3%A4gens_hundrastg%C3%A5rd_02.jpg/1280px-Monteliusv%C3%A4gens_hundrastg%C3%A5rd_02.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Wollmar_Yxkullsgatans_hundrastg%C3%A5rd_02.jpg/2560px-Wollmar_Yxkullsgatans_hundrastg%C3%A5rd_02.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/%C3%84lvsborgsgatans_hundrastplsts_04.jpg/2560px-%C3%84lvsborgsgatans_hundrastplsts_04.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Kristinebergs_Hundrastg%C3%A5rd_01.jpg/2560px-Kristinebergs_Hundrastg%C3%A5rd_01.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Tranebergs_hundrastg%C3%A5rd_02.jpg/2560px-Tranebergs_hundrastg%C3%A5rd_02.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Hundrastg%C3%A5rd_Tureberg_01.jpg/1280px-Hundrastg%C3%A5rd_Tureberg_01.jpg,1
+image,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Hundrastg%C3%A5rd_-_J%C3%A4rvaf%C3%A4ltet_B%C3%B6gs_g%C3%A5rd_01.jpg/2560px-Hundrastg%C3%A5rd_-_J%C3%A4rvaf%C3%A4ltet_B%C3%B6gs_g%C3%A5rd_01.jpg,1
+image:license,CC0,32
+image:license,CC-0,3
+landcover,grass,1
+landuse,grass,11
+landuse,recreation_ground,2
+landuse,shrubs,1
+layer,-1,3
+leash,no,1
+leisure,dog_park,554
+lit,no,22
+lit,yes,11
+lit,limited,1
+mapillary,1753024098545246,1
+mapillary,298655308434558,1
+mapillary,473924393892262,1
+mapillary,947552872667354,1
+mapillary,717637392528437,1
+mapillary,1337882277734416,1
+mapillary,813423681308131,1
+mapillary,1053867953427738,1
+mapillary,1593968987460660,1
+mapillary,642911808340578,1
+mapillary,761250403570356,1
+mapillary,1143882500653564,1
+mapillary,24584943554509389,1
+mapillary,576570968083429,1
+material,metal,1
+name,Hundrastgård,5
+name,Hundbad,4
+name,Orust Hundägarförening,4
+name,Monteliusvägens hundrastgård,2
+name,Turingeparkens hundrastgård,2
+name,Hunddagis,2
+name,Orust Brukhundsklubb,2
+name,Hundrastgården,2
+name,Frövi brukshundklubb,1
+name,Eskilstuna Brukshundklubb,1
+name,Haverö Brukshundklubb,1
+name,Lylys doghouse,1
+name,Bengtsfors brukshundsklubb,1
+name,Hunderbart Dagis,1
+name,Knivsta brukshundklubb,1
+name,Brukshundsklubb,1
+name,wättinge hundrastgård,1
+name,Josefs Utomhushundpark,1
+name,Nyckelvikens hundpark - Nacka,1
+name,Söderköpings Brukshundsklubb,1
+name,Älvkarleby hundsport,1
+name,Tikspace hundrastgård,1
+name,Silverfallets hundrastgård,1
+name,Hundrastgård Sandyhov,1
+name,Mora Hundrastgård,1
+name,Hundbadplats Rönningesjön,1
+name,Stensö och Rafshagen hundbad,1
+name,Farsta hundrastgård,1
+name,Kind brukshundklubb,1
+name,Mölndals hunddagis AB,1
+name,Malenskogens hundrastgård,1
+name,Skarsjöparkens hundrastgård,1
+name,Sandvikens Hundrastgård,1
+name,Hundrastgården i Kalmarsundsparken,1
+name,Kvarnholmens Hundrastgård,1
+name,Kallhällsparkens Hundrastgård,1
+name,Elsas hage,1
+name,Eriksberg - Norby,1
+name,Björns Trädgårds hundrastgård,1
+name,Mosstorps hundhage,1
+name,Edsbergs Hundrastgård,1
+name,Hundrastgård - naturmark vid Skogslekparken,1
+name,Laxå Brukshundklubb,1
+name,Karlskoga brukshundklubb,1
+name,Humlegårdens hundrastgård,1
+name,Södertälje Brukshundklubb,1
+name,Kronobergsparkens hundrastgård,1
+name,Sankt Göransparkens hundrastgård,1
+name,Judarskogens hundrastplats,1
+name,Hamntorgets hundrastgård,1
+name,Tantobergets hundrastgård,1
+name,Hinsholmskilens hundrastgård,1
+name,Vitabergsparkens hundrastgård,1
+name,Filipstads brukshundklubb,1
+name,Drakenbergsparkens hundrastgård,1
+name,Atlasgatans hundrastgård,1
+name,Hundpark,1
+name,Hundrastgård Holmbodavägen,1
+name,Råådalens brukshundsklubb,1
+name,Henriksdalsallén hundrastgård,1
+name,Kontovägens Hundrastgård - Järfälla,1
+name,Qurry's Hage,1
+name,Habo Brukshundsklubb,1
+name,Hundfolket,1
+name,Kristinehovs malmgårds hundrastgård,1
+name,Frösäng Hundrastgård,1
+name,Norrtälje Hundlekplats,1
+name,Hundrastgård Vadsbovägen,1
+name,Huvudstafältets hundrastgård,1
+name,Skytteholmsfältets hundrastgård,1
+name,Ängby hundrastgård,1
+name,Gränby,1
+name,Hammarby Fabriksvägs hundrastgård,1
+name,Brända parken,1
+name,"Kopparverksskogen, Högasten",1
+name,Västra Hjorthagsparken hundrastgård - Stockholm,1
+name,sörmon hundklubb,1
+name,Holmkanalens hundrastgård,1
+name,Norsborg Kennel Club,1
+name,Lånestaheden i Vagnhärad Hundrastgård,1
+name,"Hundrastgård Långsjön, nära Vattenverksvägen",1
+name,Höörs brukshundsklubb,1
+name,Tessinparkens hundrastgård,1
+name,Kontorsparkens hundrastgård - Stockholm,1
+name,Hospitalparkens hundrastgårdar,1
+name,Konradsbergsparkens hundrastgård,1
+name,Hundrastgård Brogården,1
+name,Kvarnbergets hundrastgård,1
+name,Ellstorpsparken,1
+name,Skoghalls Hundrastgård,1
+name,Enskifteshagens Hundrastplats,1
+name,Bårslöv hundpark,1
+name,Hundrastgård Tureberg 3,1
+name,Sturzen-Beckers park,1
+name,Wättinge hundrastgård,1
+name,Umeå Brukshundklubb,1
+name,Category:Vanadislundens hundrastgård,1
+name,Hundgård,1
+name,Nedre myren hundrastgård,1
+name,Tollare hundrastgård,1
+name,Grimstafältets Hundrastgård,1
+name,Hildedalsgatan hundrastgården,1
+name,Londongatans hundrastgård,1
+name,Hundrastgård Olskroksgatan,1
+name,Doktorns hundrastgård,1
+name,Frisens parks hundrastgård,1
+name,Bräckeberget rastgård,1
+name,Hundrastgård Observatorielunden - Stockholm,1
+name,Kummelvägens hundrastgård,1
+name,Skinnarviksbergets hundrastgård,1
+name,Vasaparkens hundrastgård,1
+name,Ulvsmygens hundrastpark,1
+name,Hundrastgård Edsbergs slott,1
+name,Nedanvägsgatans hundrastgård,1
+name,Årstabergsparkens Hundrastgård,1
+name,Lugna gatans hundrastgård,1
+name,Tuvan hundpark - Sundbyberg,1
+name,Enskede hundrastgård,1
+name,Urbergsterrassens hundrastgård,1
+name,Bomhus hundrastgård,1
+name,Gammelbrons hundrastgård,1
+name,Stora Esplanadgatans hundrastgård,1
+name,Sätraängarna,1
+name,Siporexparkens hundgård,1
+name,Siporexparkens hundrastgård,1
+name,Pilparken Forsbacka Hundrastgård,1
+name,Solvändans Hundrastgård,1
+name,Fatbursparkens hundrastgård,1
+name,Hundrastgård Kyrkparken Barkarby,1
+name,Golfängarnas Hundrastgård,1
+name,Genarp Hundrastgård,1
+name,Vintervikens hundrastgård,1
+name,Svinö hundbad,1
+name,Märtas hage,1
+name,Hundrastgård Elins Esplanad,1
+name,Hjulsta hundrastgård,1
+name,Valla Torg Hundrastgård,1
+name,Årstalidens Hundrastgård,1
+name,Almängen,1
+name,Augustenborgsparken,1
+name,Havamals hundrastgård,1
+name,Strandvägens hundrastgård - Stockholm,1
+name,Kölängens hundrastgård,1
+name,Råbylunds hundrastgård,1
+name,Henriksdalsbergets hundrastgård,1
+name,Jakobsbergs Folkhögskolans Hundrastgård,1
+name,Hagakullens hundrastgård,1
+name,SHK Uppsala,1
+name,Framnäs hudbad,1
+name,Södra parkens hundrastgård,1
+name,Täby (hundlek) Park,1
+name,Kvarnbäcks Hundrastgård,1
+name,Hundrastgård Vikenparken,1
+name,Hundrastgård Varnhem,1
+name,Hundparken i Skarpe Nord,1
+name,Remonthagen,1
+name,Hundrastgård Sofieberg,1
+name,Furuhov hund & jaktpark,1
+name,Skuggboparken,1
+name,Rågsveds hundrastgård,1
+name,Vingåker hundklubb,1
+name,Badparkens hundrastgård,1
+name,Hundrastgård (Bryggeriet),1
+name,Lilla hundrastgården,1
+name,Stora hundrastgården,1
+name,Hundrastplats Hovdala,1
+name,Hundrastgård Söderhamn,1
+name,Tassmötets Hundrastgård Stureby - Enskede,1
+name,Rönne Hundungdom,1
+name,Hundrastpark,1
+name,"Hundrastgården, Vik",1
+name,Sankt Eriksparkens hundrastgård,1
+name,10 Elias Fries park,1
+name,Igelbäcksstigens hundrastgården,1
+name,Snapphanevägens Hundrastgård - Järfälla,1
+name,Finnhamns Hundrastgård,1
+name,Kummelnäsvägen hundrastgård,1
+name,Olympia park,1
+name,Filborna skogspark,1
+name,Bruces Skog norra,1
+name,Bruces Skog vid Långebergavägen,1
+name,Brohult och Dalhems grönområde,1
+name,Pålsjö Skog,1
+name,Ättekulla sommarstad,1
+name,Rydebäck hundpark,1
+name,Nytorps gärdes hundrastgärd,1
+name,Hundrastgård Ängsjö Hundbad - Järfälla,1
+name,Hundrastplats Södra kajen,1
+name,Söderhamns Brukshundklubb,1
+name,Kusensbacke Hundrastgård,1
+name,Lundaängens Hundrastgård - Spånga,1
+name,Bromstens Hundpark - Spånga,1
+name,Bellevueparkens Hundrastområde,1
+name,Sätra hundstrandbad,1
+name,Snösätra Hundrastgård,1
+name,Hundrastgård Lindome Centrum,1
+name,Hund lekplats Sätrahöjden,1
+name,Akallastigen hundrastgården,1
+name,Lill-Jansskogens hundrastgård,1
+name,"Akalla hundrastgård, Finlandsgatan",1
+name,Husby gård rastplats,1
+name,Hundrastgård Oxtungan,1
+name,Blackebergsbackens hundrastgård,1
+name,Beckomberga Hundrastpark,1
+name,Hagsätra hundpark,1
+name,Ekhagens hundrastgård,1
+name,Kvarnens Hundrastgård,1
+name,Slöjdvägens hundrastgård,1
+name,Hammarparken,1
+name,Hundrastgård Kastrupgatan 11,1
+name,Söderhöjden,1
+name,Rissneängarna Hundrastgård - Sundbyberg,1
+name,Himlabackens hundpark,1
+name,Snösätra hundpark - Bandhagen,1
+name,Kampementsbackens hundrastgård,1
+name,Gotlandsparkens hundrastgård,1
+name,Wollmar Yxkullsgatans hundrastgård,1
+name,Rosenlundsparkens hundrastgård,1
+name,Älvsborgsgatans hundrastplats,1
+name,Hundrastgården på Assberg,1
+name,Hundrastgård Västerled,1
+name,Kristinebergshöjdens hundrastgård,1
+name,Tranebergs hundrastpark,1
+name,Turebergs hundgård,1
+name,Hundrastgård - Järvafältet Bögs gård,1
+name,Ormholmen Hundön - Drottningholm,1
+name,Nåntuna,1
+name,Slottsskogens Hundrastgården,1
+name,Slottsskogens hundrastgård,1
+name,Ekekullens hundrastgård,1
+name,Ribersborgs hundrastplats,1
+name,Lilla hagen,1
+name,Stora hagen,1
+name,Hundrastgård Bergshamra södra,1
+name:en,Norrtälje Dogpark,1
+name:en,The Small Paddock,1
+name:en,The Big Paddock,1
+name:sv,Hundrastgård Olskroksgatan,1
+name:sv,Hundrastgården,1
+natural,beach,5
+natural,wood,1
+note,"Om du upptäcker fel (t.ex. trasigt stängsel eller nedskräpning), rapportera via webbsidan.",12
+note,hundrastgård,1
+note,dog_playground,1
+note,"Wättinge, vid Dalhallen (stängd från oktober 2024 till hösten 2025, på grund av bygge av dagvattendamm i området).",1
+official_area,899.9 m²,1
+official_area,3000 m²,1
+official_area,464.6 m²,1
+official_area,560.3 m²,1
+official_area,310.5 m²,1
+official_area,3180.3 m²,1
+official_area,116.4 m²,1
+official_area,389.4 m²,1
+opening_hours,24/7,58
+opening_hours,opening_hours=off 2024 Oct-2025 Oct,1
+opening_hours,Mo-Su 07:00-22:00,1
+operator,Stockholms kommun,45
+operator,Gävle kommun,12
+operator,Järfälla kommun,6
+operator,Stockholms stad,5
+operator,Skara kommun,3
+operator,Sundbybergs kommun,3
+operator,Mölndals Stad,3
+operator,Danderyds kommun,3
+operator,Sala kommun,3
+operator,Sollentuna kommun,2
+operator,Skövde kommun,2
+operator,Lunds kommun,2
+operator,Stockholms Stad,2
+operator,Södertälje kommun,1
+operator,Föreningen Aktiva Hundar,1
+operator,Stock,1
+operator,Oxelösunds kommun,1
+operator,Uppsala kommun,1
+operator,Katrineholms brukshundklubb,1
+operator,Trosa kommun,1
+operator,Göteborgs Stad,1
+operator,Stockholm Stad,1
+operator,Torslanda-Öckerö Brukshundklubb,1
+operator,Avesta kommun,1
+operator,Täby Park,1
+operator,Höörs kommun,1
+operator,Furuhov,1
+operator,Hässleholms kommun,1
+operator,Landskrona stad,1
+operator,Söderhamns kommun,1
+operator,Halmstads kommun,1
+operator,Arjeplogs Kommun,1
+operator,Arvika kommun,1
+operator,Haninge kommun,1
+operator,Malmö stad,1
+operator,Munkfors kommun,1
+operator,Hedin Dog Daycare,1
+operator,Katrineholms Kommun,1
+operator,Borås kommun,1
+operator,Marks kommun,1
+operator:type,public,73
+operator:type,government,9
+operator:type,public/government,2
+operator:type,private,1
+operator:type,business,1
+operator:type,pubklic,1
+operator:wikidata,Q506250,35
+operator:wikidata,Q510010,12
+operator:wikidata,Q301259,4
+operator:wikidata,Q499421,3
+operator:wikidata,Q501452,2
+operator:wikidata,Q516336,1
+operator:wikidata,Q503746,1
+operator:wikidata,Q505246,1
+operator:wikidata,Q505064,1
+operator:wikidata,Q972564,1
+operator:wikidata,Q113679,1
+operator:wikidata,Q145835,1
+operator:wikidata,Q894327,1
+panoramax,5d5c6e96-ca2a-4e46-973e-ef7496613822,1
+panoramax,f27cf3ba-eaa9-4eb9-98d8-6f1a3d43a360,1
+panoramax,b1620520-5802-41e0-b964-7e279cab8b62,1
+panoramax,e118031e-eb26-4017-b340-da036596ccec,1
+panoramax:0,7e781f78-d448-4357-9936-de76cdbda788,1
+panoramax:0,7e0cb890-db7d-4b80-84ba-cb4f69818e98,1
+panoramax:0,0f7c9730-2ff5-445a-ab18-f386b908c181,1
+panoramax:1,be15022f-ca15-4708-8b93-8d6ad55785fa,1
+panoramax:1,272529f3-72d8-4a68-8de1-3e0531f88a9e,1
+panoramax:2,c534c9cb-f133-4c65-977d-2a366bfb604a,1
+panoramax:2,b39c6b01-aa7a-4407-baf5-1e9ae9c3e685,1
+panoramax:3,b6485129-6814-4e38-8842-952de9b07bd4,1
+panoramax:3,39c17d8a-5f68-4bfd-b0ea-d2585c6dbe01,1
+panoramax:4,0ecdc991-ac3a-4a83-827a-b212c312a193,1
+panoramax:4,6d7ac0dd-36eb-4426-bd8c-01d9fbee88ee,1
+phone,+46852301000,3
+previously,node:11138806730,1
+residential,urban,1
+small_dog,shared,28
+small_dog,separate,12
+source,local_knowledge;Ekonomiska kartan,4
+source,Bing,4
+source,survey,2
+source,https://www.skara.se/upplevaochgora/idrottmotionochfriluftsliv/hundrastgardar.1873.html,1
+source,Yahoo,1
+source,local_knowledge,1
+source,Sollentuna kommun via webbplats (uppdaterad 2025-09-16),1
+source,bing;survey,1
+source,survey (interpolated),1
+source,Lantmäteriet Orthophotos,1
+source,"Landsat, WMS",1
+sport,agility,2
+sport,dog_training,2
+sport,soccer,1
+sport,multi,1
+surface,grass,40
+surface,fine_gravel,17
+surface,compacted,4
+surface,gravel,3
+surface,ground,2
+surface,grass;compacted,1
+surface,unpaved,1
+surface:note,"Mixture of bare rock, soil, and moss",1
+survey:date,2025-10-21,6
+swimming:dog,yes,1
+type,multipolygon,20
+website,https://parker.stockholm/hundrastplatser/,35
+website,https://parker.stockholm/hundrastplatser,19
+website,https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/hundrastgardar.4.640dac6b1300db73e7c800017237.html,8
+website,https://www.nacka.se/uppleva--gora/friluftsliv-motion/hundar-i-nacka/hundrastgardar/,6
+website,https://www.solna.se/uppleva--gora/natur-och-friluftsliv/hundrastgardar,3
+website,https://www.sundbyberg.se/uppleva-och-gora/idrott-motion-och-friluftsliv/friluftsliv-och-motion/hundrastgardar,3
+website,https://www.danderyd.se/uppleva-och-gora/idrott-motion-och-friluftsliv/friluftsliv/hundrastgard/,3
+website,https://www.sodertalje.se/stad-och-trafik/natur-i-staden/,2
+website,https://www.sollentuna.se/hundrastgardar,2
+website,https://www.gavle.se/kultur-och-fritid/natur-och-friluftsliv/parker-och-natur/hundrastgardar/stora-esplanadgatans-hundrastgard/,2
+website,https://www.gavle.se/kultur-och-fritid/natur-och-friluftsliv/parker-och-natur/hundrastgardar/satraangarnas-hundrastgard/,2
+website,https://www.sodertalje.se/,2
+website,https://goteborg.se/wps/portal/start/uppleva-och-gora/parker-och-lekplatser/for-dig-som-ar-hundagare/hundrastgardar?id=4703,2
+website,https://lylysdoghouse.se/,1
+website,https://www.bengtsforsbk.se/,1
+website,https://www.sodertalje.se,1
+website,https://www.karlskoga.se/,1
+website,https://kalmar.se/uppleva-och-gora/natur-friluftsliv-och-parker/hundrastgardar-och-hundbad/hundrastgardar/hundrastgarden-i-kalmarsundsparken.html,1
+website,http://www.aktivahundar.org/site/,1
+website,https://lidingo.se/toppmeny/naturmiljo/gronomradenochparker/hundinaturen.4.6429948018ecac981f62d2.html,1
+website,http://www.aktivahundar.se,1
+website,https://goteborg.se/wps/portal/start/uppleva-och-gora/parker-och-lekplatser/for-dig-som-ar-hundagare/hundrastgardar?id=5664,1
+website,https://www.gavle.se/kultur-och-fritid/natur-och-friluftsliv/parker-och-natur/hundrastgardar/atlasgatans-hundrastgard/,1
+website,https://www.sollentuna.se/uppleva--gora/idrott-motion-och-friluftsliv/hundrastgardar,1
+website,https://www.visitoxelosund.se/se-och-gora/hundvanliga-oxelosund,1
+website,https://www.skovde.se/uppleva-gora/fritidsaktiviteter/hundrastgard-vadsbovagen/,1
+website,https://www.gavle.se/kultur-och-fritid/natur-och-friluftsliv/parker-och-natur/hundrastgardar/holmkanalens-hundrastgard/,1
+website,https://www.trosa.se/uppleva-och-gora/fritidsaktiviteter/hundrastgardar/,1
+website,https://www.skara.se/upplevaochgora/idrottmotionochfriluftsliv/hundrastgardar.1873.html,1
+website,https://www.hundlistan.se/listing/hundrastgard-tureberg-3/,1
+website,https://www.tyreso.se/uppleva--gora/natur-och-friluftsliv/hund-i-tyreso.html,1
+website,https://ubhk.se/,1
+website,https://parker.stockholm/parker/vanadislunden/,1
+website,https://goteborg.se/wps/portal/start/uppleva-och-gora/parker-och-lekplatser/for-dig-som-ar-hundagare/hundrastgardar?id=4707,1
+website,https://goteborg.se/wps/portal/start/uppleva-och-gora/parker-och-lekplatser/for-dig-som-ar-hundagare/hundrastgardar?id=4706,1
+website,https://www.facebook.com/hundrastgardarisverige/posts/2550589024959076,1
+website,https://www.gavle.se/kultur-och-fritid/natur-och-friluftsliv/parker-och-natur/hundrastgardar/lugna-gatans-hundrastgard/,1
+website,https://www.gavle.se/kultur-och-fritid/natur-och-friluftsliv/parker-och-natur/hundrastgardar/urbergsterrassens-hundrastgard/,1
+website,https://www.gavle.se/kultur-och-fritid/natur-och-friluftsliv/parker-och-natur/hundrastgardar/bomhus-hundrastgard/,1
+website,https://www.gavle.se/kultur-och-fritid/natur-och-friluftsliv/parker-och-natur/hundrastgardar/gammelbrons-hundrastgard/,1
+website,https://www.gavle.se/kultur-och-fritid/natur-och-friluftsliv/parker-och-natur/hundrastgardar/skolvagens-hundrastgard/,1
+website,https://www.gavle.se/kultur-och-fritid/natur-och-friluftsliv/parker-och-natur/hundrastgardar/pilparkens-hundrastgard/,1
+website,https://www.skovde.se/uppleva-gora/fritidsaktiviteter/hundrastgard-elins-esplanad/,1
+website,https://shkuppsala.com,1
+website,Taby-park.se,1
+website,https://skara.se/upplevaochgora/idrottmotionochfriluftsliv/hundrastgardar.1873.html,1
+website,https://www.kungalv.se/kultur--fritid/utomhusaktiviteter/parker/hundpark-skarpe-nord/,1
+website,https://www.halmstad.se/upplevaochgora/idrottmotionochfriluftsliv/friluftslivochmotion/hundrastning.n3403.html,1
+website,https://furuhov.se,1
+website,https://www.soderhamn.se/sidor/uppleva-och-gora/friluftsliv-idrott-motion/hund-i-naturen-och-pa-badplatser.html,1
+website,https://www.arvika.se/upplevaochgora/idrottmotionochfriluftsliv/hundrastning.2716.html,1
+website,https://lund.se/uppleva-och-gora/natur-lekplatser-och-parker/hundrastgardar,1
+website,https://finnhamn.se/aktiviteter/,1
+website,https://www.naturkartan.se/sv/vasternorrlands-lan/hundrastplats-sodra-kajen,1
+website,https://goteborgshunddagis.se/,1
+website,https://www.boras.se/upplevaochgora/lekplatserochaktivitetsplatser/hundrastplatser.4.605a2fc161ce5ff59db3a0.html,1
+website,https://www.mark.se/uppleva-och-gora/bad-idrott-och-friluftsliv/hundrastgardar,1
+website,https://www.sollentuna.se/uppleva--gora/idrott-motion-och-friluftsliv/hundrastgardar/,1
+website,https://www.upplevekero.se/se--gora/sport--fritid/hundrastgardar/hundrastgard-i-drottningholmsparken,1
+website,https://www.facebook.com/hundrastgardarisverige/posts/2550579021626743,1
+wheelchair,yes,62
+wheelchair,limited,37
+wheelchair,no,31
+wheelchair,unknown,3
+wikidata,Q106687169,1
+wikidata,Q106689600,1
+wikidata,Q135458122,1
+wikidata,Q135457941,1
+wikidata,Q135458052,1
+wikidata,Q972564,1
+wikidata,Q106689574,1
+wikidata,Q135457985,1
+wikidata,Q135458081,1
+wikidata,Q136449748,1
+wikimedia_commons,Category:Monteliusvägens_hundrastgård,2
+wikimedia_commons,Category:Kronobergsparkens_hundrastgård,2
+wikimedia_commons,"Category:Ardala_Hundrastgård,_Skövde",1
+wikimedia_commons,Category:Björns_trädgårds_hundrastgård,1
+wikimedia_commons,Category:Humlegårdens_hundrastgård,1
+wikimedia_commons,Category:Sankt_Göransparkens_hundrastgård,1
+wikimedia_commons,Category:Tantobergets_hundrastgård,1
+wikimedia_commons,Category:Vitabergsparkens hundrastgård,1
+wikimedia_commons,Category:Drakenbergsparkens_hundrastgård,1
+wikimedia_commons,Category:Henriksdalsalléns_hundrastgård,1
+wikimedia_commons,Category:Kristinehovs_malmgårds_hundrastgård,1
+wikimedia_commons,Category:Frösäng_Hundrastgård,1
+wikimedia_commons,Category:Hammarby_Fabriksvägs_hundrastgård,1
+wikimedia_commons,Category:Västra_Hjorthagsparken_hundrastgård,1
+wikimedia_commons,Category:Tessinparkens_hundrastgård,1
+wikimedia_commons,Category:Kontorsparkens_hundrastgård,1
+wikimedia_commons,Category:Konradsbergsparkens_hundrastgård,1
+wikimedia_commons,"Category:Hundrastgård_Brogården,_Skara",1
+wikimedia_commons,Category:Hundrastgård_-_Tureberg_3,1
+wikimedia_commons,Category:Vanadislundens_hundrastgård,1
+wikimedia_commons,Category:Lundaängens_Hundrastgård_-_Spånga,1
+wikimedia_commons,"Category:Frisens_park,_hundrastgård",1
+wikimedia_commons,"Category:Hundrastgård_Observatorielunden,_Stockholm",1
+wikimedia_commons,Category:Skinnarviksbergets_hundrastgård,1
+wikimedia_commons,Category:Vasaparkens_hundrastgård,1
+wikimedia_commons,Category:Solvändans_hundrastgård,1
+wikimedia_commons,Category:Fatbursparkens_hundrastgård,1
+wikimedia_commons,Category:Hundrastgård_Kyrkparken_Barkarby,1
+wikimedia_commons,"Category:Golfängarnas_Hundrastgård,_Sundbyberg",1
+wikimedia_commons,Category:Genarp Hundrastgård,1
+wikimedia_commons,"Category:Hundrastgård_Elins_Esplanad,_Skövde",1
+wikimedia_commons,Category:Strandvägens_hundrastgård_-_Stockholm,1
+wikimedia_commons,Category:Jakobsbergs_Folkhögskolan_Hundrastgård,1
+wikimedia_commons,Category:Hundrastgård_Varnhem,1
+wikimedia_commons,Category:Rågsveds_hundrastgård,1
+wikimedia_commons,Category:Sankt_Eriksparkens_hundrastgård,1
+wikimedia_commons,Category:Ärvinge_hundrastgård,1
+wikimedia_commons,Category:Snapphanevägens_Hundrastgård,1
+wikimedia_commons,Category:Bellevueparkens_Hundrastområde,1
+wikimedia_commons,"Category:Akalla_hundrastgård,_Järvafältet",1
+wikimedia_commons,Category:Lill-Jansskogens_hundrastgård,1
+wikimedia_commons,"Category:Akalla_hundrastgård,_Finlandsgatan",1
+wikimedia_commons,"Category:Husby_hundrastgård,_Stockholm",1
+wikimedia_commons,"Category:Oxtungans_hundrastgård,_Hässelby#",1
+wikimedia_commons,Category:Blackebergsbacken_hundrastgård,1
+wikimedia_commons,Category:Beckomberga_hundrastgård,1
+wikimedia_commons,Category:Ekhagens_hundrastgård,1
+wikimedia_commons,"Category:Kvarnens_Hundrastgård,_Stockholm",1
+wikimedia_commons,Category:Slöjdvägens_Hundrastgård,1
+wikimedia_commons,Category:Söderhöjdens_Hundrastgård,1
+wikimedia_commons,Category:Snösätra_hundpark_-_Bandhagen,1
+wikimedia_commons,Category:Kampementsbacken_hundrastgård,1
+wikimedia_commons,Category:Gotlandsparkens hundrastgård,1
+wikimedia_commons,Category:Wollmar_Yxkullsgatans_hundrastgård,1
+wikimedia_commons,Category:Rosenlundsparkens_hundrastgård,1
+wikimedia_commons,Category:Älvsborgsgatans_hundrastplats,1
+wikimedia_commons,Category:Kristinebergs_hundrastgård,1
+wikimedia_commons,Category:Tranebergs_hundrastgård,1
+wikimedia_commons,Category:Hundrastgård_-_Tureberg,1
+wikimedia_commons,Category:Hundrastgård_-_Järvafältet_Bögs_gård,1
+wikimedia_commons:path,Category:Drakenbergsparkens_hundrastgård,1
+wood,mixed,1

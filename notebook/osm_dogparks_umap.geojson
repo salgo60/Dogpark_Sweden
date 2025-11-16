@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1192946,
+          63.849216
+        ]
+      },
+      "properties": {
+        "id": 254731144,
+        "namn": "Hundrastgård 254731144",
+        "operator": null,
+        "website": null,
+        "source": "OpenStreetMap",
+        "osm_type": "node",
+        "popup": 

@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-10-22T15:33:25Z",
-    "timestamp_areas_base": "2025-10-22T12:59:44Z",
+    "timestamp_osm_base": "2025-11-16T07:59:58Z",
+    "timestamp_areas_base": "2025-11-16T04:45:43Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -575,7 +575,8 @@
         "operator": "Järfälla kommun",
         "operator:type": "public",
         "operator:wikidata": "Q301259",
-        "website": "https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/hundrastgardar.4.640dac6b1300db73e7c800017237.html"
+        "website": "https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/hundrastgardar.4.640dac6b1300db73e7c800017237.html",
+        "wheelchair": "no"
       }
     },
     {
@@ -607,11 +608,14 @@
       "lat": 59.3207873,
       "lon": 18.0596507,
       "tags": {
+        "barrier": "fence",
         "leisure": "dog_park",
         "name": "Monteliusvägens hundrastgård",
+        "opening_hours": "24/7",
         "operator": "Stockholms kommun",
         "operator:type": "public",
         "operator:wikidata": "Q506250",
+        "small_dog": "shared",
         "website": "https://parker.stockholm/hundrastplatser",
         "wheelchair": "yes",
         "wikimedia_commons": "Category:Monteliusvägens_hundrastgård"
@@ -1133,10 +1137,13 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Humleg%C3%A5rdens_hundpark_04.jpg/2560px-Humleg%C3%A5rdens_hundpark_04.jpg",
         "image:license": "CC0",
         "leisure": "dog_park",
+        "name": "Humlegårdens hundrastgård",
         "note": "hundrastgård",
+        "opening_hours": "24/7",
         "operator": "Stockholms kommun",
         "operator:type": "public",
         "operator:wikidata": "Q506250",
+        "small_dog": "separate",
         "surface": "fine_gravel",
         "website": "https://parker.stockholm/hundrastplatser",
         "wheelchair": "yes",
@@ -1212,9 +1219,12 @@
         "image:license": "CC0",
         "leisure": "dog_park",
         "name": "Kronobergsparkens hundrastgård",
+        "opening_hours": "24/7",
         "operator": "Stockholms kommun",
         "operator:type": "public",
         "operator:wikidata": "Q506250",
+        "panoramax": "5d5c6e96-ca2a-4e46-973e-ef7496613822",
+        "small_dog": "separate",
         "surface": "grass",
         "website": "https://parker.stockholm/hundrastplatser",
         "wheelchair": "yes",
@@ -1242,6 +1252,15 @@
         "fenced": "yes",
         "leisure": "dog_park",
         "name": "Sankt Göransparkens hundrastgård",
+        "opening_hours": "24/7",
+        "panoramax": "f27cf3ba-eaa9-4eb9-98d8-6f1a3d43a360",
+        "panoramax:0": "7e781f78-d448-4357-9936-de76cdbda788",
+        "panoramax:1": "be15022f-ca15-4708-8b93-8d6ad55785fa",
+        "panoramax:2": "c534c9cb-f133-4c65-977d-2a366bfb604a",
+        "panoramax:3": "b6485129-6814-4e38-8842-952de9b07bd4",
+        "panoramax:4": "0ecdc991-ac3a-4a83-827a-b212c312a193",
+        "small_dog": "shared",
+        "website": "https://parker.stockholm/hundrastplatser/",
         "wheelchair": "yes",
         "wikimedia_commons": "Category:Sankt_Göransparkens_hundrastgård"
       }
@@ -1323,8 +1342,10 @@
       "tags": {
         "access": "yes",
         "area": "yes",
+        "barrier": "fence",
         "leisure": "dog_park",
         "name": "Judarskogens hundrastplats",
+        "opening_hours": "24/7",
         "operator": "Stockholms kommun",
         "operator:type": "public",
         "website": "https://parker.stockholm/hundrastplatser/",
@@ -1669,8 +1690,12 @@
         1750887747
       ],
       "tags": {
+        "barrier": "fence",
         "description": "Hundrastgård",
         "leisure": "dog_park",
+        "name": "Hinsholmskilens hundrastgård",
+        "opening_hours": "24/7",
+        "website": "https://goteborg.se/wps/portal/start/uppleva-och-gora/parker-och-lekplatser/for-dig-som-ar-hundagare/hundrastgardar?id=5664",
         "wheelchair": "yes"
       }
     },
@@ -2296,7 +2321,8 @@
       ],
       "tags": {
         "barrier": "fence",
-        "leisure": "dog_park"
+        "leisure": "dog_park",
+        "wheelchair": "yes"
       }
     },
     {
@@ -2616,7 +2642,20 @@
       ],
       "tags": {
         "barrier": "fence",
-        "leisure": "dog_park"
+        "dog": "unleashed",
+        "fence_type": "chain_link",
+        "fenced": "yes",
+        "height": "1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Fr%C3%B6s%C3%A4ng_Hundrastg%C3%A5rd_%28cropped%29.jpg",
+        "leisure": "dog_park",
+        "mapillary": "947552872667354",
+        "name": "Frösäng Hundrastgård",
+        "operator": "Oxelösunds kommun",
+        "operator:type": "public",
+        "operator:wikidata": "Q505246",
+        "surface": "grass",
+        "website": "https://www.visitoxelosund.se/se-och-gora/hundvanliga-oxelosund",
+        "wikimedia_commons": "Category:Frösäng_Hundrastgård"
       }
     },
     {
@@ -3018,7 +3057,7 @@
         "fence_type": "chain_link",
         "leisure": "dog_park",
         "mapillary": "717637392528437",
-        "namn": "Hammarby Fabriksvägs hundrastgård",
+        "name": "Hammarby Fabriksvägs hundrastgård",
         "operator": "Stockholms kommun",
         "operator:type": "public",
         "operator:wikidata": "Q506250",
@@ -3207,20 +3246,20 @@
       "type": "way",
       "id": 405875663,
       "center": {
-        "lat": 55.5842247,
-        "lon": 13.0578546
+        "lat": 55.5842318,
+        "lon": 13.0578263
       },
       "nodes": [
         4080176353,
         4080176361,
-        4080176360,
-        4080176359,
-        4080176358,
-        4080176356,
-        4080176357,
-        4080176354,
-        4080176355,
-        4080176364,
+        13253660944,
+        13253660947,
+        13253660948,
+        13253660946,
+        13253660945,
+        13253660950,
+        13253660949,
+        13253660943,
         4080176362,
         4080176353
       ],
@@ -3735,6 +3774,7 @@
         3159367093
       ],
       "tags": {
+        "barrier": "fence",
         "check_date": "2025-10-15",
         "fence_type": "chain_link",
         "height": "1.1",
@@ -3742,7 +3782,9 @@
         "image:license": "CC-0",
         "leisure": "dog_park",
         "name": "Tessinparkens hundrastgård",
+        "opening_hours": "24/7",
         "operator": "Stockholms kommun",
+        "small_dog": "shared",
         "surface": "compacted",
         "website": "https://parker.stockholm/hundrastplatser",
         "wheelchair": "yes",
@@ -3949,9 +3991,11 @@
         "dog": "unleashed",
         "leisure": "dog_park",
         "name": "Konradsbergsparkens hundrastgård",
+        "opening_hours": "24/7",
         "operator": "Stockholms kommun",
         "operator:type": "public",
         "operator:wikidata": "Q506250",
+        "small_dog": "separate",
         "website": "https://parker.stockholm/hundrastplatser",
         "wheelchair": "yes",
         "wikimedia_commons": "Category:Konradsbergsparkens_hundrastgård"
@@ -4223,6 +4267,7 @@
       ],
       "tags": {
         "barrier": "fence",
+        "description": "Kvarnberget, ovanför Carl-Gustaf Lindstedts Gata och i anslutning till S:t Eriksområdet. Inhägnad hundrastgård, cirka 720 kvm",
         "dog": "unleashed",
         "fence_type": "chain_link",
         "fenced": "yes",
@@ -4231,9 +4276,11 @@
         "image:license": "CC0",
         "leisure": "dog_park",
         "name": "Kvarnbergets hundrastgård",
+        "opening_hours": "24/7",
         "operator": "Stockholms kommun",
         "operator:type": "public",
         "operator:wikidata": "Q506250",
+        "small_dog": "shared",
         "surface": "fine_gravel",
         "website": "https://parker.stockholm/hundrastplatser",
         "wikimedia_commons": "Category:Kronobergsparkens_hundrastgård"
@@ -4571,9 +4618,18 @@
       ],
       "tags": {
         "barrier": "fence",
+        "dog": "unleashed",
+        "fence_type": "chain_link",
+        "fenced": "yes",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Hundrastg%C3%A5rd_-_Tureberg_3_-_6.jpg/1536px-Hundrastg%C3%A5rd_-_Tureberg_3_-_6.jpg",
+        "image:license": "CC0",
         "leisure": "dog_park",
+        "lit": "yes",
         "name": "Hundrastgård Tureberg 3",
-        "website": "https://www.hundlistan.se/listing/hundrastgard-tureberg-3/"
+        "opening_hours": "24/7",
+        "small_dog": "shared",
+        "website": "https://www.hundlistan.se/listing/hundrastgard-tureberg-3/",
+        "wikimedia_commons": "Category:Hundrastgård_-_Tureberg_3"
       }
     },
     {
@@ -4888,9 +4944,17 @@
         "area": "yes",
         "barrier": "fence",
         "check_date": "2020-01-07",
+        "fence_type": "chain_link",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Vanadislundens_hundrastg%C3%A5rd_04.jpg",
+        "image:license": "CC0",
         "leisure": "dog_park",
         "lit": "yes",
-        "surface": "grass"
+        "name": "Category:Vanadislundens hundrastgård",
+        "opening_hours": "24/7",
+        "small_dog": "separate",
+        "surface": "grass",
+        "website": "https://parker.stockholm/parker/vanadislunden/",
+        "wikimedia_commons": "Category:Vanadislundens_hundrastgård"
       }
     },
     {
@@ -5123,6 +5187,7 @@
         3504194467,
         6933043759,
         6933043758,
+        13250549772,
         6933043757,
         6933043756,
         3504194453,
@@ -5132,6 +5197,7 @@
         3504194467
       ],
       "tags": {
+        "alt_name": "Lundaängens Hundrastgård",
         "area": "yes",
         "barrier": "fence",
         "dog": "unleashed",
@@ -5139,11 +5205,13 @@
         "fence_type": "chain_link",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Lunda%C3%A4ngens_Hundrastg%C3%A5rd_-_Sp%C3%A5nga_06.jpg/2560px-Lunda%C3%A4ngens_Hundrastg%C3%A5rd_-_Sp%C3%A5nga_06.jpg",
         "leisure": "dog_park",
-        "name": "Lundaängens Hundrastgård",
+        "name": "Grimstafältets Hundrastgård",
         "opening_hours": "24/7",
         "operator": "Stockholms kommun",
         "operator:wikidata": "Q506250",
+        "small_dog": "shared",
         "surface": "grass;compacted",
+        "website": "https://parker.stockholm/hundrastplatser/",
         "wheelchair": "limited",
         "wikimedia_commons": "Category:Lundaängens_Hundrastgård_-_Spånga"
       }
@@ -5229,9 +5297,15 @@
         6966058492
       ],
       "tags": {
+        "access": "yes",
         "barrier": "fence",
+        "fence_type": "chain_link",
         "leisure": "dog_park",
+        "name": "Hildedalsgatan hundrastgården",
+        "opening_hours": "24/7",
+        "small_dog": "shared",
         "surface": "grass",
+        "website": "https://goteborg.se/wps/portal/start/uppleva-och-gora/parker-och-lekplatser/for-dig-som-ar-hundagare/hundrastgardar?id=4707",
         "wheelchair": "yes"
       }
     },
@@ -5250,7 +5324,12 @@
         11121507365
       ],
       "tags": {
-        "leisure": "dog_park"
+        "barrier": "fence",
+        "leisure": "dog_park",
+        "name": "Londongatans hundrastgård",
+        "opening_hours": "24/7",
+        "small_dog": "shared",
+        "website": "https://goteborg.se/wps/portal/start/uppleva-och-gora/parker-och-lekplatser/for-dig-som-ar-hundagare/hundrastgardar?id=4706"
       }
     },
     {
@@ -5285,11 +5364,13 @@
       ],
       "tags": {
         "access": "yes",
+        "barrier": "fence",
         "contact:website": "https://goteborg.se/wps/portal/start/uppleva-och-gora/parker-och-lekplatser/for-dig-som-ar-hundagare/hundrastgardar/?id=5549",
         "dog": "unleashed",
         "leisure": "dog_park",
         "name": "Hundrastgård Olskroksgatan",
         "name:sv": "Hundrastgård Olskroksgatan",
+        "opening_hours": "24/7",
         "operator": "Göteborgs Stad",
         "operator:type": "public",
         "wheelchair": "yes"
@@ -5369,8 +5450,13 @@
         "alt_name": "Hundrastgård Djurgården",
         "area": "yes",
         "barrier": "fence",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hundg%C3%A5rd%2C_Frisens_park_03.jpg/2560px-Hundg%C3%A5rd%2C_Frisens_park_03.jpg",
         "leisure": "dog_park",
+        "mapillary": "813423681308131",
         "name": "Frisens parks hundrastgård",
+        "opening_hours": "24/7",
+        "small_dog": "shared",
+        "surface": "grass",
         "website": "https://parker.stockholm/hundrastplatser/",
         "wikimedia_commons": "Category:Frisens_park,_hundrastgård"
       }
@@ -5598,6 +5684,7 @@
         7266423213
       ],
       "tags": {
+        "barrier": "fence",
         "dog": "unleashed",
         "fence_type": "chain_link",
         "fenced": "yes",
@@ -5606,9 +5693,11 @@
         "image:license": "CC0",
         "leisure": "dog_park",
         "name": "Skinnarviksbergets hundrastgård",
+        "opening_hours": "24/7",
         "operator": "Stockholms kommun",
         "operator:type": "public",
         "operator:wikidata": "Q506250",
+        "small_dog": "shared",
         "survey:date": "2025-10-21",
         "website": "https://parker.stockholm/hundrastplatser",
         "wikimedia_commons": "Category:Skinnarviksbergets_hundrastgård"
@@ -5646,8 +5735,10 @@
         "image:license": "CC-0",
         "leisure": "dog_park",
         "name": "Vasaparkens hundrastgård",
+        "opening_hours": "24/7",
         "operator": "Stockholms kommun",
         "operator:type": "public",
+        "small_dog": "shared",
         "surface": "fine_gravel",
         "website": "https://parker.stockholm/hundrastplatser/",
         "wheelchair": "yes",
@@ -6363,6 +6454,8 @@
         "name": "Solvändans Hundrastgård",
         "opening_hours": "Mo-Su 07:00-22:00",
         "operator": "Stockholms kommun",
+        "small_dog": "shared",
+        "website": "https://parker.stockholm/hundrastplatser/",
         "wheelchair": "limited",
         "wikimedia_commons": "Category:Solvändans_hundrastgård"
       }
@@ -6438,9 +6531,11 @@
         "image:license": "CC0",
         "leisure": "dog_park",
         "name": "Fatbursparkens hundrastgård",
+        "opening_hours": "24/7",
         "operator": "Stockholms kommun",
         "operator:type": "public",
         "operator:wikidata": "Q506250",
+        "small_dog": "shared",
         "surface": "fine_gravel",
         "survey:date": "2025-10-21",
         "website": "https://parker.stockholm/hundrastplatser",
@@ -6529,11 +6624,23 @@
       ],
       "tags": {
         "access": "yes",
+        "barrier": "fence",
         "check_date": "2025-03-27",
         "description": "I Kyrkparken, mellan Enköpingsvägen och Järfälla kyrka",
+        "dog": "unleashed",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Hundrastg%C3%A5rd_Kyrkparken_Barkarby_01.jpg/2560px-Hundrastg%C3%A5rd_Kyrkparken_Barkarby_01.jpg",
+        "image:license": "CC0",
         "leisure": "dog_park",
+        "lit": "yes",
+        "mapillary": "1053867953427738",
         "name": "Hundrastgård Kyrkparken Barkarby",
-        "website": "https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/hundrastgardar.4.640dac6b1300db73e7c800017237.html"
+        "opening_hours": "24/7",
+        "operator": "Järfälla kommun",
+        "operator:type": "public",
+        "operator:wikidata": "Q301259",
+        "small_dog": "shared",
+        "website": "https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/hundrastgardar.4.640dac6b1300db73e7c800017237.html",
+        "wikimedia_commons": "Category:Hundrastgård_Kyrkparken_Barkarby"
       }
     },
     {
@@ -7210,13 +7317,23 @@
       ],
       "tags": {
         "access": "yes",
+        "barrier": "fence",
+        "dog": "unleashed",
+        "fence_type": "chain_link",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Hjulsta_hundrastg%C3%A5rd_04.jpg/2560px-Hjulsta_hundrastg%C3%A5rd_04.jpg",
+        "image:license": "CC-0",
         "leisure": "dog_park",
+        "lit": "yes",
         "name": "Hjulsta hundrastgård",
+        "opening_hours": "24/7",
         "operator": "Stockholms kommun",
         "operator:type": "public",
         "operator:wikidata": "Q506250",
+        "small_dog": "separate",
+        "surface": "grass",
         "website": "https://parker.stockholm/hundrastplatser/",
-        "wheelchair": "yes"
+        "wheelchair": "yes",
+        "wikimedia_commons": "Category:Hjulsta_hundrastgård"
       }
     },
     {
@@ -7551,13 +7668,18 @@
       ],
       "tags": {
         "access": "yes",
+        "barrier": "fence",
         "fence": "yes",
         "fence_type": "chain_link",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Strandv%C3%A4gens_hundrastg%C3%A5rd_06.jpg/2560px-Strandv%C3%A4gens_hundrastg%C3%A5rd_06.jpg",
+        "image:license": "CC0",
         "leisure": "dog_park",
         "name": "Strandvägens hundrastgård - Stockholm",
+        "opening_hours": "24/7",
         "operator": "Stockholms kommun",
         "operator:type": "government",
         "operator:wikidata": "Q506250",
+        "small_dog": "separate",
         "website": "https://parker.stockholm/hundrastplatser/",
         "wheelchair": "limited",
         "wikimedia_commons": "Category:Strandvägens_hundrastgård_-_Stockholm"
@@ -7889,9 +8011,12 @@
         9809055038
       ],
       "tags": {
+        "barrier": "fence",
         "description": "Henriksdalsbergets hundrastgård ligger på en bergknalle med stora höjdskillnader och stora uppväxta träd, främst tallar. Här finns ett picknickbord och en papperskorg.",
         "leisure": "dog_park",
         "name": "Henriksdalsbergets hundrastgård",
+        "opening_hours": "24/7",
+        "small_dog": "shared",
         "website": "https://www.nacka.se/uppleva--gora/friluftsliv-motion/hundar-i-nacka/hundrastgardar/",
         "wheelchair": "limited"
       }
@@ -7937,7 +8062,14 @@
         "access": "yes",
         "barrier": "fence",
         "height": "1.35 m",
-        "leisure": "dog_park"
+        "leisure": "dog_park",
+        "name": "Jakobsbergs Folkhögskolans Hundrastgård",
+        "opening_hours": "24/7",
+        "operator": "Järfälla kommun",
+        "operator:type": "public",
+        "operator:wikidata": "Q301259",
+        "website": "https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/hundrastgardar.4.640dac6b1300db73e7c800017237.html",
+        "wikimedia_commons": "Category:Jakobsbergs_Folkhögskolan_Hundrastgård"
       }
     },
     {
@@ -8594,6 +8726,7 @@
         10294072726,
         10294072727,
         10294072728,
+        13291171699,
         10294072729,
         10294072730,
         10294072731,
@@ -8602,7 +8735,12 @@
       ],
       "tags": {
         "access": "yes",
+        "barrier": "yes",
+        "fence_type": "chain_link",
         "leisure": "dog_park",
+        "mapillary": "642911808340578",
+        "opening_hours": "24/7",
+        "surface": "fine_gravel",
         "wheelchair": "yes"
       }
     },
@@ -9785,15 +9923,20 @@
         11538336040
       ],
       "tags": {
+        "access": "yes",
+        "barrier": "fence",
         "dog": "unleashed",
         "fence_type": "chain_link",
         "fenced": "yes",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Sankt_Eriksparkens_hundrastg%C3%A5rd_01.jpg/2560px-Sankt_Eriksparkens_hundrastg%C3%A5rd_01.jpg",
         "image:license": "CC0",
         "leisure": "dog_park",
         "name": "Sankt Eriksparkens hundrastgård",
+        "opening_hours": "24/7",
         "operator": "Stockholms kommun",
         "operator:type": "public",
         "operator:wikidata": "Q506250",
+        "small_dog": "shared",
         "surface": "gravel",
         "website": "https://parker.stockholm/hundrastplatser/",
         "wikimedia_commons": "Category:Sankt_Eriksparkens_hundrastgård"
@@ -10172,16 +10315,20 @@
         12040109518
       ],
       "tags": {
+        "alt_name": "Årvinge hundrastgård",
+        "barrier": "fence",
         "fence": "yes",
         "fence_type": "chain_link",
         "height": "1.2",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C3%85rvinge_hundrastg%C3%A5rd_01.jpg/1280px-%C3%85rvinge_hundrastg%C3%A5rd_01.jpg",
         "image:license": "CC0",
         "leisure": "dog_park",
-        "name": "Årvinge hundrastgård",
+        "name": "Igelbäcksstigens hundrastgården",
+        "opening_hours": "24/7",
         "operator": "Stockholms kommun",
         "operator:type": "public",
         "operator:wikidata": "Q506250",
+        "small_dog": "separate",
         "surface": "grass",
         "website": "https://parker.stockholm/hundrastplatser/",
         "wheelchair": "limited",
@@ -10245,10 +10392,24 @@
         12081701612
       ],
       "tags": {
+        "barrier": "fence",
         "description": "vid Snapphanevägen i Järfälla ligger mellan Snapphanevägen och E18",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Snapphanev%C3%A4gens_hundrastg%C3%A5rd_01.jpg/2560px-Snapphanev%C3%A4gens_hundrastg%C3%A5rd_01.jpg",
+        "image:license": "CC0",
         "leisure": "dog_park",
+        "mapillary": "1143882500653564",
         "name": "Snapphanevägens Hundrastgård - Järfälla",
-        "website": "https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/hundrastgardar.4.640dac6b1300db73e7c800017237.html"
+        "opening_hours": "24/7",
+        "panoramax": "b1620520-5802-41e0-b964-7e279cab8b62",
+        "panoramax:0": "7e0cb890-db7d-4b80-84ba-cb4f69818e98",
+        "panoramax:1": "272529f3-72d8-4a68-8de1-3e0531f88a9e",
+        "panoramax:2": "b39c6b01-aa7a-4407-baf5-1e9ae9c3e685",
+        "panoramax:3": "39c17d8a-5f68-4bfd-b0ea-d2585c6dbe01",
+        "panoramax:4": "6d7ac0dd-36eb-4426-bd8c-01d9fbee88ee",
+        "small_dog": "separate",
+        "surface": "grass",
+        "website": "https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/hundrastgardar.4.640dac6b1300db73e7c800017237.html",
+        "wikimedia_commons": "Category:Snapphanevägens_Hundrastgård"
       }
     },
     {
@@ -10271,10 +10432,13 @@
       ],
       "tags": {
         "access": "yes",
+        "barrier": "fence",
         "fence": "yes",
         "fence_type": "chain",
         "leisure": "dog_park",
         "name": "Finnhamns Hundrastgård",
+        "opening_hours": "24/7",
+        "small_dog": "shared",
         "website": "https://finnhamn.se/aktiviteter/",
         "wikidata": "Q136449748"
       }
@@ -10851,7 +11015,12 @@
       ],
       "tags": {
         "barrier": "fence",
-        "leisure": "dog_park"
+        "dog": "unleashed",
+        "fence_type": "chain_link",
+        "leisure": "dog_park",
+        "name": "Hundrastplats Södra kajen",
+        "surface": "fine_gravel",
+        "website": "https://www.naturkartan.se/sv/vasternorrlands-lan/hundrastplats-sodra-kajen"
       }
     },
     {
@@ -11076,8 +11245,10 @@
         12875108166
       ],
       "tags": {
+        "barrier": "fence",
         "leisure": "dog_park",
         "name": "Lundaängens Hundrastgård - Spånga",
+        "opening_hours": "24/7",
         "website": "https://parker.stockholm/hundrastplatser/",
         "wheelchair": "unknown"
       }
@@ -11209,13 +11380,19 @@
       ],
       "tags": {
         "access": "yes",
+        "barrier": "no",
         "dog": "unleashed",
+        "image": "https://commons.wikimedia.org/wiki/File:Bellevueparkens_Hundrastomr%C3%A5de_13.jpg",
+        "image:license": "CC0",
         "leisure": "dog_park",
         "name": "Bellevueparkens Hundrastområde",
+        "opening_hours": "24/7",
         "operator": "Stockholms Stad",
         "operator:type": "public/government",
         "operator:wikidata": "Q506250",
-        "website": "https://parker.stockholm/hundrastplatser/"
+        "small_dog": "shared",
+        "website": "https://parker.stockholm/hundrastplatser/",
+        "wikimedia_commons": "Category:Bellevueparkens_Hundrastområde"
       }
     },
     {
@@ -11552,6 +11729,7 @@
       ],
       "tags": {
         "access": "yes",
+        "barrier": "fence",
         "dog:discipline:agility": "yes",
         "fence_type": "chain_link",
         "fenced": "yes",
@@ -11560,7 +11738,9 @@
         "leisure": "dog_park",
         "lit": "no",
         "name": "Akallastigen hundrastgården",
+        "opening_hours": "24/7",
         "operator": "Stockholms stad",
+        "small_dog": "separate",
         "surface": "grass",
         "website": "https://parker.stockholm/hundrastplatser/",
         "wheelchair": "limited",
@@ -11734,8 +11914,10 @@
         "leisure": "dog_park",
         "lit": "yes",
         "name": "Hundrastgård Oxtungan",
+        "opening_hours": "24/7",
         "operator": "Stockholms kommun",
         "operator:type": "public",
+        "small_dog": "shared",
         "surface": "fine_gravel",
         "website": "https://parker.stockholm/hundrastplatser/",
         "wikimedia_commons": "Category:Oxtungans_hundrastgård,_Hässelby#"
@@ -11767,6 +11949,8 @@
         "image:license": "CC0",
         "leisure": "dog_park",
         "lit": "no",
+        "name": "Blackebergsbackens hundrastgård",
+        "opening_hours": "24/7",
         "operator": "Stockholms kommun",
         "operator:wikidata": "Q506250",
         "surface": "unpaved",
@@ -11791,6 +11975,7 @@
       ],
       "tags": {
         "access": "yes",
+        "barrier": "fence",
         "check_date": "2025-10-10",
         "dog": "unleashed",
         "fence_type": "chain_link",
@@ -11798,10 +11983,13 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bekomberga_hundrastg%C3%A5rd_05.jpg/2560px-Bekomberga_hundrastg%C3%A5rd_05.jpg",
         "leisure": "dog_park",
         "name": "Beckomberga Hundrastpark",
+        "opening_hours": "24/7",
         "operator": "Stockholms kommun",
         "operator:type": "government",
         "operator:wikidata": "Q506250",
+        "small_dog": "shared",
         "surface": "compacted",
+        "website": "https://parker.stockholm/hundrastplatser/",
         "wikimedia_commons": "Category:Beckomberga_hundrastgård"
       }
     },
@@ -11917,8 +12105,18 @@
         "access": "yes",
         "barrier": "fence",
         "height": "1.35 m",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sl%C3%B6jdv%C3%A4gens_Hundrastg%C3%A5rd_01.jpg/2560px-Sl%C3%B6jdv%C3%A4gens_Hundrastg%C3%A5rd_01.jpg",
+        "image:license": "CC0",
         "leisure": "dog_park",
-        "name": "Slöjdvägen"
+        "name": "Slöjdvägens hundrastgård",
+        "opening_hours": "24/7",
+        "operator": "Järfälla kommun",
+        "operator:type": "public",
+        "operator:wikidata": "Q301259",
+        "small_dog": "shared",
+        "surface": "grass",
+        "website": "https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/hundrastgardar.4.640dac6b1300db73e7c800017237.html",
+        "wikimedia_commons": "Category:Slöjdvägens_Hundrastgård"
       }
     },
     {
@@ -11968,6 +12166,7 @@
       "tags": {
         "leisure": "dog_park",
         "name": "Hundrastgård Kastrupgatan 11",
+        "opening_hours": "24/7",
         "operator": "Stockholms kommun",
         "operator:type": "public"
       }
@@ -11995,11 +12194,17 @@
         "access": "yes",
         "barrier": "fence",
         "dog": "unleashed",
+        "fence_type": "chain_link",
+        "fenced": "yes",
         "height": "1.35 m",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/S%C3%B6derh%C3%B6jdens_Hundrastg%C3%A5rd_01.jpg/2560px-S%C3%B6derh%C3%B6jdens_Hundrastg%C3%A5rd_01.jpg",
+        "image:license": "CC0",
         "leisure": "dog_park",
         "name": "Söderhöjden",
         "operator": "Järfälla kommun",
-        "website": "https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/hundrastgardar.4.640dac6b1300db73e7c800017237.html"
+        "surface": "grass",
+        "website": "https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/hundrastgardar.4.640dac6b1300db73e7c800017237.html",
+        "wikimedia_commons": "Category:Söderhöjdens_Hundrastgård"
       }
     },
     {
@@ -12165,6 +12370,7 @@
       ],
       "tags": {
         "access": "yes",
+        "barrier": "fence",
         "check_date": "2025-10-15",
         "description": "Kampementsbacken mot Värtavägen. Inhägnad hundrastgård, cirka 2 770 kvm med bänkar och bord ligger i en skogsdunge",
         "dog": "unleashed",
@@ -12174,9 +12380,11 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kampementsbackens_hundrastg%C3%A5rd_01.jpg/2560px-Kampementsbackens_hundrastg%C3%A5rd_01.jpg",
         "leisure": "dog_park",
         "name": "Kampementsbackens hundrastgård",
+        "opening_hours": "24/7",
         "operator": "Stockholms kommun",
         "operator:type": "public",
         "operator:wikidata": "Q506250",
+        "small_dog": "shared",
         "website": "https://parker.stockholm/hundrastplatser/",
         "wikimedia_commons": "Category:Kampementsbacken_hundrastgård"
       }
@@ -12225,6 +12433,7 @@
         13245355308
       ],
       "tags": {
+        "barrier": "fence",
         "dog": "unleashed",
         "fence_type": "chain_link",
         "fenced": "yes",
@@ -12233,9 +12442,11 @@
         "image:license": "CC0",
         "leisure": "dog_park",
         "name": "Monteliusvägens hundrastgård",
+        "opening_hours": "24/7",
         "operator": "Stockholms kommun",
         "operator:type": "public",
         "operator:wikidata": "Q506250",
+        "small_dog": "shared",
         "survey:date": "2025-10-21",
         "website": "https://parker.stockholm/hundrastplatser",
         "wikimedia_commons": "Category:Monteliusvägens_hundrastgård"
@@ -12279,6 +12490,7 @@
         13245354087
       ],
       "tags": {
+        "barrier": "fence",
         "dog": "unleashed",
         "fence_type": "metal",
         "fenced": "yes",
@@ -12288,9 +12500,11 @@
         "leisure": "dog_park",
         "mapillary": "576570968083429",
         "name": "Wollmar Yxkullsgatans hundrastgård",
+        "opening_hours": "24/7",
         "operator": "Stockholms kommun",
         "operator:type": "public",
         "operator:wikidata": "Q506250",
+        "small_dog": "shared",
         "surface": "gravel",
         "survey:date": "2025-10-21",
         "website": "https://parker.stockholm/hundrastplatser",
@@ -12315,6 +12529,7 @@
       ],
       "tags": {
         "access": "yes",
+        "barrier": "fence",
         "description": "Hundrastplatsen är indelad i två sektioner, där en sektion är för mindre hundar. Det vill säga hundar som väger maximalt 10 kilo och som har en mankhöjd på cirka 35 centimeter.",
         "dog": "unleashed",
         "fence_type": "chain_link",
@@ -12322,10 +12537,13 @@
         "height": "1.1",
         "leisure": "dog_park",
         "name": "Rosenlundsparkens hundrastgård",
+        "opening_hours": "24/7",
         "operator": "Stockholms kommun",
         "operator:type": "public",
         "operator:wikidata": "Q506250",
+        "small_dog": "separate",
         "survey:date": "2025-10-21",
+        "website": "https://parker.stockholm/hundrastplatser/",
         "wikimedia_commons": "Category:Rosenlundsparkens_hundrastgård"
       }
     },
@@ -12344,6 +12562,7 @@
         13248739062
       ],
       "tags": {
+        "barrier": "fence",
         "dog": "unleashed",
         "fence_type": "chain_link",
         "fenced": "yes",
@@ -12352,13 +12571,280 @@
         "image:license": "CC0",
         "leisure": "dog_park",
         "name": "Älvsborgsgatans hundrastplats",
+        "opening_hours": "24/7",
         "operator": "Stockholms kommun",
         "operator:type": "public",
         "operator:wikidata": "Q506250",
+        "small_dog": "shared",
         "surface": "fine_gravel",
         "survey:date": "2025-10-21",
         "website": "https://parker.stockholm/hundrastplatser",
         "wikimedia_commons": "Category:Älvsborgsgatans_hundrastplats"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1444023117,
+      "center": {
+        "lat": 57.4977873,
+        "lon": 12.6577736
+      },
+      "nodes": [
+        13250603783,
+        13250603784,
+        13250603785,
+        13250603786,
+        13250603783
+      ],
+      "tags": {
+        "access": "yes",
+        "dog": "unleashed",
+        "fence_type": "chain_link",
+        "fenced": "yes",
+        "leisure": "dog_park",
+        "name": "Hundrastgården på Assberg",
+        "operator": "Marks kommun",
+        "operator:type": "public",
+        "website": "https://www.mark.se/uppleva-och-gora/bad-idrott-och-friluftsliv/hundrastgardar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1444429636,
+      "center": {
+        "lat": 59.3288335,
+        "lon": 17.9520509
+      },
+      "nodes": [
+        13253513246,
+        13253513247,
+        13253513248,
+        13253513249,
+        13253513250,
+        13253513251,
+        13253513252,
+        13253513253,
+        13253513246
+      ],
+      "tags": {
+        "access": "yes",
+        "dog": "unleashed",
+        "fence_type": "chain_link",
+        "fenced": "yes",
+        "leisure": "dog_park",
+        "name": "Hundrastgård Västerled",
+        "operator": "Stockholms stad",
+        "operator:type": "public",
+        "website": "https://parker.stockholm/hundrastplatser/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1444430763,
+      "center": {
+        "lat": 59.3333554,
+        "lon": 18.0074238
+      },
+      "nodes": [
+        13253533331,
+        13253533332,
+        13253533333,
+        13253533334,
+        13253533335,
+        13253533336,
+        13253533337,
+        13253533338,
+        13253533339,
+        13253533340,
+        13253533341,
+        13253533331
+      ],
+      "tags": {
+        "access": "yes",
+        "dog": "unleashed",
+        "fence_type": "chain_link",
+        "fenced": "yes",
+        "height": "1.1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Kristinebergs_Hundrastg%C3%A5rd_01.jpg/2560px-Kristinebergs_Hundrastg%C3%A5rd_01.jpg",
+        "image:license": "CC0",
+        "leisure": "dog_park",
+        "name": "Kristinebergshöjdens hundrastgård",
+        "opening_hours": "24/7",
+        "operator": "Stockholms kommun",
+        "operator:type": "public",
+        "website": "https://parker.stockholm/hundrastplatser/",
+        "wikimedia_commons": "Category:Kristinebergs_hundrastgård"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1444435160,
+      "center": {
+        "lat": 59.3344585,
+        "lon": 17.9918594
+      },
+      "nodes": [
+        13253528692,
+        13253528693,
+        13253528694,
+        13253528695,
+        13253528696,
+        13253528692
+      ],
+      "tags": {
+        "access": "yes",
+        "fence_type": "chain_link",
+        "fenced": "yes",
+        "height": "1.1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Tranebergs_hundrastg%C3%A5rd_02.jpg/2560px-Tranebergs_hundrastg%C3%A5rd_02.jpg",
+        "image:license": "CC0",
+        "leisure": "dog_park",
+        "name": "Tranebergs hundrastpark",
+        "operator": "Stockholms kommun",
+        "operator:type": "public",
+        "website": "https://parker.stockholm/hundrastplatser/",
+        "wikimedia_commons": "Category:Tranebergs_hundrastgård"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1444496700,
+      "center": {
+        "lat": 59.426116,
+        "lon": 17.9414071
+      },
+      "nodes": [
+        13254050466,
+        13254050471,
+        13254050470,
+        13254050467,
+        13254050468,
+        13254050469,
+        13254050466
+      ],
+      "tags": {
+        "access": "yes",
+        "barrier": "fence",
+        "dog": "unleashed",
+        "fence_type": "chain_link",
+        "fenced": "yes",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Hundrastg%C3%A5rd_Tureberg_01.jpg/1280px-Hundrastg%C3%A5rd_Tureberg_01.jpg",
+        "image:license": "CC0",
+        "leisure": "dog_park",
+        "lit": "no",
+        "name": "Turebergs hundgård",
+        "opening_hours": "24/7",
+        "operator": "Sollentuna kommun",
+        "operator:type": "public",
+        "small_dog": "shared",
+        "website": "https://www.sollentuna.se/uppleva--gora/idrott-motion-och-friluftsliv/hundrastgardar/",
+        "wikimedia_commons": "Category:Hundrastgård_-_Tureberg"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1444505960,
+      "center": {
+        "lat": 59.4364961,
+        "lon": 17.9158788
+      },
+      "nodes": [
+        13254165308,
+        13254165309,
+        13254165310,
+        13254165311,
+        13254165312,
+        13254165313,
+        13254165308
+      ],
+      "tags": {
+        "access": "yes",
+        "barrier": "fence",
+        "dog": "unleashed",
+        "fenced": "yes",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Hundrastg%C3%A5rd_-_J%C3%A4rvaf%C3%A4ltet_B%C3%B6gs_g%C3%A5rd_01.jpg/2560px-Hundrastg%C3%A5rd_-_J%C3%A4rvaf%C3%A4ltet_B%C3%B6gs_g%C3%A5rd_01.jpg",
+        "image:license": "CC0",
+        "leisure": "dog_park",
+        "name": "Hundrastgård - Järvafältet Bögs gård",
+        "opening_hours": "24/7",
+        "panoramax": "e118031e-eb26-4017-b340-da036596ccec",
+        "panoramax:0": "0f7c9730-2ff5-445a-ab18-f386b908c181",
+        "small_dog": "shared",
+        "surface": "grass",
+        "wikimedia_commons": "Category:Hundrastgård_-_Järvafältet_Bögs_gård"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1445457489,
+      "center": {
+        "lat": 57.8733154,
+        "lon": 11.9620807
+      },
+      "nodes": [
+        13261839817,
+        13261839818,
+        13261839819,
+        13261839816,
+        13261839815,
+        13261839814,
+        13261839813,
+        13261839812,
+        13261839811,
+        13261839810,
+        13261839809,
+        13261839808,
+        13261839807,
+        13261839806,
+        13261839805,
+        13261839804,
+        13261839817
+      ],
+      "tags": {
+        "leisure": "dog_park"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1445791546,
+      "center": {
+        "lat": 55.6262064,
+        "lon": 13.072366
+      },
+      "nodes": [
+        13265239894,
+        13265239895,
+        13265239896,
+        13265239897,
+        13265239894
+      ],
+      "tags": {
+        "barrier": "fence",
+        "leisure": "dog_park"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1450788342,
+      "center": {
+        "lat": 59.383135,
+        "lon": 18.037415
+      },
+      "nodes": [
+        13305694865,
+        13305694871,
+        13305694875,
+        13305694870,
+        13305694866,
+        13305694869,
+        13305694868,
+        13305694867,
+        13305694865
+      ],
+      "tags": {
+        "landuse": "grass",
+        "leisure": "dog_park",
+        "name": "Svedens hundrastgård"
       }
     },
     {
@@ -12376,14 +12862,21 @@
         }
       ],
       "tags": {
+        "barrier": "no",
         "description": "I Drottningholms slottspark vid Drottningholms slott finns en hundö, Ormholmen, som ligger i Engelska parken. Där får du släppa lös din hund om du är säker på att hunden inte simmar iväg och lämnar ön. Sedan 2019 finns en fin paviljong på ön som väderskyd",
-        "dog": "designated",
+        "dog": "unleashed",
         "fenced": "no",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Ormholmen_Hund%C3%B6n_Drottningholm_04.jpg/2560px-Ormholmen_Hund%C3%B6n_Drottningholm_04.jpg",
+        "image:license": "CC0",
         "leisure": "dog_park",
         "name": "Ormholmen Hundön - Drottningholm",
+        "opening_hours": "24/7",
+        "small_dog": "shared",
+        "surface": "grass",
         "type": "multipolygon",
         "website": "https://www.upplevekero.se/se--gora/sport--fritid/hundrastgardar/hundrastgard-i-drottningholmsparken",
-        "wheelchair": "limited"
+        "wheelchair": "limited",
+        "wikimedia_commons": "Category:Ormholmen_Hundön,_Drottningholm"
       }
     },
     {
@@ -12428,8 +12921,13 @@
         }
       ],
       "tags": {
+        "barrier": "fence",
         "leisure": "dog_park",
-        "type": "multipolygon"
+        "name": "Slottsskogens Hundrastgården",
+        "opening_hours": "24/7",
+        "small_dog": "separate",
+        "type": "multipolygon",
+        "website": "https://goteborg.se/wps/portal/start/uppleva-och-gora/parker-och-lekplatser/for-dig-som-ar-hundagare/hundrastgardar?id=4703"
       }
     },
     {
@@ -12452,8 +12950,13 @@
         }
       ],
       "tags": {
+        "barrier": "fence",
         "leisure": "dog_park",
-        "type": "multipolygon"
+        "name": "Slottsskogens hundrastgård",
+        "opening_hours": "24/7",
+        "small_dog": "separate",
+        "type": "multipolygon",
+        "website": "https://goteborg.se/wps/portal/start/uppleva-och-gora/parker-och-lekplatser/for-dig-som-ar-hundagare/hundrastgardar?id=4703"
       }
     },
     {
@@ -12920,6 +13423,37 @@
         "natural": "beach",
         "type": "multipolygon",
         "wheelchair": "no"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 19824627,
+      "center": {
+        "lat": 59.3770842,
+        "lon": 18.0332618
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 1449904532,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1449904531,
+          "role": "inner"
+        },
+        {
+          "type": "way",
+          "ref": 1449904533,
+          "role": "inner"
+        }
+      ],
+      "tags": {
+        "landuse": "grass",
+        "leisure": "dog_park",
+        "name": "Hundrastgård Bergshamra södra",
+        "type": "multipolygon"
       }
     }
   ]
