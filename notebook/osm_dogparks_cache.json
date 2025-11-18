@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-11-16T19:00:11Z",
-    "timestamp_areas_base": "2025-11-16T15:51:00Z",
+    "timestamp_osm_base": "2025-11-18T00:20:02Z",
+    "timestamp_areas_base": "2025-11-17T21:30:14Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -6058,14 +6058,21 @@
         7553335605
       ],
       "tags": {
+        "access": "yes",
         "dog": "unleashed",
         "fence_type": "chain_link",
         "fenced": "yes",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Tuvan_hundpark_-_Sundbyberg_2025_nov_-_7.jpg/1280px-Tuvan_hundpark_-_Sundbyberg_2025_nov_-_7.jpg",
+        "image:license": "CC0",
         "leisure": "dog_park",
+        "lit": "yes",
         "name": "Tuvan hundpark - Sundbyberg",
+        "operator": "Sundbybergs kommun",
+        "operator:type": "public",
         "residential": "urban",
         "website": "https://www.sundbyberg.se/uppleva-och-gora/idrott-motion-och-friluftsliv/friluftsliv-och-motion/hundrastgardar",
-        "wheelchair": "yes"
+        "wheelchair": "yes",
+        "wikimedia_commons": "Category:Tuvan_hundpark_-_Sundbyberg"
       }
     },
     {
@@ -8061,12 +8068,15 @@
         "access": "yes",
         "barrier": "fence",
         "height": "1.35 m",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Jakobsbergs_Folkh%C3%B6gskolan_Hundrastg%C3%A5rd_03.jpg/1280px-Jakobsbergs_Folkh%C3%B6gskolan_Hundrastg%C3%A5rd_03.jpg",
+        "image:license": "CC0",
         "leisure": "dog_park",
         "name": "Jakobsbergs Folkhögskolans Hundrastgård",
         "opening_hours": "24/7",
         "operator": "Järfälla kommun",
         "operator:type": "public",
         "operator:wikidata": "Q301259",
+        "small_dog": "shared",
         "website": "https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/hundrastgardar.4.640dac6b1300db73e7c800017237.html",
         "wikimedia_commons": "Category:Jakobsbergs_Folkhögskolan_Hundrastgård"
       }
@@ -11251,6 +11261,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Lunda%C3%A4ngens_Hundrastg%C3%A5rd_-_Sp%C3%A5nga_Nov_2025_01.jpg/2560px-Lunda%C3%A4ngens_Hundrastg%C3%A5rd_-_Sp%C3%A5nga_Nov_2025_01.jpg",
         "image:license": "CC-0",
         "leisure": "dog_park",
+        "lit": "limited",
         "name": "Lundaängens Hundrastgård - Spånga",
         "opening_hours": "24/7",
         "small_dog": "shared",
@@ -12273,11 +12284,16 @@
         "barrier": "fence",
         "description": "Rissne ängar, mot Hallonbergen",
         "dog": "unleashed",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Rissne%C3%A4ngarna_Hundrastg%C3%A5rd_01.jpg/2560px-Rissne%C3%A4ngarna_Hundrastg%C3%A5rd_01.jpg",
+        "image:license": "CC0",
         "leisure": "dog_park",
         "name": "Rissneängarna Hundrastgård - Sundbyberg",
+        "opening_hours": "24/7",
         "operator": "Sundbybergs kommun",
         "operator:type": "public",
-        "website": "https://www.sundbyberg.se/uppleva-och-gora/idrott-motion-och-friluftsliv/friluftsliv-och-motion/hundrastgardar"
+        "small_dog": "shared",
+        "website": "https://www.sundbyberg.se/uppleva-och-gora/idrott-motion-och-friluftsliv/friluftsliv-och-motion/hundrastgardar",
+        "wikimedia_commons": "Category:Rissneängarna_Hundrastgård"
       }
     },
     {
@@ -12862,6 +12878,40 @@
         "landuse": "grass",
         "leisure": "dog_park",
         "name": "Svedens hundrastgård"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1451476251,
+      "center": {
+        "lat": 59.3630194,
+        "lon": 17.9439294
+      },
+      "nodes": [
+        13312233032,
+        13312233033,
+        13312233034,
+        13312233035,
+        13312233036,
+        13312233037,
+        13312233032
+      ],
+      "tags": {
+        "access": "yes",
+        "barrier": "yes",
+        "dog": "unleashed",
+        "fence_type": "chain_link",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/L%C3%B6nnebergaparkens_hundrastpark_2025_11-5.jpg/1280px-L%C3%B6nnebergaparkens_hundrastpark_2025_11-5.jpg",
+        "image:license": "CC0",
+        "leisure": "dog_park",
+        "lit": "yes",
+        "name": "Lönnebergaparkens hundrastpark",
+        "operator": "Stockholms kommun",
+        "operator:type": "public",
+        "surface": "sand",
+        "website": "https://parker.stockholm/hundrastplatser",
+        "wheelchair": "yes",
+        "wikimedia_commons": "Category:Lönnebergaparkens_hundrastpark"
       }
     },
     {
