@@ -20,6 +20,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          17.923428,
+          59.388697
+        ]
+      },
+      "properties": {
+        "title": "File:Bredbykullens hundrastg\u00e5rd 2025 nov 06.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Bredbykullens_hundrastg\u00e5rd_2025_nov_06.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           17.866769,
           59.409011
         ]
@@ -69,6 +83,20 @@
       "properties": {
         "title": "File:Tranebergs hundrastg\u00e5rd 02.jpg",
         "url": "https://commons.wikimedia.org/wiki/File:Tranebergs_hundrastg\u00e5rd_02.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.922914,
+          59.388889
+        ]
+      },
+      "properties": {
+        "title": "File:Bredbykullens hundrastg\u00e5rd 2025 nov 02.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Bredbykullens_hundrastg\u00e5rd_2025_nov_02.jpg"
       }
     },
     {
@@ -286,6 +314,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          17.915817,
+          59.394281
+        ]
+      },
+      "properties": {
+        "title": "File:Tensta hundrastg\u00e5rd 2025 nov 06.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Tensta_hundrastg\u00e5rd_2025_nov_06.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           17.876503,
           59.387306
         ]
@@ -468,6 +510,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          17.915281,
+          59.394464
+        ]
+      },
+      "properties": {
+        "title": "File:Tensta hundrastg\u00e5rd 2025 nov 01.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Tensta_hundrastg\u00e5rd_2025_nov_01.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           18.047842,
           59.353942
         ]
@@ -559,6 +615,20 @@
       "properties": {
         "title": "File:Rosenlundsparkens hundrastg\u00e5rd 05.jpg",
         "url": "https://commons.wikimedia.org/wiki/File:Rosenlundsparkens_hundrastg\u00e5rd_05.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.92365,
+          59.388772
+        ]
+      },
+      "properties": {
+        "title": "File:Bredbykullens hundrastg\u00e5rd 2025 nov 08.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Bredbykullens_hundrastg\u00e5rd_2025_nov_08.jpg"
       }
     },
     {
@@ -1308,6 +1378,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          17.987164,
+          59.3652
+        ]
+      },
+      "properties": {
+        "title": "File:Kr\u00f6nets hundrastg\u00e5rd 2025 nov 06.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Kr\u00f6nets_hundrastg\u00e5rd_2025_nov_06.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           17.965136,
           59.358325
         ]
@@ -1399,6 +1483,20 @@
       "properties": {
         "title": "File:Kvarnbergets hundrastg\u00e5rd 11.jpg",
         "url": "https://commons.wikimedia.org/wiki/File:Kvarnbergets_hundrastg\u00e5rd_11.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.987172,
+          59.365169
+        ]
+      },
+      "properties": {
+        "title": "File:Kr\u00f6nets hundrastg\u00e5rd 2025 nov 01.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Kr\u00f6nets_hundrastg\u00e5rd_2025_nov_01.jpg"
       }
     },
     {
@@ -1602,6 +1700,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          17.923658,
+          59.388767
+        ]
+      },
+      "properties": {
+        "title": "File:Bredbykullens hundrastg\u00e5rd 2025 nov 09.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Bredbykullens_hundrastg\u00e5rd_2025_nov_09.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           18.047669,
           59.3549
         ]
@@ -1609,6 +1721,20 @@
       "properties": {
         "title": "File:Bellevueparkens Hundrastomr\u00e5de 08.jpg",
         "url": "https://commons.wikimedia.org/wiki/File:Bellevueparkens_Hundrastomr\u00e5de_08.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.915411,
+          59.394414
+        ]
+      },
+      "properties": {
+        "title": "File:Tensta hundrastg\u00e5rd 2025 nov 04.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Tensta_hundrastg\u00e5rd_2025_nov_04.jpg"
       }
     },
     {
@@ -1721,6 +1847,20 @@
       "properties": {
         "title": "File:Akalla hundrastg\u00e5rd, J\u00e4rvaf\u00e4ltet 09.jpg",
         "url": "https://commons.wikimedia.org/wiki/File:Akalla_hundrastg\u00e5rd,_J\u00e4rvaf\u00e4ltet_09.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.923586,
+          59.388789
+        ]
+      },
+      "properties": {
+        "title": "File:Bredbykullens hundrastg\u00e5rd 2025 nov 07.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Bredbykullens_hundrastg\u00e5rd_2025_nov_07.jpg"
       }
     },
     {
@@ -2456,13 +2596,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.059369,
-          59.320775
+          17.916456,
+          59.394025
         ]
       },
       "properties": {
-        "title": "File:Monteliusv\u00e4gens hundrastg\u00e5rd 05.jpg",
-        "url": "https://commons.wikimedia.org/wiki/File:Monteliusv\u00e4gens_hundrastg\u00e5rd_05.jpg"
+        "title": "File:Tensta hundrastg\u00e5rd 2025 nov 07.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Tensta_hundrastg\u00e5rd_2025_nov_07.jpg"
       }
     },
     {
@@ -2477,6 +2617,20 @@
       "properties": {
         "title": "File:Judarskogens hundrastplats 2925 nov 01.jpg",
         "url": "https://commons.wikimedia.org/wiki/File:Judarskogens_hundrastplats_2925_nov_01.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.059369,
+          59.320775
+        ]
+      },
+      "properties": {
+        "title": "File:Monteliusv\u00e4gens hundrastg\u00e5rd 05.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Monteliusv\u00e4gens_hundrastg\u00e5rd_05.jpg"
       }
     },
     {
@@ -2631,6 +2785,20 @@
       "properties": {
         "title": "File:Wollmar Yxkullsgatans hundrastg\u00e5rd 04.jpg",
         "url": "https://commons.wikimedia.org/wiki/File:Wollmar_Yxkullsgatans_hundrastg\u00e5rd_04.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.987056,
+          59.365314
+        ]
+      },
+      "properties": {
+        "title": "File:Kr\u00f6nets hundrastg\u00e5rd 2025 nov 05.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Kr\u00f6nets_hundrastg\u00e5rd_2025_nov_05.jpg"
       }
     },
     {
@@ -2890,6 +3058,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          17.915411,
+          59.394414
+        ]
+      },
+      "properties": {
+        "title": "File:Tensta hundrastg\u00e5rd 2025 nov 03.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Tensta_hundrastg\u00e5rd_2025_nov_03.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           17.859442,
           59.364228
         ]
@@ -2911,6 +3093,20 @@
       "properties": {
         "title": "File:Hjulsta hundrastg\u00e5rd 05.jpg",
         "url": "https://commons.wikimedia.org/wiki/File:Hjulsta_hundrastg\u00e5rd_05.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.915847,
+          59.394286
+        ]
+      },
+      "properties": {
+        "title": "File:Tensta hundrastg\u00e5rd 2025 nov 05.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Tensta_hundrastg\u00e5rd_2025_nov_05.jpg"
       }
     },
     {
@@ -3478,13 +3674,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.883242,
-          59.396419
+          17.987244,
+          59.365186
         ]
       },
       "properties": {
-        "title": "File:Hjulsta hundrastg\u00e5rd 01.jpg",
-        "url": "https://commons.wikimedia.org/wiki/File:Hjulsta_hundrastg\u00e5rd_01.jpg"
+        "title": "File:Kr\u00f6nets hundrastg\u00e5rd 2025 nov 02.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Kr\u00f6nets_hundrastg\u00e5rd_2025_nov_02.jpg"
       }
     },
     {
@@ -3618,6 +3814,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          17.987178,
+          59.365189
+        ]
+      },
+      "properties": {
+        "title": "File:Kr\u00f6nets hundrastg\u00e5rd 2025 nov 03.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Kr\u00f6nets_hundrastg\u00e5rd_2025_nov_03.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           17.876178,
           59.321483
         ]
@@ -3639,6 +3849,20 @@
       "properties": {
         "title": "File:\u00c4lvsborgsgatans hundrastplsts 04.jpg",
         "url": "https://commons.wikimedia.org/wiki/File:\u00c4lvsborgsgatans_hundrastplsts_04.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.923125,
+          59.388756
+        ]
+      },
+      "properties": {
+        "title": "File:Bredbykullens hundrastg\u00e5rd 2025 nov 03.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Bredbykullens_hundrastg\u00e5rd_2025_nov_03.jpg"
       }
     },
     {
@@ -3709,6 +3933,20 @@
       "properties": {
         "title": "File:Bromstens Hundpark 2025 nov - 7.jpg",
         "url": "https://commons.wikimedia.org/wiki/File:Bromstens_Hundpark_2025_nov_-_7.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9233,
+          59.388703
+        ]
+      },
+      "properties": {
+        "title": "File:Bredbykullens hundrastg\u00e5rd 2025 nov 04.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Bredbykullens_hundrastg\u00e5rd_2025_nov_04.jpg"
       }
     },
     {
@@ -3793,6 +4031,20 @@
       "properties": {
         "title": "File:Kontorsparkens Hundrastg\u00e5rd 07.jpg",
         "url": "https://commons.wikimedia.org/wiki/File:Kontorsparkens_Hundrastg\u00e5rd_07.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.922911,
+          59.388894
+        ]
+      },
+      "properties": {
+        "title": "File:Bredbykullens hundrastg\u00e5rd 2025 nov 01.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Bredbykullens_hundrastg\u00e5rd_2025_nov_01.jpg"
       }
     },
     {
@@ -3982,6 +4234,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          17.986958,
+          59.365444
+        ]
+      },
+      "properties": {
+        "title": "File:Kr\u00f6nets hundrastg\u00e5rd 2025 nov 04.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Kr\u00f6nets_hundrastg\u00e5rd_2025_nov_04.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           18.070803,
           59.339172
         ]
@@ -4017,20 +4283,6 @@
       "properties": {
         "title": "File:Husby hundrastg\u00e5rd, Stockholm 02.jpg",
         "url": "https://commons.wikimedia.org/wiki/File:Husby_hundrastg\u00e5rd,_Stockholm_02.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.952658,
-          59.375994
-        ]
-      },
-      "properties": {
-        "title": "File:Rissne\u00e4ngarna Hundrastg\u00e5rd 04.jpg",
-        "url": "https://commons.wikimedia.org/wiki/File:Rissne\u00e4ngarna_Hundrastg\u00e5rd_04.jpg"
       }
     },
     {
@@ -4227,6 +4479,20 @@
       "properties": {
         "title": "File:Hundrastg\u00e5rd - Tureberg 3 - 6.jpg",
         "url": "https://commons.wikimedia.org/wiki/File:Hundrastg\u00e5rd_-_Tureberg_3_-_6.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.915419,
+          59.394433
+        ]
+      },
+      "properties": {
+        "title": "File:Tensta hundrastg\u00e5rd 2025 nov 02.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Tensta_hundrastg\u00e5rd_2025_nov_02.jpg"
       }
     },
     {
@@ -4591,6 +4857,20 @@
       "properties": {
         "title": "File:Oxtungans hundg\u00e5rd H\u00e4sselby 04.jpg",
         "url": "https://commons.wikimedia.org/wiki/File:Oxtungans_hundg\u00e5rd_H\u00e4sselby_04.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.923411,
+          59.388694
+        ]
+      },
+      "properties": {
+        "title": "File:Bredbykullens hundrastg\u00e5rd 2025 nov 05.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Bredbykullens_hundrastg\u00e5rd_2025_nov_05.jpg"
       }
     },
     {

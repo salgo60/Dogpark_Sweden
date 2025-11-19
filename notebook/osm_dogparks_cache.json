@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-11-18T22:47:26Z",
-    "timestamp_areas_base": "2025-11-18T14:22:13Z",
+    "timestamp_osm_base": "2025-11-19T13:46:45Z",
+    "timestamp_areas_base": "2025-11-19T08:55:54Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1356,7 +1356,7 @@
         "small_dog": "shared",
         "surface": "grass",
         "website": "https://parker.stockholm/hundrastplatser/",
-        "wheelchair": "yes"
+        "wheelchair": "no"
       }
     },
     {
@@ -12921,6 +12921,102 @@
         "website": "https://parker.stockholm/hundrastplatser",
         "wheelchair": "yes",
         "wikimedia_commons": "Category:Lönnebergaparkens_hundrastpark"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1451840565,
+      "center": {
+        "lat": 59.3941681,
+        "lon": 17.9155277
+      },
+      "nodes": [
+        13315414782,
+        13315414783,
+        13315414784,
+        13315414785,
+        13315414786,
+        13315414787,
+        13315414788,
+        13315414789,
+        13315414782
+      ],
+      "tags": {
+        "access": "yes",
+        "barrier": "fence",
+        "check_date": "2025-11-19",
+        "height": "1.1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Tensta_hundrastg%C3%A5rd_2025_nov_01.jpg/2560px-Tensta_hundrastg%C3%A5rd_2025_nov_01.jpg",
+        "image:license": "CC0",
+        "leisure": "dog_park",
+        "lit": "no",
+        "name": "Tensta hundrastgård",
+        "opening_hours": "24/7",
+        "operator": "Stockholm kommun",
+        "operator:type": "public",
+        "small_dog": "shared",
+        "surface": "grass",
+        "website": "https://parker.stockholm/hundrastplatser/",
+        "wikimedia_commons": "Category:Tensta_hundrastgård"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1451967046,
+      "center": {
+        "lat": 59.3887788,
+        "lon": 17.9228788
+      },
+      "nodes": [
+        13316391666,
+        13316391667,
+        13316391668,
+        13316391669,
+        13316391670,
+        13316391666
+      ],
+      "tags": {
+        "barrier": "fence",
+        "dog": "unleashed",
+        "fence_type": "chain",
+        "height": "1.1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bredbykullens_hundrastg%C3%A5rd_2025_nov_09.jpg/2560px-Bredbykullens_hundrastg%C3%A5rd_2025_nov_09.jpg",
+        "image:license": "CC0",
+        "leisure": "dog_park",
+        "lit": "no",
+        "name": "Bredbykullens hundrastgård",
+        "opening_hours": "24/7",
+        "small_dog": "shared",
+        "website": "https://parker.stockholm/hundrastplatser/",
+        "wikimedia_commons": "Category:Bredbykullens_hundrastgård"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1451969576,
+      "center": {
+        "lat": 59.3653034,
+        "lon": 17.9869872
+      },
+      "nodes": [
+        13316490196,
+        13316490197,
+        13316490198,
+        13316490200,
+        13316490199,
+        13316490196
+      ],
+      "tags": {
+        "barrier": "yes",
+        "dog": "unleashed",
+        "fence_type": "chain",
+        "height": "1.1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Kr%C3%B6nets_hundrastg%C3%A5rd_2025_nov_02.jpg/2560px-Kr%C3%B6nets_hundrastg%C3%A5rd_2025_nov_02.jpg",
+        "image:license": "CC0",
+        "leisure": "dog_park",
+        "name": "Krönets hundrastgård",
+        "surface": "compacted",
+        "wikimedia_commons": "Category:Krönets_hundrastgård"
       }
     },
     {
