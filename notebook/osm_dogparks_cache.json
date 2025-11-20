@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-11-19T13:46:45Z",
-    "timestamp_areas_base": "2025-11-19T08:55:54Z",
+    "timestamp_osm_base": "2025-11-20T20:23:38Z",
+    "timestamp_areas_base": "2025-11-20T17:42:24Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2836,10 +2836,17 @@
         3447462553
       ],
       "tags": {
+        "barrier": "fence",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Huvudstaf%C3%A4ltets_hundrastg%C3%A5rd_2025_nov_02.jpg/2560px-Huvudstaf%C3%A4ltets_hundrastg%C3%A5rd_2025_nov_02.jpg",
+        "image:license": "CC0",
         "leisure": "dog_park",
+        "lit": "yes",
         "name": "Huvudstafältets hundrastgård",
+        "opening_hours": "24/7",
+        "small_dog": "shared",
         "website": "https://www.solna.se/uppleva--gora/natur-och-friluftsliv/hundrastgardar",
-        "wheelchair": "no"
+        "wheelchair": "no",
+        "wikimedia_commons": "Category:Huvudstafältets_hundrastgård"
       }
     },
     {
@@ -2878,20 +2885,32 @@
       "type": "way",
       "id": 341142554,
       "center": {
-        "lat": 59.3593543,
-        "lon": 17.9903033
+        "lat": 59.3591411,
+        "lon": 17.990405
       },
       "nodes": [
         3483614003,
+        13320044955,
         3483614004,
         3483614005,
+        13320044954,
+        13320044956,
+        13320044957,
         3483614003
       ],
       "tags": {
+        "barrier": "fence",
+        "dog": "unleashed",
+        "fence_type": "chain_link",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Skytteholmsf%C3%A4ltets_hundrastg%C3%A5rd_2025_nov_01.jpg/2560px-Skytteholmsf%C3%A4ltets_hundrastg%C3%A5rd_2025_nov_01.jpg",
+        "image:license": "CC0",
         "leisure": "dog_park",
         "name": "Skytteholmsfältets hundrastgård",
+        "opening_hours": "24/7",
+        "small_dog": "separate",
         "website": "https://www.solna.se/uppleva--gora/natur-och-friluftsliv/hundrastgardar",
-        "wheelchair": "limited"
+        "wheelchair": "limited",
+        "wikimedia_commons": "Category:Skytteholmsfältets_hundrastgård"
       }
     },
     {
@@ -8307,8 +8326,17 @@
         444859029
       ],
       "tags": {
+        "barrier": "fence",
+        "dog": "unleashed",
+        "fence_type": "chain_link",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Hagakullens_hundrastg%C3%A5rd.jpg/1280px-Hagakullens_hundrastg%C3%A5rd.jpg",
+        "image:license": "CC0",
         "leisure": "dog_park",
-        "name": "Hagakullens hundrastgård"
+        "mapillary": "2448757358615533",
+        "name": "Hagakullens hundrastgård",
+        "opening_hours": "24/7",
+        "website": "https://www.solna.se/uppleva--gora/natur-och-friluftsliv/hundrastgardar",
+        "wikimedia_commons": "Category:Hagakullens_hundrastgård"
       }
     },
     {
@@ -12675,6 +12703,7 @@
         "fenced": "yes",
         "leisure": "dog_park",
         "name": "Hundrastgård Västerled",
+        "opening_hours": "24/7",
         "operator": "Stockholms stad",
         "operator:type": "public",
         "website": "https://parker.stockholm/hundrastplatser/"
@@ -12987,6 +13016,7 @@
         "name": "Bredbykullens hundrastgård",
         "opening_hours": "24/7",
         "small_dog": "shared",
+        "surface": "ground",
         "website": "https://parker.stockholm/hundrastplatser/",
         "wikimedia_commons": "Category:Bredbykullens_hundrastgård"
       }
@@ -13017,6 +13047,39 @@
         "name": "Krönets hundrastgård",
         "surface": "compacted",
         "wikimedia_commons": "Category:Krönets_hundrastgård"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1452371399,
+      "center": {
+        "lat": 59.3447577,
+        "lon": 18.0018196
+      },
+      "nodes": [
+        13319504430,
+        13319504433,
+        13319504431,
+        13319504432,
+        13319504434,
+        9992384398,
+        13319504430
+      ],
+      "tags": {
+        "barrier": "fence",
+        "dog": "unleashed",
+        "fence_type": "chain_link",
+        "height": "1.1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Ekelunds_Hundrastg%C3%A5rd_2025_nov_2.jpg",
+        "image:license": "CC0",
+        "leisure": "dog_park",
+        "lit": "no",
+        "name": "Ekelunds Hundrastgård",
+        "opening_hours": "24/7",
+        "small_dog": "separate",
+        "surface": "sand",
+        "wheelchair": "yes",
+        "wikimedia_commons": "Category:Ekelunds_Hundrastgård"
       }
     },
     {
