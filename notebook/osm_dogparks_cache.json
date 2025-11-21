@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-11-20T20:23:38Z",
-    "timestamp_areas_base": "2025-11-20T17:42:24Z",
+    "timestamp_osm_base": "2025-11-21T16:12:08Z",
+    "timestamp_areas_base": "2025-11-21T11:18:51Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -12913,9 +12913,13 @@
         13305694865
       ],
       "tags": {
+        "barrier": "fence",
         "landuse": "grass",
         "leisure": "dog_park",
-        "name": "Svedens hundrastgård"
+        "name": "Svedens hundrastgård",
+        "opening_hours": "24/7",
+        "small_dog": "shared",
+        "website": "https://www.solna.se/uppleva--gora/natur-och-friluftsliv/hundrastgardar"
       }
     },
     {
