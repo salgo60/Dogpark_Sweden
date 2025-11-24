@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-11-21T16:12:08Z",
-    "timestamp_areas_base": "2025-11-21T11:18:51Z",
+    "timestamp_osm_base": "2025-11-24T12:10:35Z",
+    "timestamp_areas_base": "2025-11-24T08:05:11Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -99,7 +99,20 @@
       "lat": 59.1743151,
       "lon": 18.1713871,
       "tags": {
-        "leisure": "dog_park"
+        "access": "yes",
+        "barrier": "fence",
+        "dog": "unleashed",
+        "fence_type": "chain_link",
+        "height": "1.1",
+        "leisure": "dog_park",
+        "lit": "yes",
+        "name": "Brandbergen Minigolfen, hundrastgård",
+        "opening_hours": "24/7",
+        "operator": "Haninge kommun",
+        "operator:type": "public",
+        "small_dog": "shared",
+        "surface": "compacted",
+        "website": "https://www.haninge.se/hundar/"
       }
     },
     {
@@ -556,27 +569,6 @@
         "leisure": "dog_park",
         "name": "Kvarnholmens Hundrastgård",
         "website": "https://www.nacka.se/uppleva--gora/friluftsliv-motion/hundar-i-nacka/hundrastgardar/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 13204162650,
-      "lat": 59.4545379,
-      "lon": 17.8150045,
-      "tags": {
-        "access": "yes",
-        "description": "två hagar och agilityutrustning",
-        "dog:discipline:agility": "yes",
-        "fence_type": "chain_link",
-        "fenced": "yes",
-        "leisure": "dog_park",
-        "lit": "yes",
-        "name": "Kallhällsparkens Hundrastgård",
-        "operator": "Järfälla kommun",
-        "operator:type": "public",
-        "operator:wikidata": "Q301259",
-        "website": "https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/hundrastgardar.4.640dac6b1300db73e7c800017237.html",
-        "wheelchair": "no"
       }
     },
     {
@@ -2197,8 +2189,18 @@
         2431984489
       ],
       "tags": {
+        "access": "yes",
+        "barrier": "fence",
+        "description": "Observera att stängslet är ett vanligt fårstängsel och inte helt säkert för stora hundar som kan hoppa över. Parkeringsplatser finns i anslutning och även vid Furutorp.",
+        "dog": "unleashed",
+        "fence_type": "chain_link",
         "landuse": "grass",
-        "leisure": "dog_park"
+        "leisure": "dog_park",
+        "name": "Furutorp hundhage",
+        "opening_hours": "24/7",
+        "small_dog": "shared",
+        "website": "https://www.naturkartan.se/sv/stockholms-lan/hundhage-furutorp",
+        "wikimedia_commons": "Category:Furutorp_hundhage"
       }
     },
     {
@@ -8614,8 +8616,15 @@
         10139431736
       ],
       "tags": {
+        "barrier": "fence",
         "leisure": "dog_park",
         "name": "Södra parkens hundrastgård",
+        "opening_hours": "24/7",
+        "panoramax": "e8913f95-6081-4402-978a-fe0baec28d4f",
+        "panoramax:0": "e7669d3f-19b7-428f-8451-714ed20cb467",
+        "panoramax:1": "d012910b-a7e7-48a8-904d-40f3eeb7afee",
+        "panoramax:2": "a19aebe9-81b4-46ef-beb1-fa3f7846ed5b",
+        "small_dog": "shared",
         "website": "https://www.solna.se/uppleva--gora/natur-och-friluftsliv/hundrastgardar"
       }
     },
@@ -9667,8 +9676,18 @@
       ],
       "tags": {
         "barrier": "fence",
+        "dog": "unleashed",
+        "fence_type": "chain",
+        "height": "1.1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/J%C3%A4rvastadens_hundrastg%C3%A5rd_1_%28cropped%29.jpg",
         "leisure": "dog_park",
-        "wheelchair": "no"
+        "mapillary": "501535179098226",
+        "name": "Järvastadens hundrastgård",
+        "opening_hours": "24/7",
+        "small_dog": "shared",
+        "surface": "compacted",
+        "wheelchair": "no",
+        "wikimedia_commons": "Category:Järvastadens_hundrastgård"
       }
     },
     {
@@ -12898,14 +12917,14 @@
       "type": "way",
       "id": 1450788342,
       "center": {
-        "lat": 59.383135,
-        "lon": 18.037415
+        "lat": 59.3831432,
+        "lon": 18.0374085
       },
       "nodes": [
         13305694865,
-        13305694871,
-        13305694875,
-        13305694870,
+        13323285801,
+        13323285803,
+        13323285802,
         13305694866,
         13305694869,
         13305694868,
@@ -12914,12 +12933,18 @@
       ],
       "tags": {
         "barrier": "fence",
+        "dog": "unleashed",
+        "fence_type": "chain_link",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Svedens_hundrastg%C3%A5rd_2025_nov_04.jpg/2560px-Svedens_hundrastg%C3%A5rd_2025_nov_04.jpg",
+        "image:license": "CC0",
         "landuse": "grass",
         "leisure": "dog_park",
+        "lit": "limited",
         "name": "Svedens hundrastgård",
         "opening_hours": "24/7",
         "small_dog": "shared",
-        "website": "https://www.solna.se/uppleva--gora/natur-och-friluftsliv/hundrastgardar"
+        "website": "https://www.solna.se/uppleva--gora/natur-och-friluftsliv/hundrastgardar",
+        "wikimedia_commons": "Category:Svedens_hundrastgård"
       }
     },
     {
@@ -13084,6 +13109,115 @@
         "surface": "sand",
         "wheelchair": "yes",
         "wikimedia_commons": "Category:Ekelunds_Hundrastgård"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1452814628,
+      "center": {
+        "lat": 59.3671201,
+        "lon": 18.0013943
+      },
+      "nodes": [
+        13323788601,
+        13323788603,
+        13323788602,
+        13323788606,
+        13323788604,
+        13323788601
+      ],
+      "tags": {
+        "access": "official",
+        "barrier": "fence",
+        "dog": "unleashed",
+        "leisure": "dog_park",
+        "name": "Vasalunds hundrastgård",
+        "opening_hours": "24/7",
+        "operator": "Solna Kommun",
+        "panoramax": "8c1b0e75-c274-4363-b45c-3a3e90262ced",
+        "panoramax:0": "6b452f9e-5411-4cbb-9e01-53d91793d7e6",
+        "panoramax:1": "32252ef6-c636-4aea-8039-734f0f45b29c",
+        "panoramax:2": "b656a526-5086-4b10-9300-34f31b3e6bb5",
+        "small_dog": "shared",
+        "website": "https://www.solna.se/uppleva--gora/natur-och-friluftsliv/hundrastgardar",
+        "wikimedia_commons": "Common:Vasalunds_hundrastgård"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1452836181,
+      "center": {
+        "lat": 59.3788061,
+        "lon": 18.0046475
+      },
+      "nodes": [
+        13323994712,
+        13323994711,
+        13323994709,
+        13323994710,
+        13323994712
+      ],
+      "tags": {
+        "barrier": "fence",
+        "dog": "unleashed",
+        "height": "1.1",
+        "leisure": "dog_park",
+        "name": "Törnbackens hundrastgård",
+        "opening_hours": "24/7",
+        "operator": "Solna Kommun",
+        "panoramax": "24966873-d777-40f0-9144-ace679725be3",
+        "small_dog": "shared",
+        "surface": "compacted",
+        "website": "https://www.solna.se/uppleva--gora/natur-och-friluftsliv/hundrastgardar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1453162789,
+      "center": {
+        "lat": 59.4545288,
+        "lon": 17.8153807
+      },
+      "nodes": [
+        13326770472,
+        13326770473,
+        13326770474,
+        13326770475,
+        13326770476,
+        13326770477,
+        13326770481,
+        13326770478,
+        13326770480,
+        13326770479,
+        13326770472
+      ],
+      "tags": {
+        "access": "yes",
+        "barrier": "fence",
+        "description": "två hagar och agilityutrustning",
+        "dog": "unleashed",
+        "dog:discipline:agility": "yes",
+        "fence_type": "chain_link",
+        "fenced": "yes",
+        "height": "1.1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Kallh%C3%A4llsparkens_hundrastg%C3%A5rd_2025_nov_-_10.jpg/2560px-Kallh%C3%A4llsparkens_hundrastg%C3%A5rd_2025_nov_-_10.jpg",
+        "image:license": "CC0",
+        "leisure": "dog_park",
+        "lit": "yes",
+        "name": "Kallhällsparkens Hundrastgård",
+        "opening_hours": "24/7",
+        "operator": "Järfälla kommun",
+        "operator:type": "public",
+        "operator:wikidata": "Q301259",
+        "panoramax": "95a473a1-5189-4649-92fd-10908edc77f1",
+        "panoramax:0": "2c51e748-6e20-42b8-8ea5-eb39a8b974fe",
+        "panoramax:1": "f531eee3-5650-4a0f-8299-3b84b3a6a49b",
+        "panoramax:2": "e83282bc-b29e-4718-8f11-b090d0320747",
+        "panoramax:3": "6dedbe9c-bb6a-4388-991a-5ce453c3b234",
+        "small_dog": "separate",
+        "website": "https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/hundrastgardar.4.640dac6b1300db73e7c800017237.html",
+        "wheelchair": "no",
+        "wikimedia_commons": "Category:Kallhällsparkens_Hundrastgård"
       }
     },
     {
@@ -13689,9 +13823,13 @@
         }
       ],
       "tags": {
+        "barrier": "fence",
         "landuse": "grass",
         "leisure": "dog_park",
         "name": "Hundrastgård Bergshamra södra",
+        "opening_hours": "24/7",
+        "panoramax": "8fa4156e-fcf4-45b2-a3cd-ead5a730611d",
+        "small_dog": "shared",
         "type": "multipolygon"
       }
     }
