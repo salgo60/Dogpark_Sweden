@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-11-24T12:10:35Z",
-    "timestamp_areas_base": "2025-11-24T08:05:11Z",
+    "timestamp_osm_base": "2025-12-01T03:02:00Z",
+    "timestamp_areas_base": "2025-12-01T01:05:44Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2746,7 +2746,21 @@
         3283244527
       ],
       "tags": {
-        "leisure": "dog_park"
+        "access": "yes",
+        "barrier": "fence",
+        "dog": "unleashed",
+        "fence_type": "chain_link",
+        "height": "1.1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hundpark_-_V%C3%A4sterv%C3%A4gen_Emblav%C3%A4gen_Sollentuna_2025_nov_01.jpg/1280px-Hundpark_-_V%C3%A4sterv%C3%A4gen_Emblav%C3%A4gen_Sollentuna_2025_nov_01.jpg",
+        "image:license": "CC0",
+        "leisure": "dog_park",
+        "name": "Helenelund, Stupvägens hundrastplats",
+        "opening_hours": "24/7",
+        "operator": "Sollentuna kommun",
+        "operator:type": "public",
+        "small_dog": "shared",
+        "website": "https://www.sollentuna.se/hundrastgardar",
+        "wikimedia_commons": "Category:Stupvägens_hundrastplats"
       }
     },
     {
@@ -5516,8 +5530,19 @@
       ],
       "tags": {
         "barrier": "fence",
+        "dog": "unleashed",
+        "fence_type": "chain_link",
+        "height": "1.1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hundpark_-_V%C3%A4sterv%C3%A4gen_Emblav%C3%A4gen_2025_nov_Sollentuna_-6.jpg/1280px-Hundpark_-_V%C3%A4sterv%C3%A4gen_Emblav%C3%A4gen_2025_nov_Sollentuna_-6.jpg",
+        "image:license": "CC0",
         "leisure": "dog_park",
-        "wheelchair": "limited"
+        "name": "Hundpark - Västervägen/Emblavägen",
+        "opening_hours": "24/7",
+        "small_dog": "shared",
+        "surface": "grass",
+        "website": "https://www.sollentuna.se/uppleva--gora/idrott-motion-och-friluftsliv/hundrastgardar/",
+        "wheelchair": "limited",
+        "wikimedia_commons": "Category:Hundpark_-_Västervägen_Emblavägen"
       }
     },
     {
@@ -10932,11 +10957,14 @@
       "tags": {
         "description": "hundrastgård med badplats för hundar. Ligger nära terränghundrastgården. Följ gångvägen till höger om den, rakt neråt till vattnet. Det finns även en skylt med pil.",
         "fence": "yes",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hundrastplats_%C3%84ngsj%C3%B6_friluftsomr%C3%A5de_01.jpg/1280px-Hundrastplats_%C3%84ngsj%C3%B6_friluftsomr%C3%A5de_01.jpg",
         "leisure": "dog_park",
         "name": "Hundrastgård Ängsjö Hundbad - Järfälla",
         "surface": "gravel",
         "swimming:dog": "yes",
-        "website": "https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/hundrastgardar.4.640dac6b1300db73e7c800017237.html"
+        "website": "https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/hundrastgardar.4.640dac6b1300db73e7c800017237.html",
+        "wikidata": "Q106814682",
+        "wikimedia_commons": "Category:Hundrastgård_Ängsjö_Hundbad_-_Järfälla"
       }
     },
     {
@@ -13218,6 +13246,40 @@
         "website": "https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/hundrastgardar.4.640dac6b1300db73e7c800017237.html",
         "wheelchair": "no",
         "wikimedia_commons": "Category:Kallhällsparkens_Hundrastgård"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1454935913,
+      "center": {
+        "lat": 59.4433203,
+        "lon": 17.9255214
+      },
+      "nodes": [
+        13342734858,
+        13342734859,
+        13342734860,
+        13342734861,
+        13342734858
+      ],
+      "tags": {
+        "access": "yes",
+        "barrier": "fence",
+        "dog": "unleashed",
+        "fence_type": "chain_link",
+        "height": "1.1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hundrastg%C3%A5rd_Hammarbacken_2025_nov_Sollentuna_04.jpg/2560px-Hundrastg%C3%A5rd_Hammarbacken_2025_nov_Sollentuna_04.jpg",
+        "image:license": "CC0",
+        "leisure": "dog_park",
+        "name": "Hundrastgård Hammarbacken",
+        "opening_hours": "24/7",
+        "operator": "Sollentuna kommun",
+        "operator:type": "public",
+        "small_dog": "shared",
+        "surface": "compacted",
+        "website": "https://www.sollentuna.se/uppleva--gora/idrott-motion-och-friluftsliv/hundrastgardar/",
+        "wheelchair": "no",
+        "wikimedia_commons": "Category:Hundrastgård_Hammarbacken"
       }
     },
     {
